@@ -29,6 +29,7 @@ const IndexPage = () => (
           <li><a href="https://www.amazon.com/gift-cards/b/">Amazon Gift Card</a> - So I can purchase books on my Kindle account</li>
           <li><a href="https://www.amazon.com/All-new-Kindle-Oasis-adjustable-auto-renewal/dp/B07VDMJJLG/">Kindle Oasis, Graphite</a></li>
           <li><a href="https://acaia.co/collections/coffee-scales/products/pearl?variant=3791487303703">Acaia Pearl, Black</a></li>
+          <li><a href="https://www.apple.com/shop/buy-homepod/homepod-mini">HomePod mini, Space Gray</a></li>
         </ul>
         <h3>Developer Things</h3>
         <ul className="list">
@@ -40,6 +41,7 @@ const IndexPage = () => (
           <li><a href="https://blackwing602.com/collections/pencils/products/blackwing-natural-set-of-12">Blackwing Natural Pencils</a></li>
           <li><a href="https://www.yubico.com/product/yubikey-5c-nfc/">YubiKey 5C NFC</a></li>
           <li><a href="https://www.samsung.com/us/computing/memory-storage/portable-solid-state-drives/portable-ssd-t7-usb-3-2-500gb--gray--mu-pc500t-am/">Portable SSD T7, Gray</a> - Need to revisit this because I want to find a USB-C model</li>
+          <li><a href="https://store.hermanmiller.com/office/office-chairs/aeron-chair/2195348.html">Herman Miller Aeron Chair</a></li>
         </ul>
       </div>
     </main>
