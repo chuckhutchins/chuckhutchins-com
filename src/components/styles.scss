@@ -110,12 +110,7 @@ footer {
 main {
   grid-area: main;
   display: grid;
-  grid-template-areas: 'mission' 'hr1' 'experience' 'hr2' 'skills' 'hr3' 'training' 'hr4' 'education';
   grid-gap: 2rem;
-  @media (min-width: 600px) {
-    grid-template-areas: 'mission mission' 'hr1 hr1' 'experience experience' 'hr2 hr2' 'skills skills' 'hr3 hr3' 'training education';
-    grid-template-columns: repeat(2, 1fr);
-  }
 }
 
 .haunts {
@@ -136,22 +131,33 @@ main {
   }
 }
 
-
+.homepage {
+  grid-template-areas: 'mission' 'hr1' 'experience' 'hr2' 'skills' 'hr3' 'training' 'hr4' 'education';
+  @media (min-width: 600px) {
+    grid-template-areas: 'mission mission' 'hr1 hr1' 'experience experience' 'hr2 hr2' 'skills skills' 'hr3 hr3' 'training education';
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
 .mission {
   grid-area: mission;
   padding: 3rem;
   background-image: linear-gradient(135deg, #dddddd 7.14%, transparent 7.14%, transparent 50%, #dddddd 50%, #dddddd 57.14%, transparent 57.14%, transparent 100%);
   background-size: 1.75rem 1.75rem;
-}
-.mission h2 {
-  font-size: 2rem;
-  text-shadow: 0 1px 2px rgba(0,0,0,.3);
+
+  h2 {
+    font-size: 2rem;
+    text-shadow: 0 1px 2px rgba(0,0,0,.3);
+  }
 }
 .experience {
   grid-area: experience;
-}
-.experience .entry {
-  margin: 1.5rem 0;
+
+  .entry {
+    margin: 1.5rem 0;
+    &:last-of-type {
+      margin-bottom: 0;
+    }
+  }
 }
 .skills {
   grid-area: skills;
@@ -160,12 +166,21 @@ main {
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 1.5rem 2rem;
   }
-}
-.skills h2 {
-  grid-column: span 2;
-}
-.skills ul + h3 {
-  margin-top: 1.5rem;
+
+  .entry {
+    margin: 1.5rem 0;
+    @media (min-width: 600px) {
+      margin: 0;
+    }
+  }
+
+  h2 {
+    grid-column: span 2;
+  }
+
+  ul + h3 {
+    margin-top: 1.5rem;
+  }
 }
 .training {
   grid-area: training;

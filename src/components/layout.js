@@ -17,7 +17,7 @@ const Layout = ({ children }) => {
   return (
     <section className="container">
       <Header />
-      <main>{children}</main>
+      {children}
       <Footer />
     </section>
   )
