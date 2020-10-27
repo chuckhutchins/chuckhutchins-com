@@ -22,24 +22,28 @@ const IndexPage = () => (
           </ul>
         </div>
         <div className="entry">
+          <h3>Front-End Developer</h3>
+          <ul>
+            <li>Nextep Solutions</li>
+            <li>March 2020 &ndash; May 2020</li>
+          </ul>
+        </div>
+        <div className="entry">
           <h3>Lead Front-End Developer</h3>
           <ul>
             <li>Art Van Furniture</li>
             <li>January 2019 &ndash; February 2020</li>
           </ul>
           <ul className="list">
-            <li>Creates and maintains custom responsive web design framework for rapid prototyping and finished product
-              delivery across all device types
+            <li>Created and maintained custom responsive web design framework for rapid prototyping and finished product delivery across all device types
             </li>
-            <li>Works as technical member/resource on cross-functional teams addressing new and existing web, marketing,
-              and product initiatives
+            <li>Worked as technical member/resource on cross-functional teams addressing new and existing web, marketing, and product initiatives
             </li>
-            <li>Maintains website style guide, enabling other developers and UX designers to produce consist and compliant
-              user experiences
+            <li>Maintained website style guide, enabling other developers and UX designers to produce consist and compliant user experiences
             </li>
-            <li>Integrates ADA compliant markup and semantic HTML into new and existing code templates and modules</li>
-            <li>Establishes process and code standards for day-to-day promotional content on the website</li>
-            <li>Trains new team members on development and design processes and tools</li>
+            <li>Integrated ADA compliant markup and semantic HTML into new and existing code templates and modules</li>
+            <li>Established process and code standards for day-to-day promotional content on the website</li>
+            <li>Trained new team members on development and design processes and tools</li>
             <li>Responsible for cross-browser/device testing/QA/UAT and internal development team code reviews</li>
           </ul>
         </div>
@@ -111,8 +115,8 @@ const IndexPage = () => (
       <div className="training">
         <h2>Training</h2>
         <ul className="list">
+          <li>Deque University Web Accessibility Curriculum 2.0, 2020</li>
           <li>Developing for Salesforce B2C Commerce: CCD 101, 2019</li>
-          <li>Deque University Accessibility Fundamentals Certification, 2019</li>
           <li>An Event Apart: Seattle, 2018</li>
         </ul>
       </div>
