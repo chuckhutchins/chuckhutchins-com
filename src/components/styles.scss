@@ -13,7 +13,7 @@ body {
   margin: 0;
   background: url('../images/bg-light.png') center;
 }
-h1, h2, h3, p, li, a {
+h1, h2, h3, h4, p, li, a {
   margin: 0;
   letter-spacing: -.0125em;
 }
@@ -31,6 +31,10 @@ h2 {
 h3 {
   font-size: 1.125rem;
   line-height: 1.125;
+}
+h4 {
+  font-size: 1rem;
+  line-height: 1.25;
 }
 p {
   margin-bottom: 1rem;
@@ -52,6 +56,11 @@ a {
   &:visited {
     color: #444;
   }
+}
+img {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
 }
 ul {
   margin: 0;
@@ -215,6 +224,44 @@ main {
     margin-bottom: 1rem;
     &:last-of-type {
       margin-bottom: 0;
+    }
+  }
+
+  .product__container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1rem;
+
+    @media (min-width: 600px) {
+      grid-template-columns: repeat(3, 1fr);
+    }
+
+    a {
+      display: block;
+      border-bottom: none;
+
+      &:hover,
+      &:focus {
+        img {
+          background: linear-gradient(-45deg, #ffa745 0%, #fe869f 30%, #ef7ac8 45%, #a083ed 70%, #43aeff 85%);
+          //background: linear-gradient(-45deg, #fc5c7d 0%, #6a82fb 100%);
+        }
+
+        h4 {
+          border-bottom-color: transparent;
+        }
+      }
+
+      img {
+        margin-bottom: .25rem;
+        background: #ddd;
+        border-radius: .125rem;
+      }
+
+      h4 {
+        display: inline;
+        border-bottom: .125rem dotted;
+      }
     }
   }
 }
