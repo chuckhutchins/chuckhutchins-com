@@ -18,9 +18,10 @@ const IndexPage = () => (
         <ul className="product__container">
           <li>
             <a href="https://www.fjallraven.com/us/en-us/bags-gear/accessories/backpack-bag-accessories/kanken-organizer">
-              <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604359037/chuckhutchins/kanken-organizer-fog_ejjusb.png" alt=""/>
+              <div>
+                <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604359037/chuckhutchins/kanken-organizer-fog_m6fvet.png" alt=""/>
+              </div>
               <h4>Kånken Organizer, Fog</h4>
-              <p>Because they don't have black :(</p>
             </a>
           </li>
           <li>
@@ -33,14 +34,12 @@ const IndexPage = () => (
             <a href="https://www.fjallraven.com/us/en-us/bags-gear/accessories/travel-accessories/zip-card-holder">
               <img src="https://placehold.it/330x330" alt=""/>
               <h4>Zip Card Holder, Dark Grey</h4>
-              <p>This is so I can store emergency cash and/or "conditional" cards in my backpack</p>
             </a>
           </li>
           <li>
             <a href="https://www.fjallraven.com/us/en-us/bags-gear/accessories/travel-accessories/leather-luggage-tag">
               <img src="https://placehold.it/330x330" alt=""/>
               <h4>Leather Luggage Tag, Black</h4>
-              <p>If we ever get to travel again</p>
             </a>
           </li>
           <li>
@@ -53,7 +52,6 @@ const IndexPage = () => (
             <a href="https://www.vizio.com/tvs/p659g1.html">
               <img src="https://placehold.it/330x330" alt=""/>
               <h4>Vizio P-Series Quantum 65" Class 4K HDR Smart TV, P659-H1</h4>
-              <p>I need to do more TV research because I bookmarked this a long time ago</p>
             </a>
           </li>
           <li>
@@ -84,7 +82,6 @@ const IndexPage = () => (
             <a href="https://www.amazon.com/gift-cards/b/">
               <img src="https://placehold.it/330x330" alt=""/>
               <h4>Amazon Gift Card</h4>
-              <p>So I can purchase books on my Kindle account</p>
             </a>
           </li>
           <li>
@@ -112,14 +109,12 @@ const IndexPage = () => (
             <a href="https://mastergatsby.com/">
               <img src="https://placehold.it/330x330" alt=""/>
               <h4>Master Gatsby Course</h4>
-              <p>I will be buying this so it links to my account</p>
             </a>
           </li>
           <li>
             <a href="https://www.macbartender.com/">
               <img src="https://placehold.it/330x330" alt=""/>
               <h4>Bartender 3</h4>
-              <p>I will be buying this so it links to my account</p>
           </a>
           </li>
         </ul>
@@ -141,7 +136,6 @@ const IndexPage = () => (
             <a href="https://www.samsung.com/us/computing/memory-storage/portable-solid-state-drives/portable-ssd-t7-usb-3-2-500gb--gray--mu-pc500t-am/">
               <img src="https://placehold.it/330x330" alt=""/>
               <h4>Portable SSD T7, Gray</h4>
-              <p>Need to revisit this because I want to find a USB-C model</p>
           </a>
           </li>
           <li>
