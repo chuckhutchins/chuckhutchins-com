@@ -210,6 +210,16 @@ const IndexPage = () => (
       <div>
         <p>* If you order the Aeropress from <a href="https://www.frenchpresscoffee.com/collections/french-press/products/aeropress-coffee-and-espresso-maker">FrenchPressCoffee.com</a>, it looks like they throw in the bamboo coffee paddle for free. I think it's about the same price for the Aeropress, you just get the $6 paddle for free.</p>
       </div>
+      <div className="hr--mini" />
+      <div>
+        <h2>Changelog</h2>
+        <ul className="list">
+          <li>2020-11-07 &ndash; Added changelog.</li>
+          <li>2020-11-07 &ndash; Added Bamboo Coffee Paddle and Novel Duffel.</li>
+          <li>2020-11-06 &ndash; Added Aeropress and Weighted Sleep Mask.</li>
+          <li>2020-11-06 &ndash; Initial wishlist launch.</li>
+        </ul>
+      </div>
     </main>
   </Layout>
 )
