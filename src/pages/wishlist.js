@@ -20,11 +20,19 @@ const IndexPage = () => (
         <h3 aria-label="$24 and under">$</h3>
         <ul className="product__container">
           <li>
-            <a href="https://www.amazon.com/gift-cards/b/">
+            <a href="https://www.amazon.com/gift-cards/">
               <div>
                 <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/amazon-gift-card_cwgy6w.png" alt=""/>
               </div>
               <h4>Amazon Gift Card</h4>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.frenchpresscoffee.com/products/coffee-stir-paddle-french-press">
+              <div>
+                <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604755428/chuckhutchins/wishlist/bamboo-coffee-paddle_ojw1oe.png" alt=""/>
+              </div>
+              <h4>Bamboo Coffee Paddle*</h4>
             </a>
           </li>
           {/*<li>*/}
@@ -75,7 +83,7 @@ const IndexPage = () => (
               <div>
                 <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604698796/chuckhutchins/wishlist/aeropress_t5syyq.png" alt=""/>
               </div>
-              <h4>Aeropress</h4>
+              <h4>Aeropress*</h4>
             </a>
           </li>
           <li>
@@ -102,6 +110,14 @@ const IndexPage = () => (
           {/*    <h4>Master Gatsby Course</h4>*/}
           {/*  </a>*/}
           {/*</li>*/}
+          <li>
+            <a href="https://herschel.com/shop/duffles/novel-duffle?v=10026-00535-OS">
+              <div>
+                <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604758897/chuckhutchins/wishlist/novel-duffle-black_kody3w.png" alt=""/>
+              </div>
+              <h4>Novel Duffle, Black</h4>
+            </a>
+          </li>
           <li>
             <a href="https://openseadesignco.com/collections/art-prints/products/rebirth">
               <div>
@@ -189,6 +205,10 @@ const IndexPage = () => (
             </a>
           </li>
         </ul>
+      </div>
+      <div className="hr--mini" />
+      <div>
+        <p>* If you order the Aeropress from <a href="https://www.frenchpresscoffee.com/collections/french-press/products/aeropress-coffee-and-espresso-maker">FrenchPressCoffee.com</a>, it looks like they throw in the bamboo coffee paddle for free. I think it's about the same price for the Aeropress, you just get the $6 paddle for free.</p>
       </div>
     </main>
   </Layout>
