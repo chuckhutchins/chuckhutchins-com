@@ -12,8 +12,7 @@ const IndexPage = () => (
         <p>Don't worry, folks. I know you're ready to spend your hard-earned money on me. Here are a few ideas to get you started.</p>
         <p>One of the downsides to not using some massive conglomerate that sells everything from A to Z (including your data) is that there's no good way to tell what has been purchased by others. Well, only a few of you know about the link to this page, so you guys can work it out amongst yourselves. That's an early gift from me to you.</p>
         <p>One last note: you can get a lot of these things anywhere. I just linked to their "official" sources, but some of these can be gotten on Amazon or at Meijer or something.</p>
-        <p>One more last note (about the weighted sleep mask): I really just want a sleep mask. I take a nap every single weekday during lunch, and I am currently using the sleeve of one of my flannels. Not super ideal. Or effective. I just linked the weighted one from Gravity because it's intriguing. But if you get a normal one, that's fine too.</p>
-        <p>Last note part three: I'm super fortunate and also don't really _need_ anything, so please consider a donation to a charity or non-profit to help those who do. If you want to donate to a web development cause, I would recommend <a href="https://girlswhocode.com/">Girls Who Code</a> or <a href="https://www.freecodecamp.org/donate">freeCodeCamp</a> or something.</p>
+        <p>One more last note: I'm super fortunate and also don't really _need_ anything, so please consider a donation to a charity or non-profit to help those who do. If you want to donate to a web development cause, I would recommend <a href="https://girlswhocode.com/">Girls Who Code</a> or <a href="https://www.freecodecamp.org/donate">freeCodeCamp</a> or something.</p>
       </div>
       <div className="hr--mini" />
       <div>
@@ -32,7 +31,7 @@ const IndexPage = () => (
               <div>
                 <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604755428/chuckhutchins/wishlist/bamboo-coffee-paddle_ojw1oe.png" alt=""/>
               </div>
-              <h4>Bamboo Coffee Paddle*</h4>
+              <h4>Bamboo Coffee Paddle<sup>1</sup></h4>
             </a>
           </li>
           {/*<li>*/}
@@ -83,7 +82,7 @@ const IndexPage = () => (
               <div>
                 <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604698796/chuckhutchins/wishlist/aeropress_t5syyq.png" alt=""/>
               </div>
-              <h4>Aeropress*</h4>
+              <h4>Aeropress<sup>1</sup></h4>
             </a>
           </li>
           <li>
@@ -131,7 +130,7 @@ const IndexPage = () => (
               <div>
                 <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604698797/chuckhutchins/wishlist/weighted-sleep-mask_ruex0e.png" alt=""/>
               </div>
-              <h4>Weighted Sleep Mask</h4>
+              <h4>Sleep Mask<sup>2</sup></h4>
             </a>
           </li>
           <li>
@@ -208,12 +207,14 @@ const IndexPage = () => (
       </div>
       <div className="hr--mini" />
       <div>
-        <p>* If you order the Aeropress from <a href="https://www.frenchpresscoffee.com/collections/french-press/products/aeropress-coffee-and-espresso-maker">FrenchPressCoffee.com</a>, it looks like they throw in the bamboo coffee paddle for free. I think it's about the same price for the Aeropress, you just get the $6 paddle for free.</p>
+        <p>1: If you order the Aeropress from <a href="https://www.frenchpresscoffee.com/collections/french-press/products/aeropress-coffee-and-espresso-maker">FrenchPressCoffee.com</a>, it looks like they throw in the bamboo coffee paddle for free. I think it's about the same price for the Aeropress, you just get the $6 paddle for free.</p>
+        <p>2: I really just want a sleep mask. I take a nap just about every single day during lunch, and I am currently using the sleeve of one of my flannels. Not super ideal. Or effective. I just linked the weighted one from Gravity because it's intriguing. But if you get a normal one, that's fine too.</p>
       </div>
       <div className="hr--mini" />
       <div>
         <h2>Changelog</h2>
         <ul className="list">
+          <li>2020-11-07 &ndash; Moved sleep mask from copy down to footnotes. Changed footnote asterisks to numbers.</li>
           <li>2020-11-07 &ndash; Added changelog.</li>
           <li>2020-11-07 &ndash; Added Bamboo Coffee Paddle and Novel Duffel.</li>
           <li>2020-11-06 &ndash; Added Aeropress and Weighted Sleep Mask.</li>
