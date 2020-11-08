@@ -2,6 +2,7 @@ import React from "react"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import WishlistProduct from "../components/wishlist-product"
 
 const IndexPage = () => (
   <Layout>
@@ -18,191 +19,128 @@ const IndexPage = () => (
       <div>
         <h3 aria-label="$24 and under">$</h3>
         <ul className="product__container">
-          <li>
-            <a href="https://www.amazon.com/gift-cards/">
-              <div>
-                <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/amazon-gift-card_cwgy6w.png" alt=""/>
-              </div>
-              <h4>Amazon Gift Card</h4>
-            </a>
-          </li>
-          <li>
-            <a href="https://www.frenchpresscoffee.com/products/coffee-stir-paddle-french-press">
-              <div>
-                <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604755428/chuckhutchins/wishlist/bamboo-coffee-paddle_ojw1oe.png" alt=""/>
-              </div>
-              <h4>Bamboo Coffee Paddle<sup>1</sup></h4>
-            </a>
-          </li>
-          {/*<li>*/}
-          {/*  <a href="https://www.macbartender.com/Bartender4/">*/}
-          {/*    <div>*/}
-          {/*      <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604691632/chuckhutchins/wishlist/bartender-4_vhh4fb.png" alt=""/>*/}
-          {/*    </div>*/}
-          {/*    <h4>Bartender 4</h4>*/}
-          {/*  </a>*/}
-          {/*</li>*/}
-          {/*<li>*/}
-          {/*  <a href="https://blackwing602.com/collections/pencils/products/blackwing-natural-set-of-12">*/}
-          {/*    <div>*/}
-          {/*      <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/blackwing-natural-pencils_ogex2u.png" alt=""/>*/}
-          {/*    </div>*/}
-          {/*    <h4>Blackwing Natural Pencils</h4>*/}
-          {/*  </a>*/}
-          {/*</li>*/}
-          <li>
-            <a href="https://www.google.com/search?q=butchers+near+me">
-              <div>
-                <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604691632/chuckhutchins/wishlist/delicious-meats_ec45nr.png" alt=""/>
-              </div>
-              <h4>Delicious Meats</h4>
-            </a>
-          </li>
-          <li>
-            <a href="https://www.nintendo.com/giftcards/">
-              <div>
-                <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604691632/chuckhutchins/wishlist/nintendo-eshop-gift-card_mmiz24.png" alt=""/>
-              </div>
-              <h4>Nintendo eShop Card</h4>
-            </a>
-          </li>
-          <li>
-            <a href="https://www.google.com/search?q=coffee+roasters+near+me">
-              <div>
-                <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604691632/chuckhutchins/wishlist/whole-bean-dark-roast-coffee_sktwuj.png" alt=""/>
-              </div>
-              <h4>Whole Bean Dark Roast Coffee</h4>
-            </a>
-          </li>
+          <WishlistProduct
+            link="https://www.amazon.com/gift-cards/"
+            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/amazon-gift-card_cwgy6w.png"
+            name="Amazon Gift Card"
+          />
+          <WishlistProduct
+            link="https://www.frenchpresscoffee.com/products/coffee-stir-paddle-french-press"
+            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604755428/chuckhutchins/wishlist/bamboo-coffee-paddle_ojw1oe.png"
+            name="Bamboo Coffee Paddle"
+            footnote="1"
+          />
+          {/*<WishlistProduct */}
+          {/*  link="https://www.macbartender.com/Bartender4/" */}
+          {/*  image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604691632/chuckhutchins/wishlist/bartender-4_vhh4fb.png" */}
+          {/*  name="Bartender 4" */}
+          {/*/>*/}
+          {/*<WishlistProduct */}
+          {/*  link="https://blackwing602.com/collections/pencils/products/blackwing-natural-set-of-12" */}
+          {/*  image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/blackwing-natural-pencils_ogex2u.png" */}
+          {/*  name="Blackwing Natural Pencils" */}
+          {/*/>*/}
+          <WishlistProduct
+            link="https://www.google.com/search?q=butchers+near+me"
+            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604691632/chuckhutchins/wishlist/delicious-meats_ec45nr.png"
+            name="Delicious Meats"
+          />
+          <WishlistProduct
+            link="https://www.nintendo.com/giftcards/"
+            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604691632/chuckhutchins/wishlist/nintendo-eshop-gift-card_mmiz24.png"
+            name="Nintendo eShop Card"
+          />
+          <WishlistProduct
+            link="https://www.google.com/search?q=coffee+roasters+near+me"
+            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604691632/chuckhutchins/wishlist/whole-bean-dark-roast-coffee_sktwuj.png"
+            name="Whole Bean Dark Roast Coffee"
+          />
         </ul>
         <h3 aria-label="$25 to $99">$$</h3>
         <ul className="product__container">
-          <li>
-            <a href="https://aeropress.com/product/aeropress-coffee-maker/">
-              <div>
-                <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604698796/chuckhutchins/wishlist/aeropress_t5syyq.png" alt=""/>
-              </div>
-              <h4>Aeropress<sup>1</sup></h4>
-            </a>
-          </li>
-          <li>
-            <a href="https://www.apple.com/shop/buy-homepod/homepod-mini/space-gray">
-              <div>
-                <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/homepod-mini_fakxjr.png" alt=""/>
-              </div>
-              <h4>HomePod mini, Space Gray</h4>
-            </a>
-          </li>
-          <li>
-            <a href="https://www.fjallraven.com/us/en-us/bags-gear/accessories/backpack-bag-accessories/kanken-organizer">
-              <div>
-                <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/kanken-organzier-fog_noobdk.png" alt=""/>
-              </div>
-              <h4>Kånken Organizer, Fog</h4>
-            </a>
-          </li>
-          {/*<li>*/}
-          {/*  <a href="https://mastergatsby.com/">*/}
-          {/*    <div>*/}
-          {/*      <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604691632/chuckhutchins/wishlist/master-gatsby_we9t1k.png" alt=""/>*/}
-          {/*    </div>*/}
-          {/*    <h4>Master Gatsby Course</h4>*/}
-          {/*  </a>*/}
-          {/*</li>*/}
-          <li>
-            <a href="https://herschel.com/shop/duffles/novel-duffle?v=10026-00535-OS">
-              <div>
-                <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604758897/chuckhutchins/wishlist/novel-duffle-black_kody3w.png" alt=""/>
-              </div>
-              <h4>Novel Duffle, Black</h4>
-            </a>
-          </li>
-          <li>
-            <a href="https://openseadesignco.com/collections/art-prints/products/rebirth">
-              <div>
-                <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/rebirth-print_y6dboj.png" alt=""/>
-              </div>
-              <h4>Rebirth Print</h4>
-            </a>
-          </li>
-          <li>
-            <a href="https://gravityblankets.com/products/the-gravity-sleep-mask">
-              <div>
-                <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604698797/chuckhutchins/wishlist/weighted-sleep-mask_ruex0e.png" alt=""/>
-              </div>
-              <h4>Sleep Mask<sup>2</sup></h4>
-            </a>
-          </li>
-          <li>
-            <a href="https://www.yubico.com/product/yubikey-5c-nfc/">
-              <div>
-                <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/yubikey-5c-nfc_fknwmn.png" alt=""/>
-              </div>
-              <h4>YubiKey 5C NFC</h4>
-            </a>
-          </li>
-          <li>
-            <a href="https://www.fjallraven.com/us/en-us/bags-gear/accessories/travel-accessories/zip-card-holder">
-              <div>
-                <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/zip-card-holder-dark-grey_uck0xi.png" alt=""/>
-              </div>
-              <h4>Zip Card Holder, Dark Grey</h4>
-            </a>
-          </li>
+          <WishlistProduct
+            link="https://aeropress.com/product/aeropress-coffee-maker/"
+            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604698796/chuckhutchins/wishlist/aeropress_t5syyq.png"
+            name="Aeropress"
+            footnote="1"
+          />
+          <WishlistProduct
+            link="https://www.apple.com/shop/buy-homepod/homepod-mini/space-gray"
+            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/homepod-mini_fakxjr.png"
+            name="HomePod mini, Space Gray"
+          />
+          <WishlistProduct
+            link="https://www.fjallraven.com/us/en-us/bags-gear/accessories/backpack-bag-accessories/kanken-organizer"
+            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/kanken-organzier-fog_noobdk.png"
+            name="Kånken Organizer, Fog"
+          />
+          {/*<WishlistProduct*/}
+          {/*  link="https://mastergatsby.com/"*/}
+          {/*  image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604691632/chuckhutchins/wishlist/master-gatsby_we9t1k.png"*/}
+          {/*  name="Master Gatsby Course"*/}
+          {/*/>*/}
+          <WishlistProduct
+            link="https://herschel.com/shop/duffles/novel-duffle?v=10026-00535-OS"
+            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604758897/chuckhutchins/wishlist/novel-duffle-black_kody3w.png"
+            name="Novel Duffle, Black"
+          />
+          <WishlistProduct
+            link="https://openseadesignco.com/collections/art-prints/products/rebirth"
+            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/rebirth-print_y6dboj.png"
+            name="Rebirth Print"
+          />
+          <WishlistProduct
+            link="https://gravityblankets.com/products/the-gravity-sleep-mask"
+            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604698797/chuckhutchins/wishlist/weighted-sleep-mask_ruex0e.png"
+            name="Sleep Mask"
+            footnote="2"
+          />
+          <WishlistProduct
+            link="https://www.yubico.com/product/yubikey-5c-nfc/"
+            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/yubikey-5c-nfc_fknwmn.png"
+            name="YubiKey 5C NFC"
+          />
+          <WishlistProduct
+            link="https://www.fjallraven.com/us/en-us/bags-gear/accessories/travel-accessories/zip-card-holder"
+            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/zip-card-holder-dark-grey_uck0xi.png"
+            name="Zip Card Holder, Dark Grey"
+          />
         </ul>
         <h3 aria-label="$100 to $249">$$$</h3>
         <ul className="product__container">
-          <li>
-            <a href="https://acaia.co/collections/coffee-scales/products/pearl?variant=3791487303703">
-              <div>
-                <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/acaia-pearl-black_oivrz8.png" alt=""/>
-              </div>
-              <h4>Acaia Pearl, Black</h4>
-            </a>
-          </li>
-          <li>
-            <a href="https://www.amazon.com/All-new-Kindle-Oasis-adjustable-auto-renewal/dp/B07VDMJJLG/">
-              <div>
-                <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/kindle-oasis_yiorai.png" alt=""/>
-              </div>
-              <h4>Kindle Oasis, Graphite</h4>
-            </a>
-          </li>
-          {/*<li>*/}
-          {/*  <a href="https://www.rei.com/product/128052/nemo-stargaze-recliner-luxury-chair">*/}
-          {/*    <div>*/}
-          {/*      <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604667256/chuckhutchins/wishlist/nemo-stargaze-recliner-luxury-chair-graphite-smoke_jkzgfn.png" alt=""/>*/}
-          {/*    </div>*/}
-          {/*    <h4>Nemo Stargaze Recliner Luxury Chair, Graphite/Smoke</h4>*/}
-          {/*  </a>*/}
-          {/*</li>*/}
+          <WishlistProduct
+            link="https://acaia.co/collections/coffee-scales/products/pearl?variant=3791487303703"
+            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/acaia-pearl-black_oivrz8.png"
+            name="Acaia Pearl, Black"
+          />
+          <WishlistProduct
+            link="https://www.amazon.com/All-new-Kindle-Oasis-adjustable-auto-renewal/dp/B07VDMJJLG/"
+            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/kindle-oasis_yiorai.png"
+            name="Kindle Oasis, Graphite"
+          />
+          {/*<WishlistProduct*/}
+          {/*  link="https://www.rei.com/product/128052/nemo-stargaze-recliner-luxury-chair"*/}
+          {/*  image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604667256/chuckhutchins/wishlist/nemo-stargaze-recliner-luxury-chair-graphite-smoke_jkzgfn.png"*/}
+          {/*  name="Nemo Stargaze Recliner Luxury Chair, Graphite/Smoke"*/}
+          {/*/>*/}
         </ul>
         <h3 aria-label="$250 and over">$$$$</h3>
         <ul className="product__container">
-          <li>
-            <a href="https://store.hermanmiller.com/office/office-chairs/aeron-chair/2195348.html">
-              <div>
-                <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604667256/chuckhutchins/wishlist/herman-miller-aeron-chair_qudewg.png" alt=""/>
-              </div>
-              <h4>Herman Miller Aeron Chair</h4>
-            </a>
-          </li>
-          <li>
-            <a href="https://www.vizio.com/en/tv/p-series/P65QX-H1">
-              <div>
-                <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/p-series-quantum-x-4k-hdr-smart-tv-p65qx-h1_jbcizo.png" alt=""/>
-              </div>
-              <h4>P-Series Quantum X 4K HDR Smart TV, P65QX-H1</h4>
-            </a>
-          </li>
-          <li>
-            <a href="https://www.vanmoof.com/en-US/s3?color=dark">
-              <div>
-                <img src="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/vanmoof-s3_ywqduk.png" alt=""/>
-              </div>
-              <h4>VanMoof S3</h4>
-            </a>
-          </li>
+          <WishlistProduct
+            link="https://store.hermanmiller.com/office/office-chairs/aeron-chair/2195348.html"
+            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604667256/chuckhutchins/wishlist/herman-miller-aeron-chair_qudewg.png"
+            name="Herman Miller Aeron Chair"
+          />
+          <WishlistProduct
+            link="https://www.vizio.com/en/tv/p-series/P65QX-H1"
+            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/p-series-quantum-x-4k-hdr-smart-tv-p65qx-h1_jbcizo.png"
+            name="P-Series Quantum X 4K HDR Smart TV, P65QX-H1"
+          />
+          <WishlistProduct
+            link="https://www.vanmoof.com/en-US/s3?color=dark"
+            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/vanmoof-s3_ywqduk.png"
+            name="VanMoof S3"
+          />
         </ul>
       </div>
       <div className="hr--mini" />
