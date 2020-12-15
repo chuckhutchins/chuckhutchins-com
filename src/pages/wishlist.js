@@ -125,7 +125,7 @@ const IndexPage = () => (
       <div>
         <h2>Changelog</h2>
         <ul className="list">
-          <li>2020-12-15 &ndash; Removed Zip Card Holder, Dark Grey. Removed sleep mask and sleep mask footnote. Removed Kånken Organizer, Fog. Removed Kindle Oasis, Graphite.</li>
+          <li>2020-12-15 &ndash; Added dark mode styles. Removed Zip Card Holder, Dark Grey. Removed Sleep Mask and Sleep Mask footnote. Removed Kånken Organizer, Fog. Removed Kindle Oasis, Graphite.</li>
           <li>2020-11-07 &ndash; Moved sleep mask from copy down to footnotes. Changed footnote asterisks to numbers.</li>
           <li>2020-11-07 &ndash; Added changelog.</li>
           <li>2020-11-07 &ndash; Added Bamboo Coffee Paddle and Novel Duffel.</li>
