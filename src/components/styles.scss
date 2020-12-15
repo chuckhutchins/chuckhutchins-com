@@ -38,7 +38,13 @@ body {
     background: var(--bg-image) center;
 }
 
-h1, h2, h3, h4, p, li, a {
+h1,
+h2,
+h3,
+h4,
+p,
+li,
+a {
     margin: 0;
     letter-spacing: -.0125em;
 }
@@ -47,6 +53,7 @@ h1 {
     font-size: 1.5rem;
     line-height: 1;
     margin-bottom: 1rem;
+
     @media (min-width: 768px) {
         margin-bottom: 0;
     }
@@ -113,6 +120,7 @@ sup {
 
 .mobile-only {
     display: block;
+
     @media (min-width: 600px) {
         display: none;
     }
@@ -151,6 +159,7 @@ header {
     align-items: center;
     border-bottom: 2px solid;
     padding-bottom: 1rem;
+
     @media (min-width: 768px) {
         flex-direction: row;
     }
@@ -164,6 +173,7 @@ footer {
     align-items: center;
     border-top: 2px solid;
     padding-top: 1rem;
+
     @media (min-width: 768px) {
         flex-direction: row;
     }
@@ -190,6 +200,7 @@ main {
 .copyright {
     line-height: 1;
     margin-top: 1rem;
+
     @media (min-width: 768px) {
         margin-top: 0;
     }
@@ -197,6 +208,7 @@ main {
 
 .homepage {
     grid-template-areas: 'mission' 'hr1' 'experience' 'hr2' 'skills' 'hr3' 'training' 'hr4' 'education';
+
     @media (min-width: 600px) {
         grid-template-areas: 'mission mission' 'hr1 hr1' 'experience experience' 'hr2 hr2' 'skills skills' 'hr3 hr3' 'training education';
         grid-template-columns: repeat(2, 1fr);
@@ -228,6 +240,7 @@ main {
 
 .skills {
     grid-area: skills;
+
     @media (min-width: 600px) {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
@@ -236,6 +249,7 @@ main {
 
     .entry {
         margin: 1.5rem 0;
+
         @media (min-width: 600px) {
             margin: 0;
         }
@@ -319,7 +333,7 @@ main {
             }
 
             img {
-                background-color: #ddd;
+                background-color: var(--stripes);
                 transition: background-color .2s;
             }
 
