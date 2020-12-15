@@ -70,16 +70,6 @@ const IndexPage = () => (
             name="HomePod mini, Space Gray"
           />
           <WishlistProduct
-            link="https://www.fjallraven.com/us/en-us/bags-gear/accessories/backpack-bag-accessories/kanken-organizer"
-            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/kanken-organzier-fog_noobdk.png"
-            name="Kånken Organizer, Fog"
-          />
-          {/*<WishlistProduct*/}
-          {/*  link="https://mastergatsby.com/"*/}
-          {/*  image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604691632/chuckhutchins/wishlist/master-gatsby_we9t1k.png"*/}
-          {/*  name="Master Gatsby Course"*/}
-          {/*/>*/}
-          <WishlistProduct
             link="https://herschel.com/shop/duffles/novel-duffle?v=10026-00535-OS"
             image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604758897/chuckhutchins/wishlist/novel-duffle-black_kody3w.png"
             name="Novel Duffle, Black"
@@ -90,20 +80,9 @@ const IndexPage = () => (
             name="Rebirth Print"
           />
           <WishlistProduct
-            link="https://gravityblankets.com/products/the-gravity-sleep-mask"
-            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604698797/chuckhutchins/wishlist/weighted-sleep-mask_ruex0e.png"
-            name="Sleep Mask"
-            footnote="2"
-          />
-          <WishlistProduct
             link="https://www.yubico.com/product/yubikey-5c-nfc/"
             image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/yubikey-5c-nfc_fknwmn.png"
             name="YubiKey 5C NFC"
-          />
-          <WishlistProduct
-            link="https://www.fjallraven.com/us/en-us/bags-gear/accessories/travel-accessories/zip-card-holder"
-            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/zip-card-holder-dark-grey_uck0xi.png"
-            name="Zip Card Holder, Dark Grey"
           />
         </ul>
         <h3 aria-label="$100 to $249">$$$</h3>
@@ -112,11 +91,6 @@ const IndexPage = () => (
             link="https://acaia.co/collections/coffee-scales/products/pearl?variant=3791487303703"
             image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/acaia-pearl-black_oivrz8.png"
             name="Acaia Pearl, Black"
-          />
-          <WishlistProduct
-            link="https://www.amazon.com/All-new-Kindle-Oasis-adjustable-auto-renewal/dp/B07VDMJJLG/"
-            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/kindle-oasis_yiorai.png"
-            name="Kindle Oasis, Graphite"
           />
           {/*<WishlistProduct*/}
           {/*  link="https://www.rei.com/product/128052/nemo-stargaze-recliner-luxury-chair"*/}
@@ -146,12 +120,12 @@ const IndexPage = () => (
       <div className="hr--mini" />
       <div>
         <p>1: If you order the Aeropress from <a href="https://www.frenchpresscoffee.com/collections/french-press/products/aeropress-coffee-and-espresso-maker">FrenchPressCoffee.com</a>, it looks like they throw in the bamboo coffee paddle for free. I think it's about the same price for the Aeropress, you just get the $6 paddle for free.</p>
-        <p>2: I really just want a sleep mask. I take a nap just about every single day during lunch, and I am currently using the sleeve of one of my flannels. Not super ideal. Or effective. I just linked the weighted one from Gravity because it's intriguing. But if you get a normal one, that's fine too.</p>
       </div>
       <div className="hr--mini" />
       <div>
         <h2>Changelog</h2>
         <ul className="list">
+          <li>2020-12-15 &ndash; Added dark mode styles. Removed Zip Card Holder, Dark Grey. Removed Sleep Mask and Sleep Mask footnote. Removed Kånken Organizer, Fog. Removed Kindle Oasis, Graphite.</li>
           <li>2020-11-07 &ndash; Moved sleep mask from copy down to footnotes. Changed footnote asterisks to numbers.</li>
           <li>2020-11-07 &ndash; Added changelog.</li>
           <li>2020-11-07 &ndash; Added Bamboo Coffee Paddle and Novel Duffel.</li>
