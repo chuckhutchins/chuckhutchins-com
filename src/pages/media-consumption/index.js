@@ -20,6 +20,7 @@ const IndexPage = () => (
                 </ul>
                 <h3>2020 - Books - Finished</h3>
                 <ul className="list">
+                    <li>The Umbrella Academy: Apocalypse Suite (12/31 - 12/31)</li>
                     <li>Ready Player One (11/26 - 12/6)</li>
                     <li>Mistborn: The Her oof Ages* (11/15 - 11/22)</li>
                     <li>Atomic Habits* (11/5 - 11/15)</li>
@@ -62,7 +63,9 @@ const IndexPage = () => (
             <div>
                 <h3>2020 - Movies</h3>
                 <ul className="list">
-                    <li>Star Wars: Episode I - The Phantom Menace</li>
+                    <li>Star Wars: Episode III - Revenge of the Sith (12/31)</li>
+                    <li>Star Wars: Episode II - Attack of the Clones (12/30)</li>
+                    <li>Star Wars: Episode I - The Phantom Menace (12/29)</li>
                     <li>Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan (10/25)</li>
                     <li>Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (10/25)</li>
                     <li>Harry Potter and the Sorcerer's Stone</li>
@@ -151,7 +154,6 @@ const IndexPage = () => (
             <div>
                 <h3>2020 - Video Games - In progress</h3>
                 <ul className="list">
-                    <li>Final Fantasy VIII (12/26)</li>
                     <li>Picross P4 (11-18)</li>
                     <li>Divinity Original Sin 2</li>
                     <li>Stardew Valley*</li>
@@ -160,6 +162,7 @@ const IndexPage = () => (
                 </ul>
                 <h3>2020 - Video Games - Finished</h3>
                 <ul className="list">
+                    <li>Final Fantasy VIII (12/26 - 12/31)</li>
                     <li>Hyrule Warriors: Age of Calamity* (10/30 - 12/13)</li>
                     <li>Picross P3 (10/24 - 11/3)</li>
                     <li>Ikenfell (10/17 - 10/31)</li>
