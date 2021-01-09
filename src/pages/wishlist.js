@@ -24,12 +24,6 @@ const IndexPage = () => (
             image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/amazon-gift-card_cwgy6w.png"
             name="Amazon Gift Card"
           />
-          <WishlistProduct
-            link="https://www.frenchpresscoffee.com/products/coffee-stir-paddle-french-press"
-            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604755428/chuckhutchins/wishlist/bamboo-coffee-paddle_ojw1oe.png"
-            name="Bamboo Coffee Paddle"
-            footnote="1"
-          />
           {/*<WishlistProduct */}
           {/*  link="https://www.macbartender.com/Bartender4/" */}
           {/*  image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604691632/chuckhutchins/wishlist/bartender-4_vhh4fb.png" */}
@@ -59,12 +53,6 @@ const IndexPage = () => (
         <h3 aria-label="$25 to $99">$$</h3>
         <ul className="product__container">
           <WishlistProduct
-            link="https://aeropress.com/product/aeropress-coffee-maker/"
-            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604698796/chuckhutchins/wishlist/aeropress_t5syyq.png"
-            name="Aeropress"
-            footnote="1"
-          />
-          <WishlistProduct
             link="https://www.apple.com/shop/buy-homepod/homepod-mini/space-gray"
             image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/homepod-mini_fakxjr.png"
             name="HomePod mini, Space Gray"
@@ -73,11 +61,6 @@ const IndexPage = () => (
             link="https://herschel.com/shop/duffles/novel-duffle?v=10026-00535-OS"
             image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604758897/chuckhutchins/wishlist/novel-duffle-black_kody3w.png"
             name="Novel Duffle, Black"
-          />
-          <WishlistProduct
-            link="https://openseadesignco.com/collections/art-prints/products/rebirth"
-            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/rebirth-print_y6dboj.png"
-            name="Rebirth Print"
           />
           <WishlistProduct
             link="https://www.yubico.com/product/yubikey-5c-nfc/"
@@ -106,11 +89,6 @@ const IndexPage = () => (
             name="Herman Miller Aeron Chair"
           />
           <WishlistProduct
-            link="https://www.vizio.com/en/tv/p-series/P65QX-H1"
-            image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/p-series-quantum-x-4k-hdr-smart-tv-p65qx-h1_jbcizo.png"
-            name="P-Series Quantum X 4K HDR Smart TV, P65QX-H1"
-          />
-          <WishlistProduct
             link="https://www.vanmoof.com/en-US/s3?color=dark"
             image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/vanmoof-s3_ywqduk.png"
             name="VanMoof S3"
@@ -119,12 +97,9 @@ const IndexPage = () => (
       </div>
       <div className="hr--mini" />
       <div>
-        <p>1: If you order the Aeropress from <a href="https://www.frenchpresscoffee.com/collections/french-press/products/aeropress-coffee-and-espresso-maker">FrenchPressCoffee.com</a>, it looks like they throw in the bamboo coffee paddle for free. I think it's about the same price for the Aeropress, you just get the $6 paddle for free.</p>
-      </div>
-      <div className="hr--mini" />
-      <div>
         <h2>Changelog</h2>
         <ul className="list">
+          <li>2020-01-09 &ndash; Removed Coffee Paddle, Aeropress, Rebirth Print, and P-Series Quantum X 4K HDR Smart TV, P65QX-H1.</li>
           <li>2020-12-15 &ndash; Added dark mode styles. Removed Zip Card Holder, Dark Grey. Removed Sleep Mask and Sleep Mask footnote. Removed Kånken Organizer, Fog. Removed Kindle Oasis, Graphite.</li>
           <li>2020-11-07 &ndash; Moved sleep mask from copy down to footnotes. Changed footnote asterisks to numbers.</li>
           <li>2020-11-07 &ndash; Added changelog.</li>
