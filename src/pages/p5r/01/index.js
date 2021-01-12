@@ -103,6 +103,9 @@ const IndexPage = () => (
             <div className="day">
 
             </div>
+            <div>
+                <a href="/p5r/02">Go to February</a>
+            </div>
         </main>
     </Layout>
 )

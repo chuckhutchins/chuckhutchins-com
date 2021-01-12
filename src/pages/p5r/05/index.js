@@ -466,6 +466,9 @@ const IndexPage = () => (
                     <li>Order Surprise Sando at diner <strong>(Knowledge +2, Guts +2)</strong></li>
                 </ul>
             </div>
+            <div>
+                <a href="/p5r/06">Go to June</a>
+            </div>
         </main>
     </Layout>
 )
