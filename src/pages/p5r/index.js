@@ -18,8 +18,8 @@ const IndexPage = () => (
                     <li><a href="04">April</a></li>
                     <li><a href="05">May</a></li>
                     <li><a href="06">June</a></li>
-                    <li>July</li>
-                    <li>August</li>
+                    <li><a href="07">July</a></li>
+                    <li><a href="08">August</a></li>
                     <li>September</li>
                     <li>October</li>
                     <li>November</li>

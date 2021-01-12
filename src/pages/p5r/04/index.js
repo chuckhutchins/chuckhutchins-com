@@ -316,6 +316,9 @@ const IndexPage = () => (
                     <li>Bathhouse <strong>(Charm +3)</strong></li>
                 </ul>
             </div>
+            <div>
+                <a href="/p5r/05">Go to May</a>
+            </div>
         </main>
     </Layout>
 )

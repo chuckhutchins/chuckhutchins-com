@@ -529,6 +529,9 @@ const IndexPage = () => (
                     <li>Fortune Rank 0.2 <strong>(Y100000)</strong></li>
                 </ul>
             </div>
+            <div>
+                <a href="/p5r/07">Go to July</a>
+            </div>
         </main>
     </Layout>
 )
