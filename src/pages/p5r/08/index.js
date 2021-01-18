@@ -1,4 +1,5 @@
 import React from "react"
+import { Link } from "gatsby"
 
 import Layout from "../../../components/layout-p5r"
 import SEO from "../../../components/seo"
@@ -505,7 +506,7 @@ const IndexPage = () => (
                 </ul>
             </div>
             <div>
-                <a href="/p5r/09">Go to September</a>
+                <Link to="/p5r/09">Go to September</Link>
             </div>
         </main>
     </Layout>
