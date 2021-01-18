@@ -1,10 +1,12 @@
 import React from "react"
+import { Link } from "gatsby"
 
 const Header = () => (
     <header>
         <h1>Persona 5 Royal</h1>
         <ul className="haunts">
-            <li><a href="/p5r" aria-label="Guide homepage">Guide homepage</a>
+            <li>
+                <Link to="/p5r">Guide homepage</Link>
             </li>
         </ul>
     </header>
