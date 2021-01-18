@@ -419,18 +419,6 @@ const IndexPage = () => (
                 </ul>
             </div>
             <div className="day">
-                <h3>Tue 8/23</h3>
-                <h4>Evening</h4>
-                <ul>
-                    <li>Hanged Rank 4 <strong>(Proficiency +3)</strong><ol>
-                        <li>-</li>
-                        <li>-</li>
-                        <li>-</li>
-                        <li>Choice 3: "Where's my reward?" (+3)</li>
-                        <li>(Phone) Choice 1: "I agree." (+2)</li></ol></li>
-                </ul>
-            </div>
-            <div className="day">
                 <h3>Wed 8/24</h3>
                 <h4>Evening</h4>
                 <ul>
