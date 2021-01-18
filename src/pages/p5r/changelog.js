@@ -10,6 +10,8 @@ const IndexPage = () => (
             <div>
                 <h2>Changelog</h2>
                 <ul className="list">
+                    <li>2021-01-18 &ndash; Added September, October, and November.</li>
+                    <li>2021-01-12 &ndash; Added July and August.</li>
                     <li>2021-01-10 &ndash; Added June. Added Negotiation Guide resource. Switched monthly pages to numbers instead of names.</li>
                     <li>2021-01-09 &ndash; Initialized guide. Added resources. Added April and May.</li>
                 </ul>
