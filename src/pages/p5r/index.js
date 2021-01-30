@@ -25,9 +25,9 @@ const IndexPage = () => (
                         <li><Link to="/p5r/09">September</Link></li>
                         <li><Link to="/p5r/10">October</Link></li>
                         <li><Link to="/p5r/11">November</Link></li>
-                        <li>December</li>
-                        <li>January</li>
-                        <li>February</li>
+                        <li><Link to="/p5r/12">December</Link></li>
+                        <li><Link to="/p5r/01">January</Link></li>
+                        <li><Link to="/p5r/02">February</Link></li>
                     </ul>
                 </div>
                 <div className="hr--mini"/>
