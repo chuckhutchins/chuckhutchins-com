@@ -1,0 +1,81 @@
+.resume {
+    grid-template-areas: 'mission' 'hr1' 'experience' 'hr2' 'skills' 'hr3' 'training' 'hr4' 'education';
+
+    @media (min-width: 600px) {
+        grid-template-areas: 'mission mission' 'hr1 hr1' 'experience experience' 'hr2 hr2' 'skills skills' 'hr3 hr3' 'training education';
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .mission {
+        grid-area: mission;
+        padding: 3rem;
+        background: repeating-linear-gradient(-45deg, var(--stripes), var(--stripes) .25rem, transparent .25rem, transparent 1.125rem);
+
+        h2 {
+            font-size: 2rem;
+            text-shadow: 0 1px 2px var(--text-shadow);
+        }
+    }
+
+    .experience {
+        grid-area: experience;
+
+        .entry {
+            margin: 1.5rem 0;
+
+            &:last-of-type {
+                margin-bottom: 0;
+            }
+        }
+    }
+
+    .skills {
+        grid-area: skills;
+
+        @media (min-width: 600px) {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            grid-gap: 1.5rem 2rem;
+        }
+
+        .entry {
+            margin: 1.5rem 0;
+
+            @media (min-width: 600px) {
+                margin: 0;
+            }
+        }
+
+        h2 {
+            grid-column: span 2;
+        }
+
+        ul + h3 {
+            margin-top: 1.5rem;
+        }
+    }
+
+    .training {
+        grid-area: training;
+    }
+
+    .education {
+        grid-area: education;
+    }
+
+    .hr--1 {
+        grid-area: hr1;
+    }
+
+    .hr--2 {
+        grid-area: hr2;
+    }
+
+    .hr--3 {
+        grid-area: hr3;
+    }
+
+    .hr--4 {
+        grid-area: hr4;
+    }
+}
