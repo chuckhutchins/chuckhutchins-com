@@ -2,7 +2,7 @@ import React from "react";
 import Header from "./header-p5r";
 import Footer from "./footer-p5r";
 import styled from "styled-components";
-import "../assets/scss/main.scss";
+import "/src/assets/scss/main.scss";
 
 const PersonaLayout = styled.div`
     &.container {
