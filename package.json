@@ -2,7 +2,7 @@
     "name": "chuckhutchins-com",
     "private": true,
     "description": "Personal site for Chuck Hutchins",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "author": "Chuck Hutchins <chuck@chuckhutchins.com>",
     "dependencies": {
         "@babel/core": "^7.12.10",
@@ -16,6 +16,7 @@
         "gatsby-plugin-react-helmet": "^3.9.0",
         "gatsby-plugin-sass": "^2.8.0",
         "gatsby-plugin-sharp": "^2.13.4",
+        "gatsby-plugin-styled-components": "^3.9.0",
         "gatsby-source-filesystem": "^2.10.0",
         "gatsby-transformer-remark": "^2.15.0",
         "gatsby-transformer-sharp": "^2.11.0",
