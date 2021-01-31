@@ -1,13 +1,12 @@
 import React from "react"
 import { Link } from "gatsby"
-
-import Layout from "../../components/layout-p5r"
+import Layout from "../../components/persona/layout-p5r"
 import SEO from "../../components/seo"
 
 const IndexPage = () => (
     <Layout>
         <main>
-            <SEO title={"Persona 5 Royal"}/>
+            <SEO override={"Persona 5 Royal"}/>
             <div>
                 <div>
                     <h2>Persona 5 Royal Guides</h2>
@@ -16,7 +15,7 @@ const IndexPage = () => (
                 <div className="hr--mini"/>
                 <div>
                     <h3>Months</h3>
-                    <ul className="list">
+                    <ul>
                         <li><Link to="/p5r/04">April</Link></li>
                         <li><Link to="/p5r/05">May</Link></li>
                         <li><Link to="/p5r/06">June</Link></li>
@@ -33,7 +32,7 @@ const IndexPage = () => (
                 <div className="hr--mini"/>
                 <div>
                     <h3>Resources</h3>
-                    <ul className="list">
+                    <ul>
                         <li><Link to="/p5r/changelog">Changelog</Link></li>
                         <li><a href="https://joyceychen.com/persona5-negotiation/royal">Negotiation Guide</a></li>
                         <li><a href="https://aqiu384.github.io/p5r-walkthrough/walkthrough">Data Source</a></li>

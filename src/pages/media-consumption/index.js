@@ -1,14 +1,13 @@
-import React from 'react';
-
-import Layout from '../../components/layout';
-import SEO from '../../components/seo';
-import BookList from '/src/components/media-consumption/BookList';
+import React from "react";
+import Layout from "/src/components/layout";
+import SEO from "/src/components/seo";
+import BookList from "/src/components/media-consumption/BookList";
 
 export default function IndexPage() {
     return (
         <Layout>
+            <SEO title={"Media Consumption"}/>
             <main className="wishlist">
-                <SEO title={"Media Consumption"}/>
                 <div>
                     <h2>Media Consumption</h2>
                     <p>Hey, this is all the stuff I've read/watched/played.</p>
