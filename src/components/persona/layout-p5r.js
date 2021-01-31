@@ -3,7 +3,7 @@ import PropTypes from "prop-types"
 
 import Header from "./header-p5r"
 import Footer from "./footer-p5r"
-import "./styles.scss"
+import "../assets/scss/styles.scss"
 
 const Layout = ({ children }) => {
 
