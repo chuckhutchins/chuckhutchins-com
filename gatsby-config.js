@@ -12,7 +12,7 @@ module.exports = {
             resolve: `gatsby-source-filesystem`,
             options: {
                 name: `images`,
-                path: `${__dirname}/src/images`,
+                path: `${__dirname}/src/assets/images`,
             },
         },
         {
@@ -41,7 +41,7 @@ module.exports = {
                 background_color: `#111111`,
                 theme_color: `#111111`,
                 display: `minimal-ui`,
-                icon: `src/images/icon-checkers.png`,
+                icon: `src/assets/images/icon-checkers.png`,
             },
         },
         `gatsby-plugin-mdx`,
