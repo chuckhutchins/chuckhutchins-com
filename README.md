@@ -1,3 +1,1 @@
-#Chuck Hutchins
-
-Personal site for Chuck Hutchins
+# Chuck Hutchins

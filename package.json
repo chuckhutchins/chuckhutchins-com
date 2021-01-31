@@ -2,7 +2,7 @@
     "name": "chuckhutchins-com",
     "private": true,
     "description": "Personal site for Chuck Hutchins",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "author": "Chuck Hutchins <chuck@chuckhutchins.com>",
     "dependencies": {
         "@babel/core": "^7.12.10",
@@ -23,7 +23,8 @@
         "prop-types": "^15.7.2",
         "react": "^16.14.0",
         "react-dom": "^16.14.0",
-        "react-helmet": "^6.1.0"
+        "react-helmet": "^6.1.0",
+        "styled-components": "^5.2.1"
     },
     "devDependencies": {
         "babel-eslint": "^10.1.0",
