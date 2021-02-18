@@ -19,6 +19,10 @@ export default function IndexPage() {
                             <li>Wayne State University</li>
                             <li>May 2020 &ndash; Present</li>
                         </ul>
+                        <ul className="list">
+                            <li>Collaborates with stakeholders and designers to create, maintain, and enhance over 100 university websites</li>
+                            <li>Troubleshoots and fixes ADA compliance issues, ranging from design to interactivity</li>
+                        </ul>
                     </div>
                     <div className="entry">
                         <h3>Front-End Developer</h3>
@@ -34,19 +38,13 @@ export default function IndexPage() {
                             <li>January 2019 &ndash; February 2020</li>
                         </ul>
                         <ul className="list">
-                            <li>Created and maintained custom responsive web design framework for rapid prototyping and finished product delivery across all device types
-                            </li>
-                            <li>Worked as technical member/resource on cross-functional teams addressing new and existing web, marketing, and product initiatives
-                            </li>
-                            <li>Maintained website style guide, enabling other developers and UX designers to produce consist and compliant user experiences
-                            </li>
-                            <li>Integrated ADA compliant markup and semantic HTML into new and existing code templates and modules
-                            </li>
-                            <li>Established process and code standards for day-to-day promotional content on the website
-                            </li>
+                            <li>Created and maintained custom responsive web design framework for rapid prototyping and finished product delivery across all device types</li>
+                            <li>Worked as technical member/resource on cross-functional teams addressing new and existing web, marketing, and product initiatives</li>
+                            <li>Maintained website style guide, enabling other developers and UX designers to produce consist and compliant user experiences</li>
+                            <li>Integrated ADA compliant markup and semantic HTML into new and existing code templates and modules</li>
+                            <li>Established process and code standards for day-to-day promotional content on the website</li>
                             <li>Trained new team members on development and design processes and tools</li>
-                            <li>Responsible for cross-browser/device testing/QA/UAT and internal development team code reviews
-                            </li>
+                            <li>Owned responsibility for cross-browser/device testing/QA/UAT and internal development team code reviews</li>
                         </ul>
                     </div>
                     <div className="entry">
@@ -57,11 +55,9 @@ export default function IndexPage() {
                         </ul>
                         <ul className="list">
                             <li>Lead web design team in daily promotional site operations</li>
-                            <li>Created development and design processes allowing for rapid day-to-day promotional changes
-                            </li>
+                            <li>Created development and design processes allowing for rapid day-to-day promotional changes</li>
                             <li>Designed and developed mockups and wireframes for new landing pages</li>
-                            <li>Standardized and organized code and image assets to facilitate team communication and execution
-                            </li>
+                            <li>Standardized and organized code and image assets to facilitate team communication and execution</li>
                             <li>Trained team members to use new techniques, internal templates, and tools</li>
                             <li>Developed responsive HTML to give the customer a seamless experience across any device</li>
                         </ul>
@@ -74,8 +70,7 @@ export default function IndexPage() {
                         </ul>
                         <ul className="list">
                             <li>Worked on a cross-functional team addressing web and mobile initiatives</li>
-                            <li>Provided ongoing updates and enhancements for the company’s aggressive retail promotional schedule
-                            </li>
+                            <li>Provided ongoing updates and enhancements for the company’s aggressive retail promotional schedule</li>
                         </ul>
                     </div>
                     <div className="entry">
@@ -94,6 +89,7 @@ export default function IndexPage() {
                         <ul className="list">
                             <li>ADA Compliance</li>
                             <li>CSS3</li>
+                            <li>Gatsby</li>
                             <li>Git</li>
                             <li>HTML5</li>
                             <li>Javascript</li>
@@ -110,6 +106,8 @@ export default function IndexPage() {
                             <li>User Experience/Interface Design</li>
                             <li>Wireframing &amp; Prototyping</li>
                         </ul>
+                    </div>
+                    <div className="entry">
                         <h3>Process</h3>
                         <ul className="list">
                             <li>Agile/SCRUM</li>
