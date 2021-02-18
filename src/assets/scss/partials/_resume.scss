@@ -12,8 +12,12 @@
 
     .mission {
         grid-area: mission;
-        padding: 3rem;
+        padding: 1rem 1.5rem;
         background: repeating-linear-gradient(-45deg, var(--stripes), var(--stripes) .25rem, transparent .25rem, transparent 1.125rem);
+
+        @media (min-width: 768px) {
+            padding: 2.5rem 3rem;
+        }
 
         h2 {
             font-size: 2rem;
