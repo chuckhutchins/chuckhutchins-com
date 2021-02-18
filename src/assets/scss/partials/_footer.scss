@@ -1,0 +1,22 @@
+footer {
+    grid-area: footer;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 2px solid;
+    padding-top: 1rem;
+
+    @media (min-width: 768px) {
+        flex-direction: row;
+    }
+
+    .copyright {
+        line-height: 1;
+        margin-top: 1.5rem;
+
+        @media (min-width: 768px) {
+            margin-top: 0;
+        }
+    }
+}
