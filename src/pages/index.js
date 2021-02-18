@@ -10,7 +10,7 @@ export default function IndexPage() {
                 <div className="mission">
                     <h2>I'm a design-oriented front-end developer looking to work on interesting solutions to important questions.</h2>
                 </div>
-                <div className="hr--mini hr--1" />
+                <div className="hr--mini" />
                 <div className="experience">
                     <h2>Experience</h2>
                     <div className="entry">
@@ -22,6 +22,7 @@ export default function IndexPage() {
                         <ul className="list">
                             <li>Collaborates with stakeholders and designers to create, maintain, and enhance over 100 university websites</li>
                             <li>Troubleshoots and fixes ADA compliance issues, ranging from design to interactivity</li>
+                            <li>Contributes to university's open-source Laravel template used to generate new websites</li>
                         </ul>
                     </div>
                     <div className="entry">
@@ -40,7 +41,7 @@ export default function IndexPage() {
                         <ul className="list">
                             <li>Created and maintained custom responsive web design framework for rapid prototyping and finished product delivery across all device types</li>
                             <li>Worked as technical member/resource on cross-functional teams addressing new and existing web, marketing, and product initiatives</li>
-                            <li>Maintained website style guide, enabling other developers and UX designers to produce consist and compliant user experiences</li>
+                            <li>Maintained website design system, enabling other developers and UX designers to produce consist and compliant user experiences</li>
                             <li>Integrated ADA compliant markup and semantic HTML into new and existing code templates and modules</li>
                             <li>Established process and code standards for day-to-day promotional content on the website</li>
                             <li>Trained new team members on development and design processes and tools</li>
@@ -81,7 +82,7 @@ export default function IndexPage() {
                         </ul>
                     </div>
                 </div>
-                <div className="hr--mini hr--2" />
+                <div className="hr--mini" />
                 <div className="skills">
                     <h2>Skills</h2>
                     <div className="entry">
@@ -93,6 +94,7 @@ export default function IndexPage() {
                             <li>Git</li>
                             <li>HTML5</li>
                             <li>Javascript</li>
+                            <li>Laravel</li>
                             <li>Responsive Web Design</li>
                             <li>Sass</li>
                             <li>Tailwind CSS</li>
@@ -115,7 +117,7 @@ export default function IndexPage() {
                         </ul>
                     </div>
                 </div>
-                <div className="hr--mini hr--3" />
+                <div className="hr--mini" />
                 <div className="training">
                     <h2>Training</h2>
                     <ul className="list">
@@ -124,13 +126,13 @@ export default function IndexPage() {
                         <li>An Event Apart: Seattle, 2018</li>
                     </ul>
                 </div>
-                <div className="hr--mini hr--4 mobile-only" />
+                <div className="hr--mini mobile-only" />
                 <div className="education">
                     <h2>Education</h2>
-                    <h3>BA Graphic Design</h3>
                     <ul>
+                        <li>BA Graphic Design</li>
                         <li>Saginaw Valley State University</li>
-                        <li>September 2010 &ndash; December 2014</li>
+                        <li>2010 &ndash; 2014</li>
                     </ul>
                 </div>
             </main>
