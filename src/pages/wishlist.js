@@ -8,6 +8,10 @@ const WishlistLayout = styled.div`
     align-self: start;
     display: grid;
     grid-gap: 2rem;
+    
+    .hr--mini {
+        grid-column: span 1;
+    }
 
     h3 {
         margin-bottom: .5rem;
