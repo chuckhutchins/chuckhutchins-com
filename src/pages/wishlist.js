@@ -54,16 +54,16 @@ export default function WishlistPage() {
                                 image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/amazon-gift-card_cwgy6w.png"
                                 name="Amazon Gift Card"
                             />
-                            {/*<WishlistProduct */}
-                            {/*  link="https://www.macbartender.com/Bartender4/" */}
-                            {/*  image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604691632/chuckhutchins/wishlist/bartender-4_vhh4fb.png" */}
-                            {/*  name="Bartender 4" */}
-                            {/*/>*/}
-                            {/*<WishlistProduct */}
-                            {/*  link="https://blackwing602.com/collections/pencils/products/blackwing-natural-set-of-12" */}
-                            {/*  image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/blackwing-natural-pencils_ogex2u.png" */}
-                            {/*  name="Blackwing Natural Pencils" */}
-                            {/*/>*/}
+                            <WishlistProduct
+                              link="https://www.macbartender.com/Bartender4/"
+                              image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604691632/chuckhutchins/wishlist/bartender-4_vhh4fb.png"
+                              name="Bartender 4"
+                            />
+                            <WishlistProduct
+                              link="https://blackwing602.com/collections/pencils/products/blackwing-natural-set-of-12"
+                              image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/blackwing-natural-pencils_ogex2u.png"
+                              name="Blackwing Natural Pencils"
+                            />
                             <WishlistProduct
                                 link="https://www.google.com/search?q=butchers+near+me"
                                 image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604691632/chuckhutchins/wishlist/delicious-meats_ec45nr.png"
@@ -109,11 +109,6 @@ export default function WishlistPage() {
                                 image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/acaia-pearl-black_oivrz8.png"
                                 name="Acaia Pearl, Black"
                             />
-                            {/*<WishlistProduct*/}
-                            {/*  link="https://www.rei.com/product/128052/nemo-stargaze-recliner-luxury-chair"*/}
-                            {/*  image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604667256/chuckhutchins/wishlist/nemo-stargaze-recliner-luxury-chair-graphite-smoke_jkzgfn.png"*/}
-                            {/*  name="Nemo Stargaze Recliner Luxury Chair, Graphite/Smoke"*/}
-                            {/*/>*/}
                         </ul>
                     </div>
                     <div>
