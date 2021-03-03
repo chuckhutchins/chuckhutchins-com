@@ -8,7 +8,7 @@ export default function IndexPage() {
             <SEO override={`Chuck Hutchins - Front-End Developer`} />
             <main className="resume">
                 <div className="mission">
-                    <h2>I'm a design-oriented front-end developer looking to work on interesting solutions to important questions.</h2>
+                    <h2>I'm a design-oriented front-end developer focused on bringing beautiful, accessible experiences to life.</h2>
                 </div>
                 <div className="hr--mini" />
                 <div className="experience">
