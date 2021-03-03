@@ -8,7 +8,7 @@ export default function IndexPage() {
             <SEO override={`Chuck Hutchins - Front-End Developer`} />
             <main className="resume">
                 <div className="mission">
-                    <h2>I'm a design-oriented front-end developer looking to work on interesting solutions to important questions.</h2>
+                    <h2>I'm a design-oriented front-end developer focused on bringing beautiful, accessible experiences to life.</h2>
                 </div>
                 <div className="hr--mini" />
                 <div className="experience">
@@ -121,6 +121,7 @@ export default function IndexPage() {
                 <div className="training">
                     <h2>Training</h2>
                     <ul className="list">
+                        <li>GatsbyConf, 2021</li>
                         <li>Deque University Web Accessibility Curriculum 2.0, 2020</li>
                         <li>Developing for Salesforce B2C Commerce: CCD 101, 2019</li>
                         <li>An Event Apart: Seattle, 2018</li>
