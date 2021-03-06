@@ -1,0 +1,314 @@
+{
+    "videoGames": [
+        {
+            "index": 1,
+            "title": "Tales of Vesperia: Definitive Edition",
+            "platform": "Switch",
+            "image": "",
+            "start": "0",
+            "end": "",
+            "rating": "Like",
+            "finish": 0
+        },
+        {
+            "index": 2,
+            "title": "Rune Factory 4 Special",
+            "platform": "Switch",
+            "image": "",
+            "start": "0",
+            "end": "",
+            "rating": "Like",
+            "finish": 0
+        },
+        {
+            "index": 3,
+            "title": "Stardew Valley",
+            "platform": "Steam",
+            "image": "",
+            "start": "0",
+            "end": "",
+            "rating": "Like",
+            "finish": 0
+        },
+        {
+            "index": 4,
+            "title": "Picross P2",
+            "platform": "Switch",
+            "image": "",
+            "start": "0",
+            "end": "0",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 5,
+            "title": "The Legend of Zelda: Link's Awakening",
+            "platform": "Switch",
+            "image": "",
+            "start": "0",
+            "end": "0",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 6,
+            "title": "The Witcher 3: Wild Hunt",
+            "platform": "PS4",
+            "image": "",
+            "start": "0",
+            "end": "0",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 7,
+            "title": "Animal Crossing",
+            "platform": "Switch",
+            "image": "",
+            "start": "0",
+            "end": "0",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 8,
+            "title": "Final Fantasy VII",
+            "platform": "Switch",
+            "image": "",
+            "start": "0",
+            "end": "0",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 9,
+            "title": "Alliance Alive",
+            "platform": "Switch",
+            "image": "",
+            "start": "0",
+            "end": "",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 10,
+            "title": "The Elder Scrolls: Blades",
+            "platform": "Switch",
+            "image": "",
+            "start": "0",
+            "end": "",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 11,
+            "title": "Persona 4 Golden",
+            "platform": "Steam",
+            "image": "",
+            "start": "0",
+            "end": "0",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 12,
+            "title": "Pokemon Sword",
+            "platform": "Switch",
+            "image": "",
+            "start": "0",
+            "end": "0",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 13,
+            "title": "Pokemon Café Mix",
+            "platform": "Switch",
+            "image": "",
+            "start": "0",
+            "end": "",
+            "rating": "Dislike",
+            "finish": 1
+        },
+        {
+            "index": 14,
+            "title": "The Legend of Zelda: Breath of the Wild",
+            "platform": "Switch",
+            "image": "",
+            "start": "0",
+            "end": "0",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 15,
+            "title": "Divinity: Original Sin 2 - Definitive Edition",
+            "platform": "Switch",
+            "image": "",
+            "start": "0",
+            "end": "",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 16,
+            "title": "Wintermoor Tactics Club",
+            "platform": "Switch",
+            "image": "",
+            "start": "0",
+            "end": "0",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 17,
+            "title": "Disgaea 5 Complete",
+            "platform": "Switch",
+            "image": "",
+            "start": "0",
+            "end": "0",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 18,
+            "title": "Ikenfell",
+            "platform": "Switch",
+            "image": "",
+            "start": "10-17-2020",
+            "end": "10-31-2020",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 19,
+            "title": "Picross P3",
+            "platform": "Switch",
+            "image": "",
+            "start": "10-24-2020",
+            "end": "11-3-2020",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 20,
+            "title": "Hyrule Warriors: Age of Calamity",
+            "platform": "Switch",
+            "image": "",
+            "start": "10-30-2020",
+            "end": "12-13-2020",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 21,
+            "title": "Story of Seasons: Friends of Mineral Town",
+            "platform": "Switch",
+            "image": "",
+            "start": "10-31-2020",
+            "end": "0",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 22,
+            "title": "Picross P4",
+            "platform": "Switch",
+            "image": "",
+            "start": "11-18-2020",
+            "end": "",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 23,
+            "title": "Roundguard",
+            "platform": "Switch",
+            "image": "",
+            "start": "11-28-2020",
+            "end": "",
+            "rating": "Dislike",
+            "finish": 1
+        },
+        {
+            "index": 24,
+            "title": "Final Fantasy VIII",
+            "platform": "Switch",
+            "image": "",
+            "start": "12-26-2020",
+            "end": "12-31-2020",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 25,
+            "title": "Astro's Playground",
+            "platform": "PS5",
+            "image": "",
+            "start": "1-8-2021",
+            "end": "",
+            "rating": "Dislike",
+            "finish": 1
+        },
+        {
+            "index": 26,
+            "title": "Marvel's Spider-Man: Miles Morales",
+            "platform": "PS5",
+            "image": "",
+            "start": "1-8-2021",
+            "end": "",
+            "rating": "Dislike",
+            "finish": 1
+        },
+        {
+            "index": 27,
+            "title": "Persona 5 Royal",
+            "platform": "PS5",
+            "image": "",
+            "start": "1-8-2021",
+            "end": "2-8-2021",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 28,
+            "title": "Cyberpunk 2077",
+            "platform": "PS5",
+            "image": "",
+            "start": "2-10-2021",
+            "end": "",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 29,
+            "title": "No Man's Sky",
+            "platform": "PS5",
+            "image": "",
+            "start": "2-13-2021",
+            "end": "",
+            "rating": "Dislike",
+            "finish": 1
+        },
+        {
+            "index": 30,
+            "title": "Persona 5 Strikers",
+            "platform": "PS5",
+            "image": "",
+            "start": "2-19-2021",
+            "end": "2-27-2021",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 31,
+            "title": "Bravely Default II",
+            "platform": "Switch",
+            "image": "",
+            "start": "2-27-2021",
+            "end": "",
+            "rating": "",
+            "finish": 0
+        }
+    ]
+}
