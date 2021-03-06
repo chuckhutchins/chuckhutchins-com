@@ -1,67 +1,24 @@
 import React from "react";
 import Layout from "/src/components/layout";
 import SEO from "/src/components/seo";
-import BookList from "/src/components/media-consumption/BookList";
+import { Link } from "gatsby";
 
 export default function IndexPage() {
     return (
         <Layout>
             <SEO title={"Media Consumption"}/>
-            <main className="wishlist">
+            <main className="media-consumption">
                 <div>
                     <h2>Media Consumption</h2>
                     <p>Hey, this is all the stuff I've read/watched/played.</p>
                 </div>
                 <div className="hr--mini"/>
                 <div>
-                    <BookList />
-                </div>
-                <div className="hr--mini"/>
-                <div>
-                    <h3>2020 - Books - In progress</h3>
-                    <ul className="list">
-                        <li>Pragmatic Programming (10/12)</li>
-                        <li>Getting Things Done</li>
-                    </ul>
-                    <h3>2020 - Books - Finished</h3>
-                    <ul className="list">
-                        <li>The Umbrella Academy: Apocalypse Suite (12/31 - 12/31)</li>
-                        <li>Ready Player One (11/26 - 12/6)</li>
-                        <li>Mistborn: The Her oof Ages* (11/15 - 11/22)</li>
-                        <li>Atomic Habits* (11/5 - 11/15)</li>
-                        <li>The Martian (10/29 - 11/24)</li>
-                        <li>Solutions and Other Problems (10/20 - 10/20)</li>
-                        <li>Extraordinary Means (10/12 - 10/19)</li>
-                        <li>The Ballad of Songbirds and Snakes* (10/4 - 10/8)</li>
-                        <li>Mistborn: The Well of Ascension (9/8 - 10/3)</li>
-                        <li>Deep Work (9/7 - 9/14)</li>
-                        <li>Mistborn: The Final Empire* (9/3 - 9/7)</li>
-                        <li>We Are Okay (9/1 - 9/2)</li>
-                        <li>The Adventure Zone: Here There Be Gerblins* (8/31 - 9/1)</li>
-                        <li>King Dork</li>
-                        <li>The Beginning of Everything</li>
-                        <li>So Good They Can't Ignore You</li>
-                        <li>Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened</li>
-                        <li>The Magician's Land*</li>
-                        <li>The Magician King*</li>
-                        <li>The Magicians*</li>
-                        <li>Digital Minimalism</li>
-                        <li>Harry Potter and the Deathly Hallows</li>
-                        <li>Harry Potter and the Half-Blood Prince</li>
-                        <li>Refactoring UI*</li>
-                        <li>Harry Potter and the Order of the Phoenix</li>
-                        <li>Harry Potter and the Goblet of Fire</li>
-                        <li>Harry Potter and the Prisoner of Azkaban</li>
-                        <li>Harry Potter and the Chamber of Secrets</li>
-                        <li>Harry Potter and the Philosopher's Stone</li>
-                    </ul>
-                    <h3>2020 - Books - Abandoned</h3>
-                    <ul className="list">
-                        <li>The Boys (12/18 - 12/20)</li>
-                        <li>Tools of Titans (12/13 - 12/18)</li>
-                        <li>1985 (12/6 - 12/12)</li>
-                        <li>Docile (8/30 - 8/30)</li>
-                        <li>His Dark Materials</li>
+                    <ul>
+                        <li><Link to="./books">View books</Link></li>
+                        <li><Link to="./movies">View movies</Link></li>
+                        <li><Link to="./tv-shows">View tv shows</Link></li>
+                        <li><Link to="./video-games">View video games</Link></li>
                     </ul>
                 </div>
                 <div className="hr--mini"/>
