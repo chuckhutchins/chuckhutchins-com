@@ -15,20 +15,6 @@ module.exports = {
                 path: `${__dirname}/src/assets/images`,
             },
         },
-        {
-            resolve: `gatsby-source-filesystem`,
-            options: {
-                name: `books`,
-                path: `${__dirname}/src/pages/media-consumption/books`,
-            },
-        },
-        {
-            resolve: `gatsby-source-filesystem`,
-            options: {
-                name: `video-games`,
-                path: `${__dirname}/src/pages/media-consumption/video-games`,
-            },
-        },
         `gatsby-transformer-remark`,
         `gatsby-transformer-sharp`,
         `gatsby-plugin-sharp`,
@@ -44,7 +30,6 @@ module.exports = {
                 icon: `src/assets/images/icon-checkers.png`,
             },
         },
-        `gatsby-plugin-mdx`,
         'gatsby-plugin-styled-components',
     ],
 }
