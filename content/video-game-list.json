@@ -86,9 +86,9 @@
             "platform": "Switch",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148573/chuckhutchins/video-games/the-alliance-alive-hd-remastered_p2m5cz.jpg",
             "start": "0",
-            "end": "",
+            "end": "0",
             "rating": "",
-            "finish": 1
+            "finish": 0
         },
         {
             "index": 10,
@@ -96,9 +96,9 @@
             "platform": "Switch",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148573/chuckhutchins/video-games/the-elder-scrolls-blades_knxw9u.jpg",
             "start": "0",
-            "end": "",
-            "rating": "",
-            "finish": 1
+            "end": "0",
+            "rating": "0",
+            "finish": 0
         },
         {
             "index": 11,
@@ -126,9 +126,9 @@
             "platform": "Switch",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148571/chuckhutchins/video-games/pokemon-cafe-mix_giq0tq.jpg",
             "start": "0",
-            "end": "",
+            "end": "0",
             "rating": "Dislike",
-            "finish": 1
+            "finish": 0
         },
         {
             "index": 14,
@@ -208,7 +208,7 @@
             "start": "10-31-2020",
             "end": "0",
             "rating": "",
-            "finish": 1
+            "finish": 0
         },
         {
             "index": 22,
@@ -226,9 +226,9 @@
             "platform": "Switch",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148572/chuckhutchins/video-games/roundguard_sljicd.jpg",
             "start": "11-28-2020",
-            "end": "",
+            "end": "0",
             "rating": "Dislike",
-            "finish": 1
+            "finish": 0
         },
         {
             "index": 24,
@@ -246,9 +246,9 @@
             "platform": "PS5",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/astros-playroom_g2zgii.jpg",
             "start": "1-8-2021",
-            "end": "",
+            "end": "1-8-2021",
             "rating": "Dislike",
-            "finish": 1
+            "finish": 0
         },
         {
             "index": 26,
@@ -256,9 +256,9 @@
             "platform": "PS5",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148569/chuckhutchins/video-games/marvels-spiderman-miles-morales_qxri2p.jpg",
             "start": "1-8-2021",
-            "end": "",
+            "end": "1-8-2021",
             "rating": "Dislike",
-            "finish": 1
+            "finish": 0
         },
         {
             "index": 27,
@@ -286,9 +286,9 @@
             "platform": "PS5",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148569/chuckhutchins/video-games/no-mans-sky_by4fbc.jpg",
             "start": "2-13-2021",
-            "end": "",
+            "end": "2-13-2021",
             "rating": "Dislike",
-            "finish": 1
+            "finish": 0
         },
         {
             "index": 30,

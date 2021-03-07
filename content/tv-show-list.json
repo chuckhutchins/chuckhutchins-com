@@ -161,9 +161,9 @@
             "platform": "Netflix",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615147518/chuckhutchins/tv-shows/100-humans_thozgx.jpg",
             "start": "0",
-            "end": "",
+            "end": "0",
             "rating": "Dislike",
-            "finish": 1
+            "finish": 0
         },
         {
             "index": 16,
@@ -205,9 +205,9 @@
             "platform": "Netflix",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/jo-brands-cats-and-kittens_mb14zq.jpg",
             "start": "0",
-            "end": "",
+            "end": "0",
             "rating": "Dislike",
-            "finish": 1
+            "finish": 0
         },
         {
             "index": 20,
@@ -315,9 +315,9 @@
             "platform": "Netflix",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146918/chuckhutchins/tv-shows/avatar-the-last-airbender_dxygah.jpg",
             "start": "0",
-            "end": "",
+            "end": "0",
             "rating": "",
-            "finish": 1
+            "finish": 0
         },
         {
             "index": 30,
@@ -326,7 +326,7 @@
             "platform": "Hulu",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/good-eats-reloaded_oou86n.jpg",
             "start": "0",
-            "end": "",
+            "end": "0",
             "rating": "",
             "finish": 0
         },
@@ -403,9 +403,9 @@
             "platform": "Netflix",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146653/chuckhutchins/tv-shows/floor-is-lava_iyast4.jpg",
             "start": "0",
-            "end": "",
+            "end": "0",
             "rating": "Dislike",
-            "finish": 1
+            "finish": 0
         },
         {
             "index": 38,
@@ -556,9 +556,9 @@
             "platform": "Hulu",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146918/chuckhutchins/tv-shows/angie-tribeca_u5gdfj.jpg",
             "start": "0",
-            "end": "",
+            "end": "0",
             "rating": "",
-            "finish": 1
+            "finish": 0
         },
         {
             "index": 52,
@@ -688,9 +688,9 @@
             "platform": "Netflix",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/forged-in-fire_zv3unc.jpg",
             "start": "0",
-            "end": "",
+            "end": "0",
             "rating": "",
-            "finish": 1
+            "finish": 0
         },
         {
             "index": 64,
