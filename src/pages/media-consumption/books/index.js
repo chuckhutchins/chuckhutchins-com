@@ -1,7 +1,8 @@
 import React from "react";
 import Layout from "/src/components/layout";
 import SEO from "/src/components/seo";
-import BookList from "/src/components/media-consumption/BookList";
+import MediaList from "/src/components/media-consumption/MediaList";
+import JSONData from "../../../../content/book-list.json"
 
 export default function IndexPage() {
     return (
@@ -13,8 +14,8 @@ export default function IndexPage() {
                     <p>Hey, this is all the stuff I've read since 2020.</p>
                 </div>
                 <div className="hr--mini"/>
-                <div className="media-consumption__books">
-                    <BookList />
+                <div className="media-consumption__media">
+                    <MediaList mediaList={JSONData} />
                 </div>
             </main>
         </Layout>
