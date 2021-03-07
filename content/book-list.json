@@ -395,6 +395,28 @@
             "end": "12-31-2020",
             "rating": "",
             "finish": 1
+        },
+        {
+            "index": 37,
+            "title": "Eragon",
+            "author": "Christopher Paolini",
+            "medium": "Kindle",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1615140186/chuckhutchins/books/eragon_gn7d8g.jpg",
+            "start": "1-1-2021",
+            "end": "",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 38,
+            "title": "I Will Teach You to Be Rich",
+            "author": "Ramit Sethi",
+            "medium": "Kindle",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1615140186/chuckhutchins/books/i-will-teach-you-to-be-rich_vs93sr.jpg",
+            "start": "2-2-2021",
+            "end": "",
+            "rating": "",
+            "finish": 0
         }
     ]
 }
