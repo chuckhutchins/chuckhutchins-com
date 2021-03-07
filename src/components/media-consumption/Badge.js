@@ -1,16 +1,16 @@
 import React from "react";
 
 export default function Badge({ data }) {
-    let badge;
+    let badge = null;
 
-    if (data.rating === 'Like') {
+    if (data.rating === 'Dislike' && data.end !== '' && data.finish === 0) {
+        badge = <BadgeOhSoBad />;
+    } else if (data.rating === 'Like') {
         badge = <BadgeLike />;
     } else if (data.rating === 'Dislike') {
         badge = <BadgeDislike />;
     } else if (data.end !== '' && data.finish === 0) {
         badge = <BadgeDidNotFinish />;
-    } else {
-        badge = null;
     }
 
     return (
@@ -36,4 +36,13 @@ function BadgeDidNotFinish() {
     return (
         <div className="badge badge--dnf" aria-label="Did not finish">DNF</div>
     );
+}
+
+function BadgeOhSoBad() {
+    return (
+        <>
+            <BadgeDislike />
+            <BadgeDidNotFinish />
+        </>
+    )
 }
