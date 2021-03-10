@@ -1,12 +1,12 @@
 import React from "react";
-import Layout from "/src/components/layout";
+import MediaLayout from "/src/components/media-consumption/MediaLayout";
 import SEO from "/src/components/seo";
 import MediaList from "../../../components/media-consumption/MediaList"
 import JSONData from "../../../../content/video-game-list.json";
 
 export default function IndexPage() {
     return (
-        <Layout>
+        <MediaLayout>
             <SEO override={"Video Games - Media Consumption"}/>
             <main className="media-consumption">
                 <div>
@@ -18,6 +18,6 @@ export default function IndexPage() {
                     <MediaList mediaList={JSONData} />
                 </div>
             </main>
-        </Layout>
+        </MediaLayout>
     );
 }
