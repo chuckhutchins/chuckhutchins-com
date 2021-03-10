@@ -14,11 +14,11 @@ export default function IndexPage() {
                 </div>
                 <div className="hr--mini"/>
                 <div>
-                    <ul>
-                        <li><Link to="./books">View books</Link></li>
-                        <li><Link to="./movies">View movies</Link></li>
-                        <li><Link to="./tv-shows">View tv shows</Link></li>
-                        <li><Link to="./video-games">View video games</Link></li>
+                    <ul className="media-consumption__table-of-contents">
+                        <li><Link to="./books">Books</Link></li>
+                        <li><Link to="./movies">Movies</Link></li>
+                        <li><Link to="./tv-shows">TV Shows</Link></li>
+                        <li><Link to="./video-games">Video Games</Link></li>
                     </ul>
                 </div>
             </main>
