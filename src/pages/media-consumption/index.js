@@ -1,5 +1,5 @@
 import React from "react";
-import Layout from "/src/components/layout";
+import MediaLayout from "/src/components/media-consumption/MediaLayout";
 import SEO from "/src/components/seo";
 import { Link } from "gatsby";
 import BookIcon from "/src/components/icons/BookIcon";
@@ -8,9 +8,8 @@ import TVShowIcon from "/src/components/icons/TVShowIcon";
 import VideoGameIcon from "/src/components/icons/VideoGameIcon";
 
 export default function IndexPage() {
-    console.log(BookIcon);
     return (
-        <Layout>
+        <MediaLayout>
             <SEO title={"Media Consumption"}/>
             <main className="media-consumption">
                 <div>
@@ -27,6 +26,6 @@ export default function IndexPage() {
                     </ul>
                 </div>
             </main>
-        </Layout>
+        </MediaLayout>
     );
 }
