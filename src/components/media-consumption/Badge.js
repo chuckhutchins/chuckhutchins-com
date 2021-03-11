@@ -1,4 +1,6 @@
 import React from "react";
+import HeartIcon from "/src/components/icons/HeartIcon";
+import HeartBrokenIcon from "/src/components/icons/HeartBrokenIcon";
 
 export default function Badge({ data }) {
     let badge = null;
@@ -22,13 +24,13 @@ export default function Badge({ data }) {
 
 function BadgeLike() {
     return (
-        <div className="badge badge--like"><span role="img" aria-label="Rating: liked">❤️</span></div>
+        <div className="badge badge--like" aria-label="Rating: Like"><HeartIcon /></div>
     );
 }
 
 function BadgeDislike() {
     return (
-        <div className="badge badge--dislike"><span role="img" aria-label="Rating: disliked">💔</span></div>
+        <div className="badge badge--dislike" aria-label="Rating: Dislike"><HeartBrokenIcon /></div>
     );
 }
 

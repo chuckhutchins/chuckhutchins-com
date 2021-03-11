@@ -20,7 +20,7 @@ export default function MediaList({ mediaList }) {
                 <h2>In Progress</h2>
                 <ul className="media__wrapper">
                     {inProgress.map((data) => {
-                        return <Media data={data} />
+                        return <Media data={data} key={data.index} />
                     })}
                 </ul>
             </>;
@@ -31,7 +31,7 @@ export default function MediaList({ mediaList }) {
                 <h2>Finished</h2>
                 <ul className="media__wrapper">
                     {finished.map((data) => {
-                        return <Media data={data} />
+                        return <Media data={data} key={data.index} />
                     })}
                 </ul>
             </>;

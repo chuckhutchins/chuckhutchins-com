@@ -1,11 +1,15 @@
 import React from "react";
-import Layout from "/src/components/layout";
+import MediaLayout from "/src/components/media-consumption/MediaLayout";
 import SEO from "/src/components/seo";
 import { Link } from "gatsby";
+import BookIcon from "/src/components/icons/BookIcon";
+import MovieIcon from "/src/components/icons/MovieIcon";
+import TVShowIcon from "/src/components/icons/TVShowIcon";
+import VideoGameIcon from "/src/components/icons/VideoGameIcon";
 
 export default function IndexPage() {
     return (
-        <Layout>
+        <MediaLayout>
             <SEO title={"Media Consumption"}/>
             <main className="media-consumption">
                 <div>
@@ -14,14 +18,14 @@ export default function IndexPage() {
                 </div>
                 <div className="hr--mini"/>
                 <div>
-                    <ul>
-                        <li><Link to="./books">View books</Link></li>
-                        <li><Link to="./movies">View movies</Link></li>
-                        <li><Link to="./tv-shows">View tv shows</Link></li>
-                        <li><Link to="./video-games">View video games</Link></li>
+                    <ul className="media-consumption__table-of-contents">
+                        <li><Link to="./books"><BookIcon /> Books</Link></li>
+                        <li><Link to="./movies"><MovieIcon /> Movies</Link></li>
+                        <li><Link to="./tv-shows"><TVShowIcon /> TV Shows</Link></li>
+                        <li><Link to="./video-games"><VideoGameIcon /> Video Games</Link></li>
                     </ul>
                 </div>
             </main>
-        </Layout>
+        </MediaLayout>
     );
 }

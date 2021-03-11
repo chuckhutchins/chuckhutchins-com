@@ -10,4 +10,16 @@ header {
     @media (min-width: 768px) {
         flex-direction: row;
     }
+
+    &.minimal {
+        h1 {
+            margin-bottom: 0;
+        }
+    }
+
+    h1 {
+        @media (min-width: 768px) {
+            margin-bottom: 0;
+        }
+    }
 }
