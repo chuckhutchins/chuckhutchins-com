@@ -15,7 +15,7 @@ export default function Media({ data }) {
     }
 
     return (
-        <li key={`media-${data.index}`} className="media">
+        <li className="media">
             <div className="media__image">
                 <Badge data={data} />
                 <img src={data.image} alt="" width="315" height="475" loading="lazy" />
