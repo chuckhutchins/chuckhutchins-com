@@ -121,6 +121,7 @@ export default function IndexPage() {
                 <div className="training">
                     <h2>Training</h2>
                     <ul className="list">
+                        <li>axe-con, 2021</li>
                         <li>GatsbyConf, 2021</li>
                         <li>Deque University Web Accessibility Curriculum 2.0, 2020</li>
                         <li>Developing for Salesforce B2C Commerce: CCD 101, 2019</li>
