@@ -812,6 +812,17 @@
             "end": "2-25-2021",
             "rating": "Like",
             "finish": 1
+        },
+        {
+            "index": 75,
+            "title": "How I Met Your Mother",
+            "season": "1",
+            "platform": "Hulu",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615504430/chuckhutchins/tv-shows/how-i-met-your-mother_b8uhlm.jpg",
+            "start": "3-7-2021",
+            "end": "",
+            "rating": "",
+            "finish": 0
         }
     ]
 }
