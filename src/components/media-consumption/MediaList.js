@@ -6,36 +6,12 @@ export default function MediaList({ mediaList }) {
     const mediaType = Object.keys(mediaList);
 
     // reverse data coming in
-    const media = mediaList[mediaType].reverse();
+    // slice is used to create a shallow copy before reversing
+    // reversing directly on the data causing weird mutation/state issues
+    const media = mediaList[mediaType].slice().reverse();
 
-    // filter the arrays based on type
-    const finished = media.filter(item => (item.finish === 1) || (item.finish === 0 && item.end !== ""));
-    const inProgress = media.filter(item => item.finish === 0 && item.end === "");
-
-    // make sure arrays aren't empty before showing the list
-    let inProgressList, finishedList;
-    if (inProgress !== undefined && inProgress.length !== 0) {
-        inProgressList =
-            <>
-                <h2>In Progress</h2>
-                <ul className="media__wrapper">
-                    {inProgress.map((data) => {
-                        return <Media data={data} key={data.index} />
-                    })}
-                </ul>
-            </>;
-    }
-    if (finished !== undefined && finished.length !== 0) {
-        finishedList =
-            <>
-                <h2>Finished</h2>
-                <ul className="media__wrapper">
-                    {finished.map((data) => {
-                        return <Media data={data} key={data.index} />
-                    })}
-                </ul>
-            </>;
-    }
+    const inProgressList = getInProgressMediaList(media);
+    const finishedList = getFinishedMediaList(media);
 
     return (
         <>
@@ -43,4 +19,33 @@ export default function MediaList({ mediaList }) {
             {finishedList}
         </>
     )
+}
+
+function getInProgressMediaList(media) {
+    const inProgress = media.filter(item => item.finish === 0 && item.end === "");
+
+    return buildMediaList('In Progress', inProgress);
+}
+
+function getFinishedMediaList(media) {
+    const finished = media.filter(item => (item.finish === 1) || (item.finish === 0 && item.end !== ""));
+
+    return buildMediaList('Finished', finished);
+}
+
+function buildMediaList(header, media) {
+    if (media !== undefined && media.length !== 0) {
+        return (
+            <>
+                <h2>{header}</h2>
+                <ul className="media__wrapper">
+                    {media.map((data) => {
+                        return <Media data={data} key={`media-${data.index}`} />;
+                    })}
+                </ul>
+            </>
+        );
+    } else {
+        return null;
+    }
 }
