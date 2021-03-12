@@ -6,7 +6,9 @@ export default function MediaList({ mediaList }) {
     const mediaType = Object.keys(mediaList);
 
     // reverse data coming in
-    const media = mediaList[mediaType].reverse();
+    // slice is used to create a shallow copy before reversing
+    // reversing directly on the data causing weird mutation/state issues
+    const media = mediaList[mediaType].slice().reverse();
 
     const inProgressList = getInProgressMediaList(media);
     const finishedList = getFinishedMediaList(media);
