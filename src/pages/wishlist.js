@@ -43,7 +43,6 @@ export default function WishlistPage() {
                         <p>Don't worry, folks. I know you're ready to spend your hard-earned money on me. Here are a few ideas to get you started.</p>
                         <p>One of the downsides to not using some massive conglomerate that sells everything from A to Z (including your data) is that there's no good way to tell what has been purchased by others. Well, only a few of you know about the link to this page, so you guys can work it out amongst yourselves. That's an early gift from me to you.</p>
                         <p>One last note: you can get a lot of these things anywhere. I just linked to their "official" sources, but some of these can be gotten on Amazon or at Meijer or something.</p>
-                        <p>One more last note: I'm super fortunate and also don't really _need_ anything, so please consider a donation to a charity or non-profit to help those who do. If you want to donate to a web development cause, I would recommend <a href="https://girlswhocode.com/">Girls Who Code</a> or <a href="https://www.freecodecamp.org/donate">freeCodeCamp</a> or something.</p>
                     </div>
                     <div className="hr--mini" />
                     <div>
@@ -85,9 +84,19 @@ export default function WishlistPage() {
                         <h3 aria-label="$25 to $99">$$</h3>
                         <ul className="product__container">
                             <WishlistProduct
+                                link="https://www.graylingceramics.com/products/cup"
+                                image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1615642503/chuckhutchins/wishlist/coffee-cup-charcoal_zmvclz.png"
+                                name="Coffee Cup, Charcoal"
+                            />
+                            <WishlistProduct
                                 link="https://www.apple.com/shop/buy-homepod/homepod-mini/space-gray"
                                 image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/homepod-mini_fakxjr.png"
                                 name="HomePod mini, Space Gray"
+                            />
+                            <WishlistProduct
+                                link="https://www.fjallraven.com/us/en-us/bags-gear/kanken/kanken-accessories/kanken-bottle-pocket"
+                                image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1615642503/chuckhutchins/wishlist/kanken-bottle-pocket-black_rluqot.png"
+                                name="Kånken Bottle Pocket, Black"
                             />
                             <WishlistProduct
                                 link="https://herschel.com/shop/duffles/novel-duffle?v=10026-00535-OS"
@@ -130,6 +139,7 @@ export default function WishlistPage() {
                     <div>
                         <h2>Changelog</h2>
                         <ul className="list">
+                            <li>2021-03-13 &ndash; Added Coffee Cup, Charcoal. Added Kånken Bottle Pocket, Black.</li>
                             <li>2021-01-31 &ndash; Updated layout.</li>
                             <li>2021-01-09 &ndash; Removed Coffee Paddle, Aeropress, Rebirth Print, and P-Series Quantum X 4K HDR Smart TV, P65QX-H1.</li>
                             <li>2020-12-15 &ndash; Added dark mode styles. Removed Zip Card Holder, Dark Grey. Removed Sleep Mask and Sleep Mask footnote. Removed Kånken Organizer, Fog. Removed Kindle Oasis, Graphite.</li>
