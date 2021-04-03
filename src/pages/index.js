@@ -16,8 +16,15 @@ export default function IndexPage() {
                     <div className="entry">
                         <h3>Front-End Developer</h3>
                         <ul>
+                            <li>RecogNation</li>
+                            <li>April 2021 &ndash; Present</li>
+                        </ul>
+                    </div>
+                    <div className="entry">
+                        <h3>Front-End Developer</h3>
+                        <ul>
                             <li>Wayne State University</li>
-                            <li>May 2020 &ndash; Present</li>
+                            <li>May 2020 &ndash; April 2021</li>
                         </ul>
                         <ul className="list">
                             <li>Collaborates with stakeholders and designers to create, maintain, and enhance over 100 university websites</li>

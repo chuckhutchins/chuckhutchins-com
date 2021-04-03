@@ -414,6 +414,50 @@
             "medium": "Kindle",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1615140186/chuckhutchins/books/i-will-teach-you-to-be-rich_vs93sr.jpg",
             "start": "2-2-2021",
+            "end": "3-14-2021",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 39,
+            "title": "Ultralearning",
+            "author": "Scott H Young",
+            "medium": "Kindle",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1615140186/chuckhutchins/books/ultralearning_xdlqjn.jpg",
+            "start": "3-16-2021",
+            "end": "3-31-2021",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 40,
+            "title": "Block Print Magic",
+            "author": "Emily Louise Howard",
+            "medium": "Kindle",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1615140186/chuckhutchins/books/block-print-magic_wv1awh.jpg",
+            "start": "3-27-2021",
+            "end": "3-27-2021",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 41,
+            "title": "The Magicians: Alice's Story",
+            "author": "Lev Grossman, Pius Bak, Lilah Sturges",
+            "medium": "Kindle",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1615140186/chuckhutchins/books/the-magicians-alices-story_mwhtdq.jpg",
+            "start": "3-27-2021",
+            "end": "3-27-2021",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 42,
+            "title": "The Hitchhiker's Guide to the Galaxt",
+            "author": "Douglas Adams",
+            "medium": "Kindle",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1615140186/chuckhutchins/books/the-hitchhikers-guide-to-the-galaxy_cbc732.jpg",
+            "start": "4-1-2021",
             "end": "",
             "rating": "",
             "finish": 0
