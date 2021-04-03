@@ -309,6 +309,26 @@
             "end": "",
             "rating": "Like",
             "finish": 0
+        },
+        {
+            "index": 32,
+            "title": "Story of Seasons: Pioneers of Olive Town",
+            "platform": "Switch",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/story-of-seasons-pioneers-of-olive-town_mvzx67.jpg",
+            "start": "3-28-2021",
+            "end": "",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 33,
+            "title": "League of Legends: Wild Rift",
+            "platform": "iOS",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/league-of-legends-wild-rift_usvzkx.jpg",
+            "start": "3-30-2021",
+            "end": "",
+            "rating": "",
+            "finish": 0
         }
     ]
 }
