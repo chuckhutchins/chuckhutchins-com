@@ -71,7 +71,7 @@ export default function WishlistPage() {
                             <WishlistProduct
                                 link="https://www.nintendo.com/giftcards/"
                                 image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604691632/chuckhutchins/wishlist/nintendo-eshop-gift-card_mmiz24.png"
-                                name="Nintendo eShop Card"
+                                name="Nintendo eShop Gift Card"
                             />
                             <WishlistProduct
                                 link="https://www.google.com/search?q=coffee+roasters+near+me"
@@ -97,11 +97,6 @@ export default function WishlistPage() {
                                 link="https://www.fjallraven.com/us/en-us/bags-gear/kanken/kanken-accessories/kanken-bottle-pocket"
                                 image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1615642503/chuckhutchins/wishlist/kanken-bottle-pocket-black_rluqot.png"
                                 name="Kånken Bottle Pocket, Black"
-                            />
-                            <WishlistProduct
-                                link="https://herschel.com/shop/duffles/novel-duffle?v=10026-00535-OS"
-                                image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604758897/chuckhutchins/wishlist/novel-duffle-black_kody3w.png"
-                                name="Novel Duffle, Black"
                             />
                             <WishlistProduct
                                 link="https://www.yubico.com/product/yubikey-5c-nfc/"
@@ -139,6 +134,7 @@ export default function WishlistPage() {
                     <div>
                         <h2>Changelog</h2>
                         <ul className="list">
+                            <li>2021-04-03 &ndash; Removed Novel Duffle, Black.</li>
                             <li>2021-03-13 &ndash; Added Coffee Cup, Charcoal. Added Kånken Bottle Pocket, Black.</li>
                             <li>2021-01-31 &ndash; Updated layout.</li>
                             <li>2021-01-09 &ndash; Removed Coffee Paddle, Aeropress, Rebirth Print, and P-Series Quantum X 4K HDR Smart TV, P65QX-H1.</li>
