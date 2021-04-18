@@ -15,6 +15,14 @@ export default function IndexPage() {
                     <p>Hey, this is all the stuff I've read since 2020.</p>
                 </div>
                 <div>
+                    <h3>Jump down to:</h3>
+                    <ul className="list">
+                        <li><a href="#in-progress">In Progress</a></li>
+                        <li><a href="#finished">Finished</a></li>
+                        <li><a href="#abandoned">Abandoned</a></li>
+                    </ul>
+                </div>
+                <div>
                     <ReturnToLink page="media consumption" />
                 </div>
                 <div className="hr--mini"/>
