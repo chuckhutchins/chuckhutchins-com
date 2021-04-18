@@ -403,9 +403,9 @@
             "medium": "Kindle",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1615140186/chuckhutchins/books/eragon_gn7d8g.jpg",
             "start": "1-1-2021",
-            "end": "",
+            "end": "3-14-2021",
             "rating": "",
-            "finish": 0
+            "finish": 1
         },
         {
             "index": 38,
@@ -453,11 +453,22 @@
         },
         {
             "index": 42,
-            "title": "The Hitchhiker's Guide to the Galaxt",
+            "title": "The Hitchhiker's Guide to the Galaxy",
             "author": "Douglas Adams",
             "medium": "Kindle",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1615140186/chuckhutchins/books/the-hitchhikers-guide-to-the-galaxy_cbc732.jpg",
             "start": "4-1-2021",
+            "end": "4-14-2021",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 43,
+            "title": "Nevermoor: The Trials of Morrigan Crow",
+            "author": "Jessica Townsend",
+            "medium": "Kindle",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1615140186/chuckhutchins/books/nevermoor-the-trials-of-morrigan-crow_qlmkhw.jpg",
+            "start": "4-14-2021",
             "end": "",
             "rating": "",
             "finish": 0

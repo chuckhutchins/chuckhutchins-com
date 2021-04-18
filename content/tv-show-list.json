@@ -837,7 +837,7 @@
             "finish": 1
         },
         {
-            "index": 75,
+            "index": 77,
             "title": "How I Met Your Mother",
             "season": "3",
             "platform": "Hulu",
@@ -848,12 +848,34 @@
             "finish": 1
         },
         {
-            "index": 75,
+            "index": 78,
             "title": "How I Met Your Mother",
             "season": "4",
             "platform": "Hulu",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615504430/chuckhutchins/tv-shows/how-i-met-your-mother_b8uhlm.jpg",
             "start": "3-28-2021",
+            "end": "4-7-2021",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 79,
+            "title": "How I Met Your Mother",
+            "season": "5",
+            "platform": "Hulu",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615504430/chuckhutchins/tv-shows/how-i-met-your-mother_b8uhlm.jpg",
+            "start": "4-7-2021",
+            "end": "4-14-2021",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 80,
+            "title": "How I Met Your Mother",
+            "season": "6",
+            "platform": "Hulu",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615504430/chuckhutchins/tv-shows/how-i-met-your-mother_b8uhlm.jpg",
+            "start": "4-15-2021",
             "end": "",
             "rating": "",
             "finish": 0
