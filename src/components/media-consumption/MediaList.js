@@ -12,11 +12,13 @@ export default function MediaList({ mediaList }) {
 
     const inProgressList = getInProgressMediaList(media);
     const finishedList = getFinishedMediaList(media);
+    const abandonedList = getAbandonedMediaList(media);
 
     return (
         <>
             {inProgressList}
             {finishedList}
+            {abandonedList}
         </>
     )
 }
@@ -28,16 +30,22 @@ function getInProgressMediaList(media) {
 }
 
 function getFinishedMediaList(media) {
-    const finished = media.filter(item => (item.finish === 1) || (item.finish === 0 && item.end !== ""));
+    const finished = media.filter(item => item.finish === 1);
 
     return buildMediaList('Finished', finished);
+}
+
+function getAbandonedMediaList(media) {
+    const abandoned = media.filter(item => item.finish === 0 && item.end !== "");
+
+    return buildMediaList('Abandoned', abandoned);
 }
 
 function buildMediaList(header, media) {
     if (media !== undefined && media.length !== 0) {
         return (
             <>
-                <h2>{header}</h2>
+                <h2 id={convertToSlug(header)}>{header}</h2>
                 <ul className="media__wrapper">
                     {media.map((data) => {
                         return <Media data={data} key={`media-${data.index}`} />;
@@ -48,4 +56,11 @@ function buildMediaList(header, media) {
     } else {
         return null;
     }
+}
+
+function convertToSlug(text) {
+    return text
+        .toLowerCase()
+        .replace(/[^\w ]+/g,'')
+        .replace(/ +/g,'-');
 }
