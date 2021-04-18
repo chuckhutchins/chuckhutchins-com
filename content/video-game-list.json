@@ -306,9 +306,9 @@
             "platform": "Switch",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/bravely-default-2_rzt2s1.jpg",
             "start": "2-27-2021",
-            "end": "",
+            "end": "4-11-2021",
             "rating": "Like",
-            "finish": 0
+            "finish": 1
         },
         {
             "index": 32,
@@ -317,7 +317,7 @@
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/story-of-seasons-pioneers-of-olive-town_mvzx67.jpg",
             "start": "3-28-2021",
             "end": "",
-            "rating": "",
+            "rating": "Like",
             "finish": 0
         },
         {
@@ -326,7 +326,7 @@
             "platform": "iOS",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/league-of-legends-wild-rift_usvzkx.jpg",
             "start": "3-30-2021",
-            "end": "",
+            "end": "4-3-2021",
             "rating": "",
             "finish": 0
         }
