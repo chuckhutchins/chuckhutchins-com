@@ -11,6 +11,15 @@
         },
         {
             "index": 2,
+            "title": "Onward",
+            "platform": "Disney+",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/onward_njia4u.jpg",
+            "date": "0",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 3,
             "title": "Harry Potter and the Sorcerer's Stone",
             "platform": "Amazon Prime",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/harry-potter-1_on0kwu.jpg",
@@ -19,7 +28,7 @@
             "finish": 1
         },
         {
-            "index": 3,
+            "index": 4,
             "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
             "platform": "Amazon Prime",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/borat_u5m8vm.jpg",
@@ -28,7 +37,7 @@
             "finish": 1
         },
         {
-            "index": 4,
+            "index": 5,
             "title": "Borat Subsequent Moviefilm",
             "platform": "Amazon Prime",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/borat-2_vs24gy.jpg",
@@ -37,7 +46,7 @@
             "finish": 1
         },
         {
-            "index": 5,
+            "index": 6,
             "title": "Star Wars: Episode I - The Phantom Menace",
             "platform": "Disney+",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142697/chuckhutchins/movies/star-wars-1_iqariv.jpg",
@@ -46,7 +55,7 @@
             "finish": 1
         },
         {
-            "index": 6,
+            "index": 7,
             "title": "Star Wars: Episode II - Attack of the Clones",
             "platform": "Disney+",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142697/chuckhutchins/movies/star-wars-2_bmobxr.jpg",
@@ -55,7 +64,7 @@
             "finish": 1
         },
         {
-            "index": 7,
+            "index": 8,
             "title": "Star Wars: Episode III - Revenge of the Sith",
             "platform": "Disney+",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142697/chuckhutchins/movies/star-wars-3_jfw9u8.jpg",
@@ -64,7 +73,7 @@
             "finish": 1
         },
         {
-            "index": 8,
+            "index": 9,
             "title": "Star Wars: Episode IV - A New Hope",
             "platform": "Disney+",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142697/chuckhutchins/movies/star-wars-4_stvxhz.jpg",
@@ -73,7 +82,7 @@
             "finish": 1
         },
         {
-            "index": 9,
+            "index": 10,
             "title": "Star Wars: Episode V - The Empire Strikes Back",
             "platform": "Disney+",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142697/chuckhutchins/movies/star-wars-5_e5n2lv.jpg",
@@ -82,7 +91,7 @@
             "finish": 1
         },
         {
-            "index": 10,
+            "index": 11,
             "title": "Star Wars: Episode VI - Return of the Jedi",
             "platform": "Disney+",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142697/chuckhutchins/movies/star-wars-6_ikqw6z.jpg",
@@ -91,7 +100,7 @@
             "finish": 1
         },
         {
-            "index": 11,
+            "index": 12,
             "title": "Star Wars: Episode VII - The Force Awakens",
             "platform": "Disney+",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142698/chuckhutchins/movies/star-wars-7_bds9ct.jpg",
@@ -100,7 +109,7 @@
             "finish": 1
         },
         {
-            "index": 12,
+            "index": 13,
             "title": "Star Wars: Episode VIII - The Last Jedi",
             "platform": "Disney+",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142698/chuckhutchins/movies/star-wars-8_sdrl52.jpg",
@@ -109,7 +118,7 @@
             "finish": 1
         },
         {
-            "index": 13,
+            "index": 14,
             "title": "Star Wars: Episode IX - The Rise of Skywlker",
             "platform": "Disney+",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142698/chuckhutchins/movies/star-wars-9_wa7rw7.jpg",
@@ -118,7 +127,7 @@
             "finish": 1
         },
         {
-            "index": 14,
+            "index": 15,
             "title": "The Social Dilemma",
             "platform": "Netflix",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142698/chuckhutchins/movies/the-social-dilemma_h3raob.jpg",
@@ -127,7 +136,7 @@
             "finish": 1
         },
         {
-            "index": 15,
+            "index": 16,
             "title": "Enola Holmes",
             "platform": "Netflix",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/enola-holmes_u6d5hq.jpg",

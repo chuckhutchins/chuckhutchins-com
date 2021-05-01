@@ -469,6 +469,39 @@
             "medium": "Kindle",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1615140186/chuckhutchins/books/nevermoor-the-trials-of-morrigan-crow_qlmkhw.jpg",
             "start": "4-14-2021",
+            "end": "4-20-2021",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 44,
+            "title": "Wundersmith: The Calling of Morrigan Crow",
+            "author": "Jessica Townsend",
+            "medium": "Kindle",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1615140186/chuckhutchins/books/wundersmith-the-calling-of-morrigan-crow_txt7kg.jpg",
+            "start": "4-20-2021",
+            "end": "4-25-2021",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 45,
+            "title": "Hollowpox: The Hunt for Morrigan Crow",
+            "author": "Jessica Townsend",
+            "medium": "Kindle",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1615140186/chuckhutchins/books/hollowpox-the-hunt-for-morrigan-crow_dnxdgk.jpg",
+            "start": "4-25-2021",
+            "end": "4-29-2021",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 46,
+            "title": "Red Rising",
+            "author": "Pierce Brown",
+            "medium": "Kindle",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1615140186/chuckhutchins/books/red-rising_b9jdtc.jpg",
+            "start": "4-29-2021",
             "end": "",
             "rating": "",
             "finish": 0
