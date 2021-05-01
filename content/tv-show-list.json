@@ -876,6 +876,28 @@
             "platform": "Hulu",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615504430/chuckhutchins/tv-shows/how-i-met-your-mother_b8uhlm.jpg",
             "start": "4-15-2021",
+            "end": "4-21-2021",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 81,
+            "title": "How I Met Your Mother",
+            "season": "7",
+            "platform": "Hulu",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615504430/chuckhutchins/tv-shows/how-i-met-your-mother_b8uhlm.jpg",
+            "start": "4-22-2021",
+            "end": "4-29-2021",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 82,
+            "title": "How I Met Your Mother",
+            "season": "8",
+            "platform": "Hulu",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615504430/chuckhutchins/tv-shows/how-i-met-your-mother_b8uhlm.jpg",
+            "start": "4-29-2021",
             "end": "",
             "rating": "",
             "finish": 0
