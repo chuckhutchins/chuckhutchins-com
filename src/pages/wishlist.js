@@ -54,11 +54,6 @@ export default function WishlistPage() {
                                 name="Amazon Gift Card"
                             />
                             <WishlistProduct
-                              link="https://www.macbartender.com/Bartender4/"
-                              image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604691632/chuckhutchins/wishlist/bartender-4_vhh4fb.png"
-                              name="Bartender 4"
-                            />
-                            <WishlistProduct
                               link="https://blackwing602.com/collections/pencils/products/blackwing-natural-set-of-12"
                               image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/blackwing-natural-pencils_ogex2u.png"
                               name="Blackwing Natural Pencils"
@@ -99,6 +94,11 @@ export default function WishlistPage() {
                                 name="Kånken Bottle Pocket, Black"
                             />
                             <WishlistProduct
+                                link="https://www.mujjo.com/touchscreen-gloves/double-layered-touchscreen-gloves/"
+                                image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1615642503/chuckhutchins/wishlist/mujjo-double-layered-touchscreen-gloves_zw5vdd.png"
+                                name="Mujjo Double-Layered Touchscreen Gloves, Large"
+                            />
+                            <WishlistProduct
                                 link="https://www.yubico.com/product/yubikey-5c-nfc/"
                                 image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/yubikey-5c-nfc_fknwmn.png"
                                 name="YubiKey 5C NFC"
@@ -112,6 +112,11 @@ export default function WishlistPage() {
                                 link="https://acaia.co/collections/coffee-scales/products/pearl?variant=3791487303703"
                                 image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/acaia-pearl-black_oivrz8.png"
                                 name="Acaia Pearl, Black"
+                            />
+                            <WishlistProduct
+                                link="https://www.patagonia.com/product/mens-better-sweater-fleece-jacket/25528.html?dwvar_25528_color=BLK"
+                                image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/patagonia-better-sweater-fleece-jacket_agtqog.png"
+                                name="Patagonia Better Sweater Fleece Jacket, Black"
                             />
                         </ul>
                     </div>
@@ -134,11 +139,12 @@ export default function WishlistPage() {
                     <div>
                         <h2>Changelog</h2>
                         <ul className="list">
+                            <li>2021-05-22 &ndash; Added Mujjo Double-Layered Touchscreen Gloves, Large and Patagonia Better Sweater Fleece Jacket, Black. Removed Bartender 4.</li>
                             <li>2021-04-03 &ndash; Removed Novel Duffle, Black.</li>
-                            <li>2021-03-13 &ndash; Added Coffee Cup, Charcoal. Added Kånken Bottle Pocket, Black.</li>
+                            <li>2021-03-13 &ndash; Added Coffee Cup, Charcoal and Kånken Bottle Pocket, Black.</li>
                             <li>2021-01-31 &ndash; Updated layout.</li>
                             <li>2021-01-09 &ndash; Removed Coffee Paddle, Aeropress, Rebirth Print, and P-Series Quantum X 4K HDR Smart TV, P65QX-H1.</li>
-                            <li>2020-12-15 &ndash; Added dark mode styles. Removed Zip Card Holder, Dark Grey. Removed Sleep Mask and Sleep Mask footnote. Removed Kånken Organizer, Fog. Removed Kindle Oasis, Graphite.</li>
+                            <li>2020-12-15 &ndash; Added dark mode styles. Removed Zip Card Holder, Dark Grey. Removed Sleep Mask and Sleep Mask footnote, Kånken Organizer, Fog, and Kindle Oasis, Graphite.</li>
                             <li>2020-11-07 &ndash; Moved sleep mask from copy down to footnotes. Changed footnote asterisks to numbers.</li>
                             <li>2020-11-07 &ndash; Added changelog.</li>
                             <li>2020-11-07 &ndash; Added Bamboo Coffee Paddle and Novel Duffel.</li>
