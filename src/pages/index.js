@@ -19,6 +19,9 @@ export default function IndexPage() {
                             <li>RecogNation</li>
                             <li>April 2021 &ndash; Present</li>
                         </ul>
+                        <ul className="list">
+                            <li>Develops proprietary SaaS web applications in the employee recognition field</li>
+                        </ul>
                     </div>
                     <div className="entry">
                         <h3>Front-End Developer</h3>
