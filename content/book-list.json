@@ -502,6 +502,28 @@
             "medium": "Kindle",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1615140186/chuckhutchins/books/red-rising_b9jdtc.jpg",
             "start": "4-29-2021",
+            "end": "5-12-2021",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 47,
+            "title": "Golden Son",
+            "author": "Pierce Brown",
+            "medium": "Kindle",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1615140186/chuckhutchins/books/golden-son_qn8qgb.jpg",
+            "start": "5-13-2021",
+            "end": "5-18-2021",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 48,
+            "title": "Morning Star",
+            "author": "Pierce Brown",
+            "medium": "Kindle",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1615140186/chuckhutchins/books/morning-star_mcfjko.jpg",
+            "start": "5-18-2021",
             "end": "",
             "rating": "",
             "finish": 0
