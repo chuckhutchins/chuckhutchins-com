@@ -30,9 +30,9 @@ export default function IndexPage() {
                             <li>May 2020 &ndash; April 2021</li>
                         </ul>
                         <ul className="list">
-                            <li>Collaborates with stakeholders and designers to create, maintain, and enhance over 100 university websites</li>
-                            <li>Troubleshoots and fixes ADA compliance issues, ranging from design to interactivity</li>
-                            <li>Contributes to university's open-source Laravel template used to generate new websites</li>
+                            <li>Collaborated with stakeholders and designers to create, maintain, and enhance over 100 university websites</li>
+                            <li>Troubleshot and fixed ADA compliance issues, ranging from design to interactivity</li>
+                            <li>Contributed to university's open-source Laravel template used to generate new websites</li>
                         </ul>
                     </div>
                     <div className="entry">
