@@ -116,7 +116,7 @@ export default function WishlistPage() {
                             <WishlistProduct
                                 link="https://www.patagonia.com/product/mens-better-sweater-fleece-jacket/25528.html?dwvar_25528_color=BLK"
                                 image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/patagonia-better-sweater-fleece-jacket_agtqog.png"
-                                name="Patagonia Better Sweater Fleece Jacket, Black"
+                                name="Patagonia Better Sweater Fleece Jacket, Black, Large"
                             />
                         </ul>
                     </div>
@@ -139,6 +139,7 @@ export default function WishlistPage() {
                     <div>
                         <h2>Changelog</h2>
                         <ul className="list">
+                            <li>2021-06-25 &ndash; Added size to Patagonia Better Sweater Fleece Jacket, Black, Large.</li>
                             <li>2021-05-22 &ndash; Added Mujjo Double-Layered Touchscreen Gloves, Large and Patagonia Better Sweater Fleece Jacket, Black. Removed Bartender 4.</li>
                             <li>2021-04-03 &ndash; Removed Novel Duffle, Black.</li>
                             <li>2021-03-13 &ndash; Added Coffee Cup, Charcoal and Kånken Bottle Pocket, Black.</li>

@@ -21,6 +21,10 @@ export default function IndexPage() {
                         </ul>
                         <ul className="list">
                             <li>Develops proprietary SaaS web applications in the employee recognition field</li>
+                            <li>Develops and maintains Outlook add-in for sending eCards</li>
+                            <li>Develops and maintains Teams app for product's social feed, eCards, and nominations</li>
+                            <li>Fixes existing ADA compliance issues in product</li>
+                            <li>Advocates for accessibility within organization and educates team members and supervisors on importance of accessibility</li>
                         </ul>
                     </div>
                     <div className="entry">
@@ -108,6 +112,7 @@ export default function IndexPage() {
                             <li>Responsive Web Design</li>
                             <li>Sass</li>
                             <li>Tailwind CSS</li>
+                            <li>Vue</li>
                         </ul>
                     </div>
                     <div className="entry">
