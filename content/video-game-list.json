@@ -6,9 +6,9 @@
             "platform": "Switch",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615153799/chuckhutchins/video-games/tales-of-vesperia_bxnuf0.jpg",
             "start": "0",
-            "end": "",
+            "end": "5-29-2021",
             "rating": "Like",
-            "finish": 0
+            "finish": 1
         },
         {
             "index": 2,
@@ -327,6 +327,36 @@
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/league-of-legends-wild-rift_usvzkx.jpg",
             "start": "3-30-2021",
             "end": "4-3-2021",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 34,
+            "title": "Shin Megami Tensei III: Nocturne - HD Remaster",
+            "platform": "PS5",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/smt-3-nocturne-hd-remaster_svzqs9.jpg",
+            "start": "5-29-2021",
+            "end": "6-19-2021",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 35,
+            "title": "Star Wars Jedi: Fallen Order",
+            "platform": "PS5",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/star-wars-jedi-fallen-order_bpafet.jpg",
+            "start": "6-19-2021",
+            "end": "6-19-2021",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 36,
+            "title": "Hyrule Warriors: Age of Calamity: Expansion Pass",
+            "platform": "Switch",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/hyrule-warriors-age-of-calamity-dlc_gjnol7.jpg",
+            "start": "6-24-2021",
+            "end": "",
             "rating": "",
             "finish": 0
         }

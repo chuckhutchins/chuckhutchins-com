@@ -934,6 +934,61 @@
             "end": "5-14-2021",
             "rating": "",
             "finish": 0
+        },
+        {
+            "index": 86,
+            "title": "Shadow and Bone",
+            "season": "1",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615504430/chuckhutchins/tv-shows/shadow-and-bone_frlopm.jpg",
+            "start": "5-24-2021",
+            "end": "5-27-2021",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 87,
+            "title": "Raising Hope",
+            "season": "1",
+            "platform": "Hulu",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615504430/chuckhutchins/tv-shows/raising-hope_b25elv.jpg",
+            "start": "5-28-2021",
+            "end": "6-5-2021",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 88,
+            "title": "Raising Hope",
+            "season": "2",
+            "platform": "Hulu",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615504430/chuckhutchins/tv-shows/raising-hope_b25elv.jpg",
+            "start": "6-5-2021",
+            "end": "6-15-2021",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 89,
+            "title": "Raising Hope",
+            "season": "3",
+            "platform": "Hulu",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615504430/chuckhutchins/tv-shows/raising-hope_b25elv.jpg",
+            "start": "6-16-2021",
+            "end": "6-22-2021",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 90,
+            "title": "Raising Hope",
+            "season": "4",
+            "platform": "Hulu",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615504430/chuckhutchins/tv-shows/raising-hope_b25elv.jpg",
+            "start": "6-23-2021",
+            "end": "",
+            "rating": "",
+            "finish": 0
         }
     ]
 }
