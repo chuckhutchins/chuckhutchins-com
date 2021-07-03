@@ -535,9 +535,20 @@
             "medium": "Kindle",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1615140186/chuckhutchins/books/six-of-crows_brea49.jpg",
             "start": "6-2-2021",
-            "end": "",
+            "end": "6-25-2021",
             "rating": "",
-            "finish": 0
+            "finish": 1
+        },
+        {
+            "index": 50,
+            "title": "Blood, Sweat, and Pixels",
+            "author": "Jason Schreier",
+            "medium": "Kindle",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1615140186/chuckhutchins/books/blood-sweat-and-pixels_ifd5uo.jpg",
+            "start": "6-26-2021",
+            "end": "6-28-2021",
+            "rating": "",
+            "finish": 1
         }
     ]
 }
