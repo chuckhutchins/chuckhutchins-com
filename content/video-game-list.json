@@ -316,9 +316,9 @@
             "platform": "Switch",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/story-of-seasons-pioneers-of-olive-town_mvzx67.jpg",
             "start": "3-28-2021",
-            "end": "",
+            "end": "5-2-2021",
             "rating": "Like",
-            "finish": 0
+            "finish": 1
         },
         {
             "index": 33,
@@ -356,9 +356,9 @@
             "platform": "Switch",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/hyrule-warriors-age-of-calamity-dlc_gjnol7.jpg",
             "start": "6-24-2021",
-            "end": "",
+            "end": "6-27",
             "rating": "",
-            "finish": 0
+            "finish": 1
         }
     ]
 }

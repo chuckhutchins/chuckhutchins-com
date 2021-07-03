@@ -20,7 +20,7 @@ export default function IndexPage() {
                             <li>April 2021 &ndash; Present</li>
                         </ul>
                         <ul className="list">
-                            <li>Develops proprietary SaaS web applications in the employee recognition field</li>
+                            <li>Develops proprietary Vue SaaS web applications in the employee recognition field</li>
                             <li>Develops and maintains Outlook add-in for sending eCards</li>
                             <li>Develops and maintains Teams app for product's social feed, eCards, and nominations</li>
                             <li>Fixes existing ADA compliance issues in product</li>
