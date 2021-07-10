@@ -1,0 +1,172 @@
+{
+    "coffee": [
+        {
+            "index": 1,
+            "name": "West Valley Grand Crus",
+            "roaster": "Auténtico Costa Rica",
+            "rating": 5
+        },
+        {
+            "index": 2,
+            "name": "Sumatra",
+            "roaster": "Cabin Creek Coffee",
+            "rating": 5
+        },
+        {
+            "index": 3,
+            "name": "Cabin Creek Coffee Blend",
+            "roaster": "Cabin Creek Coffee",
+            "rating": 5
+        },
+        {
+            "index": 4,
+            "name": "Brazil Cerrado",
+            "roaster": "Chazzano Coffee Roasters",
+            "rating": 1
+        },
+        {
+            "index": 5,
+            "name": "Ten Generation",
+            "roaster": "Creation Coffee",
+            "rating": 5
+        },
+        {
+            "index": 6,
+            "name": "World's Strongest",
+            "roaster": "Death Wish Coffee",
+            "rating": 5
+        },
+        {
+            "index": 7,
+            "name": "Flint Strong",
+            "roaster": "Fireside Coffee Co",
+            "rating": 2
+        },
+        {
+            "index": 8,
+            "name": "I-75 Blend",
+            "roaster": "Germack Coffee",
+            "rating": 4
+        },
+        {
+            "index": 9,
+            "name": "Divine Goddess Blend",
+            "roaster": "Gooseneck Coffee",
+            "rating": 1
+        },
+        {
+            "index": 10,
+            "name": "Typhoon Espresso",
+            "roaster": "Higher Grounds Coffee",
+            "rating": 2
+        },
+        {
+            "index": 11,
+            "name": "Guadalupe El Salvador",
+            "roaster": "Irving Farm",
+            "rating": 1
+        },
+        {
+            "index": 12,
+            "name": "Killer Beanz",
+            "roaster": "Kalamazoo Coffee Co",
+            "rating": 3
+        },
+        {
+            "index": 13,
+            "name": "Organic Amazon Blend",
+            "roaster": "Klatch Coffee",
+            "rating": 3
+        },
+        {
+            "index": 14,
+            "name": "Corsica",
+            "roaster": "La Colombe Coffee Roasters",
+            "rating": 5
+        },
+        {
+            "index": 15,
+            "name": "Blue",
+            "roaster": "La Colombe Coffee Roasters",
+            "rating": 4
+        },
+        {
+            "index": 16,
+            "name": "Organic Rainforest Blend",
+            "roaster": "Magnum Coffee Roastery",
+            "rating": 4
+        },
+        {
+            "index": 17,
+            "name": "Birchwood Breakfast Blend",
+            "roaster": "Peace Coffee",
+            "rating": 2
+        },
+        {
+            "index": 18,
+            "name": "House Blend",
+            "roaster": "Peet's Coffee",
+            "rating": 1
+        },
+        {
+            "index": 19,
+            "name": "Lobster Butter",
+            "roaster": "RoosRoast Coffee",
+            "rating": 5
+        },
+        {
+            "index": 20,
+            "name": "Big Bang",
+            "roaster": "Rowster Coffee",
+            "rating": 5
+        },
+        {
+            "index": 21,
+            "name": "Milky Way",
+            "roaster": "Rowster Coffee",
+            "rating": 3
+        },
+        {
+            "index": 22,
+            "name": "Sumatra Aceh",
+            "roaster": "Sabbath Coffee Roasters",
+            "rating": 2
+        },
+        {
+            "index": 23,
+            "name": "Peak of Andes",
+            "roaster": "Schuil Coffee Company",
+            "rating": 2
+        },
+        {
+            "index": 24,
+            "name": "Norris",
+            "roaster": "Stovetop Roasters",
+            "rating": 1
+        },
+        {
+            "index": 25,
+            "name": "Hair Bender",
+            "roaster": "Stumptown Coffee Roasters",
+            "rating": 2
+        },
+        {
+            "index": 26,
+            "name": "French Roast",
+            "roaster": "Stumptown Coffee Roasters",
+            "rating": 2
+        },
+        {
+            "index": 27,
+            "name": "Homestead Blend",
+            "roaster": "Stumptown Coffee Roasters",
+            "rating": 2
+        },
+        {
+            "index": 28,
+            "name": "Decaf Peru",
+            "roaster": "Zen Cafe Coffee Roasters",
+            "rating": 4
+        }
+    ]
+}
