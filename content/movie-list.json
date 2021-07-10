@@ -170,6 +170,15 @@
             "date": "5-31-2021",
             "rating": "Like",
             "finish": 1
+        },
+        {
+            "index": 20,
+            "title": "Inside",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/inside_jyevbq.jpg",
+            "date": "7-7-2021",
+            "rating": "Like",
+            "finish": 1
         }
     ]
 }
