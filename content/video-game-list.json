@@ -146,7 +146,7 @@
             "platform": "Switch",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/divinity-original-sin-2-definitive-edition_zrx90j.jpg",
             "start": "0",
-            "end": "",
+            "end": "0",
             "rating": "",
             "finish": 0
         },
@@ -216,7 +216,7 @@
             "platform": "Switch",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148570/chuckhutchins/video-games/picross-s4_v80oh9.jpg",
             "start": "11-18-2020",
-            "end": "",
+            "end": "7-4-2021",
             "rating": "",
             "finish": 0
         },
@@ -356,9 +356,19 @@
             "platform": "Switch",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/hyrule-warriors-age-of-calamity-dlc_gjnol7.jpg",
             "start": "6-24-2021",
-            "end": "6-27",
+            "end": "6-27-2021",
             "rating": "",
             "finish": 1
+        },
+        {
+            "index": 37,
+            "title": "Final Fantasy VII Remake Intergrade",
+            "platform": "PS5",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/ff7-remake-intergrade_p57m9q.jpg",
+            "start": "7-4-2021",
+            "end": "",
+            "rating": "",
+            "finish": 0
         }
     ]
 }
