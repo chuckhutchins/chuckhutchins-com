@@ -458,9 +458,9 @@
             "platform": "Netflix",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146668/chuckhutchins/tv-shows/the-magicians_n7fkqa.jpg",
             "start": "0",
-            "end": "",
+            "end": "7-8-2021",
             "rating": "",
-            "finish": 0
+            "finish": 1
         },
         {
             "index": 43,
@@ -986,6 +986,28 @@
             "platform": "Hulu",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615504430/chuckhutchins/tv-shows/raising-hope_b25elv.jpg",
             "start": "6-23-2021",
+            "end": "7-3-2021",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 91,
+            "title": "Sweet Tooth",
+            "season": "1",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615504430/chuckhutchins/tv-shows/sweet-tooth-lores_jobn8k.jpg",
+            "start": "7-4-2021",
+            "end": "7-6-2021",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 92,
+            "title": "I Think You Should Leave with Tim Robinson",
+            "season": "2",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/i-think-you-should-leave_mnziam.jpg",
+            "start": "7-9-2021",
             "end": "",
             "rating": "",
             "finish": 0
