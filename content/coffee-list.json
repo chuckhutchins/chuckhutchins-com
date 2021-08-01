@@ -167,6 +167,24 @@
             "name": "Decaf Peru",
             "roaster": "Zen Cafe Coffee Roasters",
             "rating": 4
+        },
+        {
+            "index": 29,
+            "name": "Night Rider",
+            "roaster": "Velodrome Coffee Co",
+            "rating": 2
+        },
+        {
+            "index": 30,
+            "name": "French Roast",
+            "roaster": "Peet's Coffee",
+            "rating": 5
+        },
+        {
+            "index": 31,
+            "name": "Cold Brew Blend",
+            "roaster": "Ferris Coffee Co",
+            "rating": 3
         }
     ]
 }
