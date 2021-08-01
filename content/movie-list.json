@@ -179,6 +179,24 @@
             "date": "7-7-2021",
             "rating": "Like",
             "finish": 1
+        },
+        {
+            "index": 21,
+            "title": "What.",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/bo-burnham-what_iw4fzr.jpg",
+            "date": "7-11-2021",
+            "rating": "Dislike",
+            "finish": 1
+        },
+        {
+            "index": 20,
+            "title": "Make Happy",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/bo-burnham-make-happy_ipkdhh.jpg",
+            "date": "7-12-2021",
+            "rating": "",
+            "finish": 1
         }
     ]
 }
