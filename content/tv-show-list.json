@@ -1008,9 +1008,53 @@
             "platform": "Netflix",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/i-think-you-should-leave_mnziam.jpg",
             "start": "7-9-2021",
+            "end": "7-11-2021",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 93,
+            "title": "New Girl",
+            "season": "1",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/new-girl_ggzsd5.jpg",
+            "start": "7-14-2021",
+            "end": "7-21-2021",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 94,
+            "title": "Ted Lasso",
+            "season": "1",
+            "platform": "Apple TV+",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/ted-lasso_fgrpt3.jpg",
+            "start": "7-23-2021",
+            "end": "7-27-2021",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 95,
+            "title": "Ted Lasso",
+            "season": "2",
+            "platform": "Apple TV+",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/ted-lasso_fgrpt3.jpg",
+            "start": "7-28-2021",
             "end": "",
             "rating": "",
             "finish": 0
+        },
+        {
+            "index": 96,
+            "title": "Love Is Blind: After the Altar",
+            "season": "1.5",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/love-is-blind-after-the-altar_jjilgv.jpg",
+            "start": "7-28-2021",
+            "end": "7-29-2021",
+            "rating": "",
+            "finish": 1
         }
     ]
 }
