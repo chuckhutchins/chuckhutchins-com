@@ -549,6 +549,17 @@
             "end": "6-28-2021",
             "rating": "",
             "finish": 1
+        },
+        {
+            "index": 51,
+            "title": "The Eye of the World",
+            "author": "Robert Jordan",
+            "medium": "Kindle",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1615140186/chuckhutchins/books/the-eye-of-the-world_djlh61.jpg",
+            "start": "7-26-2021",
+            "end": "",
+            "rating": "",
+            "finish": 0
         }
     ]
 }
