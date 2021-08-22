@@ -1055,6 +1055,39 @@
             "end": "7-29-2021",
             "rating": "",
             "finish": 1
+        },
+        {
+            "index": 97,
+            "title": "Mythic Quest",
+            "season": "1",
+            "platform": "Apple TV+",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/mythic-quest_hy0z83.jpg",
+            "start": "8-6-2021",
+            "end": "8-7-2021",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 98,
+            "title": "New Girl",
+            "season": "2",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/new-girl_ggzsd5.jpg",
+            "start": "8-16-2021",
+            "end": "",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 99,
+            "title": "Mythic Quest",
+            "season": "2",
+            "platform": "Apple TV+",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/mythic-quest_hy0z83.jpg",
+            "start": "8-21-2021",
+            "end": "",
+            "rating": "",
+            "finish": 0
         }
     ]
 }

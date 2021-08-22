@@ -377,7 +377,7 @@
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/magic-arena_ihrg9m.jpg",
             "start": "7-19-2021",
             "end": "",
-            "rating": "",
+            "rating": "Like",
             "finish": 0
         },
         {
@@ -386,6 +386,16 @@
             "platform": "Switch",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/loz-skyward-sword-hd_lmbyf9.jpg",
             "start": "7-20-2021",
+            "end": "8-7-2021",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 40,
+            "title": "Final Fantasy IX",
+            "platform": "PS5",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/final-fantasy-9_m1rvh1.jpg",
+            "start": "8-8-2021",
             "end": "",
             "rating": "",
             "finish": 0

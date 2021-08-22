@@ -197,6 +197,15 @@
             "date": "7-12-2021",
             "rating": "",
             "finish": 1
+        },
+        {
+            "index": 21,
+            "title": "Jolt",
+            "platform": "Amazon Prime",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/jolt_s9hfuu.jpg",
+            "date": "8-6-2021",
+            "rating": "",
+            "finish": 1
         }
     ]
 }
