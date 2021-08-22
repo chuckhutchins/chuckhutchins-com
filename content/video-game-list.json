@@ -218,7 +218,7 @@
             "start": "11-18-2020",
             "end": "7-4-2021",
             "rating": "",
-            "finish": 0
+            "finish": 1
         },
         {
             "index": 23,
@@ -366,6 +366,36 @@
             "platform": "PS5",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/ff7-remake-intergrade_p57m9q.jpg",
             "start": "7-4-2021",
+            "end": "7-18-2021",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 38,
+            "title": "Magic: The Gathering Arena",
+            "platform": "Mac/iOS",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/magic-arena_ihrg9m.jpg",
+            "start": "7-19-2021",
+            "end": "",
+            "rating": "Like",
+            "finish": 0
+        },
+        {
+            "index": 39,
+            "title": "The Legend of Zelda: Skyward Sword HD",
+            "platform": "Switch",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/loz-skyward-sword-hd_lmbyf9.jpg",
+            "start": "7-20-2021",
+            "end": "8-7-2021",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 40,
+            "title": "Final Fantasy IX",
+            "platform": "PS5",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/final-fantasy-9_m1rvh1.jpg",
+            "start": "8-8-2021",
             "end": "",
             "rating": "",
             "finish": 0
