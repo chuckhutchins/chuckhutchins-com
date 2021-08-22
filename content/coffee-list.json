@@ -185,6 +185,12 @@
             "name": "Cold Brew Blend",
             "roaster": "Ferris Coffee Co",
             "rating": 3
+        },
+        {
+            "index": 32,
+            "name": "Single Origin Sumatra",
+            "roaster": "State Street Coffee Company",
+            "rating": 3
         }
     ]
 }
