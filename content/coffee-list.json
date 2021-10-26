@@ -191,6 +191,12 @@
             "name": "Single Origin Sumatra",
             "roaster": "State Street Coffee Company",
             "rating": 3
+        },
+        {
+            "index": 33,
+            "name": "Motown Espresso",
+            "roaster": "Craig's Coffee",
+            "rating": 5
         }
     ]
 }
