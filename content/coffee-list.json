@@ -197,6 +197,12 @@
             "name": "Motown Espresso",
             "roaster": "Craig's Coffee",
             "rating": 5
+        },
+        {
+            "index": 34,
+            "name": "Sumatra",
+            "roaster": "Uncommon Coffee Roasters",
+            "rating": 4
         }
     ]
 }
