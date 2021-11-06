@@ -53,20 +53,35 @@ export default function WishlistPage() {
                                 image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/amazon-gift-card_cwgy6w.png"
                                 name="Amazon Gift Card"
                             />
+                            {/*<WishlistProduct*/}
+                            {/*  link="https://blackwing602.com/collections/pencils/products/blackwing-natural-set-of-12"*/}
+                            {/*  image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/blackwing-natural-pencils_ogex2u.png"*/}
+                            {/*  name="Blackwing Natural Pencils"*/}
+                            {/*/>*/}
                             <WishlistProduct
-                              link="https://blackwing602.com/collections/pencils/products/blackwing-natural-set-of-12"
-                              image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/blackwing-natural-pencils_ogex2u.png"
-                              name="Blackwing Natural Pencils"
+                                link="https://littledebbie.com/www/snackproducts/view/57/christmas-tree-cakes-van"
+                                image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/christmas-tree-cakes_pvkvdx.png"
+                                name="Christmas Tree Cakes, Vanilla"
                             />
                             <WishlistProduct
                                 link="https://www.google.com/search?q=butchers+near+me"
                                 image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604691632/chuckhutchins/wishlist/delicious-meats_ec45nr.png"
-                                name="Delicious Meats"
+                                name="Delicious Meats (New York Strip, Chuck Roast)"
+                            />
+                            <WishlistProduct
+                                link="https://www.kroger.com/p/kroger-hot-spicy-naturally-flavored-peanuts-with-sea-salt/0001111001951"
+                                image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/hot-and-spicy-peanuts_nsmyqp.png"
+                                name="Kroger Hot & Spicy Peanuts"
                             />
                             <WishlistProduct
                                 link="https://www.nintendo.com/giftcards/"
                                 image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604691632/chuckhutchins/wishlist/nintendo-eshop-gift-card_mmiz24.png"
                                 name="Nintendo eShop Gift Card"
+                            />
+                            <WishlistProduct
+                                link="https://www.playstation.com/en-us/playstation-gift-cards/"
+                                image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604691632/chuckhutchins/wishlist/playstation-store-gift-card_zyyqew.png"
+                                name="PlayStation Store Gift Card"
                             />
                             <WishlistProduct
                                 link="https://www.google.com/search?q=coffee+roasters+near+me"
@@ -82,16 +97,6 @@ export default function WishlistPage() {
                                 link="https://www.graylingceramics.com/products/cup"
                                 image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1615642503/chuckhutchins/wishlist/coffee-cup-charcoal_zmvclz.png"
                                 name="Coffee Cup, Charcoal"
-                            />
-                            <WishlistProduct
-                                link="https://www.apple.com/shop/buy-homepod/homepod-mini/space-gray"
-                                image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/homepod-mini_fakxjr.png"
-                                name="HomePod mini, Space Gray"
-                            />
-                            <WishlistProduct
-                                link="https://www.fjallraven.com/us/en-us/bags-gear/kanken/kanken-accessories/kanken-bottle-pocket"
-                                image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1615642503/chuckhutchins/wishlist/kanken-bottle-pocket-black_rluqot.png"
-                                name="Kånken Bottle Pocket, Black"
                             />
                             <WishlistProduct
                                 link="https://www.mujjo.com/touchscreen-gloves/double-layered-touchscreen-gloves/"
@@ -112,6 +117,11 @@ export default function WishlistPage() {
                                 link="https://acaia.co/collections/coffee-scales/products/pearl?variant=3791487303703"
                                 image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/acaia-pearl-black_oivrz8.png"
                                 name="Acaia Pearl, Black"
+                            />
+                            <WishlistProduct
+                                link="https://anovaculinary.com/anova-precision-cooker/nano/"
+                                image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/anova-precision-cooker-nano_ruvaqx.png"
+                                name="Anova Precision Cooker Nano"
                             />
                             <WishlistProduct
                                 link="https://www.patagonia.com/product/mens-better-sweater-fleece-jacket/25528.html?dwvar_25528_color=BLK"
@@ -139,13 +149,14 @@ export default function WishlistPage() {
                     <div>
                         <h2>Changelog</h2>
                         <ul className="list">
-                            <li>2021-06-25 &ndash; Added size to Patagonia Better Sweater Fleece Jacket, Black, Large.</li>
-                            <li>2021-05-22 &ndash; Added Mujjo Double-Layered Touchscreen Gloves, Large and Patagonia Better Sweater Fleece Jacket, Black. Removed Bartender 4.</li>
-                            <li>2021-04-03 &ndash; Removed Novel Duffle, Black.</li>
-                            <li>2021-03-13 &ndash; Added Coffee Cup, Charcoal and Kånken Bottle Pocket, Black.</li>
+                            <li>2021-11-06 &ndash; Updated Delicious Meats title. Added Anova Precision Cooker Nano, Christmas Tree Cakes (Vanilla), Kroger Hot &amp; Spicy Peanuts, PlayStation Store Gift Card. Removed Blackwing Natural Pencils, HomePod mini (Space Gray), and Kånken Bottle Pocket (Black).</li>
+                            <li>2021-06-25 &ndash; Added size to Patagonia Better Sweater Fleece Jacket (Black, Large).</li>
+                            <li>2021-05-22 &ndash; Added Mujjo Double-Layered Touchscreen Gloves (Large) and Patagonia Better Sweater Fleece Jacket (Black). Removed Bartender 4.</li>
+                            <li>2021-04-03 &ndash; Removed Novel Duffle (Black).</li>
+                            <li>2021-03-13 &ndash; Added Coffee Cup (Charcoal) and Kånken Bottle Pocket (Black).</li>
                             <li>2021-01-31 &ndash; Updated layout.</li>
-                            <li>2021-01-09 &ndash; Removed Coffee Paddle, Aeropress, Rebirth Print, and P-Series Quantum X 4K HDR Smart TV, P65QX-H1.</li>
-                            <li>2020-12-15 &ndash; Added dark mode styles. Removed Zip Card Holder, Dark Grey. Removed Sleep Mask and Sleep Mask footnote, Kånken Organizer, Fog, and Kindle Oasis, Graphite.</li>
+                            <li>2021-01-09 &ndash; Removed Coffee Paddle, Aeropress, Rebirth Print, and P-Series Quantum X 4K HDR Smart TV (P65QX-H1).</li>
+                            <li>2020-12-15 &ndash; Added dark mode styles. Removed Zip Card Holder (Dark Grey). Removed Sleep Mask and Sleep Mask footnote, Kånken Organizer (Fog), and Kindle Oasis (Graphite).</li>
                             <li>2020-11-07 &ndash; Moved sleep mask from copy down to footnotes. Changed footnote asterisks to numbers.</li>
                             <li>2020-11-07 &ndash; Added changelog.</li>
                             <li>2020-11-07 &ndash; Added Bamboo Coffee Paddle and Novel Duffel.</li>

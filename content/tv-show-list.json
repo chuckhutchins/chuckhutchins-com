@@ -1041,9 +1041,9 @@
             "platform": "Apple TV+",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/ted-lasso_fgrpt3.jpg",
             "start": "7-28-2021",
-            "end": "",
-            "rating": "",
-            "finish": 0
+            "end": "10-9-2021",
+            "rating": "Like",
+            "finish": 1
         },
         {
             "index": 96,
@@ -1074,9 +1074,9 @@
             "platform": "Netflix",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/new-girl_ggzsd5.jpg",
             "start": "8-16-2021",
-            "end": "",
+            "end": "8-25-2021",
             "rating": "",
-            "finish": 0
+            "finish": 1
         },
         {
             "index": 99,
@@ -1085,9 +1085,64 @@
             "platform": "Apple TV+",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/mythic-quest_hy0z83.jpg",
             "start": "8-21-2021",
+            "end": "10-30-2021",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 100,
+            "title": "New Girl",
+            "season": "3",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/new-girl_ggzsd5.jpg",
+            "start": "8-25-2021",
+            "end": "9-15-2021",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 101,
+            "title": "New Girl",
+            "season": "4",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/new-girl_ggzsd5.jpg",
+            "start": "9-16-2021",
+            "end": "10-8-2021",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 102,
+            "title": "New Girl",
+            "season": "5",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/new-girl_ggzsd5.jpg",
+            "start": "10-10-2021",
+            "end": "10-24-2021",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 103,
+            "title": "New Girl",
+            "season": "6",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/new-girl_ggzsd5.jpg",
+            "start": "10-24-2021",
             "end": "",
             "rating": "",
             "finish": 0
+        },
+        {
+            "index": 104,
+            "title": "Squid Game",
+            "season": "6",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/squid-game_orr4wq.jpg",
+            "start": "11-1-2021",
+            "end": "11-2-2021",
+            "rating": "",
+            "finish": 1
         }
     ]
 }
