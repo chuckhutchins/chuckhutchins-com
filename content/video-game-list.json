@@ -376,8 +376,8 @@
             "platform": "Mac/iOS",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/magic-arena_ihrg9m.jpg",
             "start": "7-19-2021",
-            "end": "",
-            "rating": "Like",
+            "end": "10-11-2021",
+            "rating": "",
             "finish": 0
         },
         {
@@ -396,6 +396,16 @@
             "platform": "PS5",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/final-fantasy-9_m1rvh1.jpg",
             "start": "8-8-2021",
+            "end": "",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 41,
+            "title": "Hyrule Warriors: Age of Calamity: Expansion Pass",
+            "platform": "Switch",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/hyrule-warriors-age-of-calamity-dlc_gjnol7.jpg",
+            "start": "10-31-2021",
             "end": "",
             "rating": "",
             "finish": 0
