@@ -2,7 +2,7 @@
     "name": "chuckhutchins-com",
     "private": true,
     "description": "Personal site for Chuck Hutchins",
-    "version": "0.8.2",
+    "version": "0.8.3",
     "author": "Chuck Hutchins <chuck@chuckhutchins.com>",
     "dependencies": {
         "@babel/core": "^7.13.14",
