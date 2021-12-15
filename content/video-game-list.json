@@ -409,6 +409,36 @@
             "end": "",
             "rating": "",
             "finish": 0
+        },
+        {
+            "index": 42,
+            "title": "Zero Escape: Nine Hours, Nine Persons, Nine Doors",
+            "platform": "PS5",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/999_d09ixy.jpg",
+            "start": "11-29-2021",
+            "end": "12-04-2021",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 43,
+            "title": "Zero Escape: Virtue's Last Reward",
+            "platform": "PS5",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/virtues-last-reward_nr8lod.jpg",
+            "start": "12-04-2021",
+            "end": "12-12-2021",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 44,
+            "title": "Hades",
+            "platform": "PS5",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/hades_xbhn3t.jpg",
+            "start": "12-12-2021",
+            "end": "",
+            "rating": "",
+            "finish": 0
         }
     ]
 }
