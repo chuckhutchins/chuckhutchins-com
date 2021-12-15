@@ -203,6 +203,18 @@
             "name": "Sumatra",
             "roaster": "Uncommon Coffee Roasters",
             "rating": 4
+        },
+        {
+            "index": 35,
+            "name": "Brazil Cerrado",
+            "roaster": "Uncommon Coffee Roasters",
+            "rating": 2
+        },
+        {
+            "index": 36,
+            "name": "2021 Holiday Release",
+            "roaster": "Creation Coffee",
+            "rating": 1
         }
     ]
 }

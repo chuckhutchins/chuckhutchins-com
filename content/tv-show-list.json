@@ -1129,9 +1129,9 @@
             "platform": "Netflix",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/new-girl_ggzsd5.jpg",
             "start": "10-24-2021",
-            "end": "",
+            "end": "11-01-2021",
             "rating": "",
-            "finish": 0
+            "finish": 1
         },
         {
             "index": 104,
@@ -1143,6 +1143,72 @@
             "end": "11-2-2021",
             "rating": "",
             "finish": 1
+        },
+        {
+            "index": 105,
+            "title": "New Girl",
+            "season": "7",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/new-girl_ggzsd5.jpg",
+            "start": "11-06-2021",
+            "end": "11-12-2021",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 106,
+            "title": "The Circle",
+            "season": "3",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/the-circle-3_wjgsne.jpg",
+            "start": "11-13-2021",
+            "end": "11-22-2021",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 107,
+            "title": "You",
+            "season": "3",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/you-3_tapkwr.jpg",
+            "start": "11-25-2021",
+            "end": "12-03-2021",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 108,
+            "title": "Arcane",
+            "season": "1",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/arcane_nar9mj.jpg",
+            "start": "11-26-2021",
+            "end": "11-28-2021",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 109,
+            "title": "What We Do In The Shadows",
+            "season": "3",
+            "platform": "Hulu",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/what-we-do-in-the-shadows-3_v6323k.jpg",
+            "start": "12-04-2021",
+            "end": "12-06-2021",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 110,
+            "title": "The One",
+            "season": "1",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/the-one_drthvs.jpg",
+            "start": "12-10-2021",
+            "end": "",
+            "rating": "",
+            "finish": 0
         }
     ]
 }
