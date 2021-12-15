@@ -99,11 +99,6 @@ export default function WishlistPage() {
                                 name="Coffee Cup, Charcoal"
                             />
                             <WishlistProduct
-                                link="https://www.mujjo.com/touchscreen-gloves/double-layered-touchscreen-gloves/"
-                                image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1615642503/chuckhutchins/wishlist/mujjo-double-layered-touchscreen-gloves_zw5vdd.png"
-                                name="Mujjo Double-Layered Touchscreen Gloves, Large"
-                            />
-                            <WishlistProduct
                                 link="https://www.yubico.com/product/yubikey-5c-nfc/"
                                 image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/yubikey-5c-nfc_fknwmn.png"
                                 name="YubiKey 5C NFC"
@@ -122,11 +117,6 @@ export default function WishlistPage() {
                                 link="https://anovaculinary.com/anova-precision-cooker/nano/"
                                 image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/anova-precision-cooker-nano_ruvaqx.png"
                                 name="Anova Precision Cooker Nano"
-                            />
-                            <WishlistProduct
-                                link="https://www.patagonia.com/product/mens-better-sweater-fleece-jacket/25528.html?dwvar_25528_color=BLK"
-                                image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/patagonia-better-sweater-fleece-jacket_agtqog.png"
-                                name="Patagonia Better Sweater Fleece Jacket, Black, Large"
                             />
                         </ul>
                     </div>
@@ -149,6 +139,7 @@ export default function WishlistPage() {
                     <div>
                         <h2>Changelog</h2>
                         <ul className="list">
+                            <li>2021-12-15 &ndash; Removed Mujjo Double-Layered Touchscreen Gloves (Large) and Patagonia Better Sweater Fleece Jacket (Black, Large).</li>
                             <li>2021-11-06 &ndash; Updated Delicious Meats title. Added Anova Precision Cooker Nano, Christmas Tree Cakes (Vanilla), Kroger Hot &amp; Spicy Peanuts, PlayStation Store Gift Card. Removed Blackwing Natural Pencils, HomePod mini (Space Gray), and Kånken Bottle Pocket (Black).</li>
                             <li>2021-06-25 &ndash; Added size to Patagonia Better Sweater Fleece Jacket (Black, Large).</li>
                             <li>2021-05-22 &ndash; Added Mujjo Double-Layered Touchscreen Gloves (Large) and Patagonia Better Sweater Fleece Jacket (Black). Removed Bartender 4.</li>
