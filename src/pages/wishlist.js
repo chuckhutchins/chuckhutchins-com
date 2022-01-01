@@ -59,19 +59,9 @@ export default function WishlistPage() {
                             {/*  name="Blackwing Natural Pencils"*/}
                             {/*/>*/}
                             <WishlistProduct
-                                link="https://littledebbie.com/www/snackproducts/view/57/christmas-tree-cakes-van"
-                                image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/christmas-tree-cakes_pvkvdx.png"
-                                name="Christmas Tree Cakes, Vanilla"
-                            />
-                            <WishlistProduct
                                 link="https://www.google.com/search?q=butchers+near+me"
                                 image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604691632/chuckhutchins/wishlist/delicious-meats_ec45nr.png"
                                 name="Delicious Meats (New York Strip, Chuck Roast)"
-                            />
-                            <WishlistProduct
-                                link="https://www.kroger.com/p/kroger-hot-spicy-naturally-flavored-peanuts-with-sea-salt/0001111001951"
-                                image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/hot-and-spicy-peanuts_nsmyqp.png"
-                                name="Kroger Hot & Spicy Peanuts"
                             />
                             <WishlistProduct
                                 link="https://www.nintendo.com/giftcards/"
@@ -94,11 +84,6 @@ export default function WishlistPage() {
                         <h3 aria-label="$25 to $99">$$</h3>
                         <ul className="product__container">
                             <WishlistProduct
-                                link="https://www.graylingceramics.com/products/cup"
-                                image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1615642503/chuckhutchins/wishlist/coffee-cup-charcoal_zmvclz.png"
-                                name="Coffee Cup, Charcoal"
-                            />
-                            <WishlistProduct
                                 link="https://www.yubico.com/product/yubikey-5c-nfc/"
                                 image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604429870/chuckhutchins/wishlist/yubikey-5c-nfc_fknwmn.png"
                                 name="YubiKey 5C NFC"
@@ -112,11 +97,6 @@ export default function WishlistPage() {
                                 link="https://acaia.co/collections/coffee-scales/products/pearl?variant=3791487303703"
                                 image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/acaia-pearl-black_oivrz8.png"
                                 name="Acaia Pearl, Black"
-                            />
-                            <WishlistProduct
-                                link="https://anovaculinary.com/anova-precision-cooker/nano/"
-                                image="https://res.cloudinary.com/innocent/image/upload/f_auto/v1604669635/chuckhutchins/wishlist/anova-precision-cooker-nano_ruvaqx.png"
-                                name="Anova Precision Cooker Nano"
                             />
                         </ul>
                     </div>
@@ -139,6 +119,7 @@ export default function WishlistPage() {
                     <div>
                         <h2>Changelog</h2>
                         <ul className="list">
+                            <li>2022-01-01 &ndash; Removed Christmas Tree Cakes (Vanilla), Kroger Hot & Spicy Peanuts, Coffee Cup (Charcoal), and Anova Precision Cooker Nano.</li>
                             <li>2021-12-15 &ndash; Removed Mujjo Double-Layered Touchscreen Gloves (Large) and Patagonia Better Sweater Fleece Jacket (Black, Large).</li>
                             <li>2021-11-06 &ndash; Updated Delicious Meats title. Added Anova Precision Cooker Nano, Christmas Tree Cakes (Vanilla), Kroger Hot &amp; Spicy Peanuts, PlayStation Store Gift Card. Removed Blackwing Natural Pencils, HomePod mini (Space Gray), and Kånken Bottle Pocket (Black).</li>
                             <li>2021-06-25 &ndash; Added size to Patagonia Better Sweater Fleece Jacket (Black, Large).</li>

@@ -1206,9 +1206,20 @@
             "platform": "Netflix",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/the-one_drthvs.jpg",
             "start": "12-10-2021",
-            "end": "",
+            "end": "12-18-2021",
             "rating": "",
-            "finish": 0
+            "finish": 1
+        },
+        {
+            "index": 111,
+            "title": "The Witcher",
+            "season": "2",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/witcher-2_w2xjm8.jpg",
+            "start": "12-20-2021",
+            "end": "12-24-2021",
+            "rating": "Like",
+            "finish": 1
         }
     ]
 }
