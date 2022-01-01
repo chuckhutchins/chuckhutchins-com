@@ -215,6 +215,12 @@
             "name": "2021 Holiday Release",
             "roaster": "Creation Coffee",
             "rating": 1
+        },
+        {
+            "index": 37,
+            "name": "Colobia Café Buesaco",
+            "roaster": "Cloud Walking Coffee",
+            "rating": 2
         }
     ]
 }
