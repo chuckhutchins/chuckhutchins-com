@@ -206,6 +206,24 @@
             "date": "8-6-2021",
             "rating": "",
             "finish": 1
+        },
+        {
+            "index": 22,
+            "title": "The Witcher: Nightmare of the Wolf",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/witcher-nightmare-of-the-wolf_yaw2ct.jpg",
+            "date": "12-24-2021",
+            "rating": "Dislike",
+            "finish": 1
+        },
+        {
+            "index": 23,
+            "title": "The Lord of the Rings: The Fellowship of the Ring",
+            "platform": "Amazon Prime",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/lotr-fellowship-of-the-ring_clfczz.jpg",
+            "date": "12-31-2021",
+            "rating": "",
+            "finish": 1
         }
     ]
 }
