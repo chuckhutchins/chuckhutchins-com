@@ -21,6 +21,7 @@ export default function IndexPage() {
                         </ul>
                         <ul className="list">
                             <li>Develops proprietary Vue SaaS web applications in the employee recognition field</li>
+                            <li>Maintains React Native iOS/Android application</li>
                             <li>Develops and maintains Outlook add-in for sending eCards</li>
                             <li>Develops and maintains Teams app for product's social feed, eCards, and nominations</li>
                             <li>Fixes existing ADA compliance issues in product</li>
