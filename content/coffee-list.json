@@ -281,6 +281,12 @@
             "name": "Dark Blend",
             "roaster": "Coffeehaus",
             "rating": 3
+        },
+        {
+            "index": 48,
+            "name": "Badass Women Blend",
+            "roaster": "Roos Roast",
+            "rating": 4
         }
     ]
 }
