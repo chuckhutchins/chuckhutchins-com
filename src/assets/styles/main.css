@@ -4,6 +4,7 @@
   --color-gray: #aaa;
   --color-light-gray: #ddd;
   --color-white: #f5f5f5;
+  --fancy-gradient: linear-gradient(-45deg, #ffa745 0%, #fe869f 30%, #ef7ac8 45%, #a083ed 70%, #43aeff 85%);
 }
 
 *,
@@ -23,6 +24,9 @@ html {
   --bg: var(--color-white);
   --bg-image: url('@/assets/images/bg-light.png');
   --text-shadow: rgba(0, 0, 0, .3);
+  --filter-background: var(--color-light-gray);
+  --filter-active: var(--color-white);
+  --filter-hover: var(--color-gray);
   background-color: var(--bg);
   font-size: 18px;
 }
@@ -43,7 +47,7 @@ html {
     --text-shadow: rgba(0, 0, 0, .9);
     --filter-background: var(--color-dark-gray);
     --filter-active: var(--color-black);
-    --filter-hover: var(--color-gray)
+    --filter-hover: var(--color-gray);
   }
 }
 
