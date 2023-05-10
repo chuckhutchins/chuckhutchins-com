@@ -26,7 +26,7 @@
         </ul>
       </nav>
       <div>
-        &copy; {{ currentYear }} Chuck Hutchins
+        Made with 💀
       </div>
     </footer>
   </div>
@@ -35,11 +35,6 @@
 <script>
 export default {
   name: 'App',
-  computed: {
-    currentYear() {
-      return new Date().getFullYear();
-    }
-  },
 };
 </script>
 
