@@ -118,7 +118,8 @@
             "index": 20,
             "name": "Big Bang",
             "roaster": "Rowster Coffee",
-            "rating": 5
+            "rating": 5,
+            "favorite": true
         },
         {
             "index": 21,
