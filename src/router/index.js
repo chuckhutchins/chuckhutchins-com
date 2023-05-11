@@ -23,10 +23,27 @@ const router = createRouter({
     {
       path: '/media-consumption',
       name: 'MediaConsumptionPage',
-      // route level code-splitting
-      // this generates a separate chunk (About.[hash].js) for this route
-      // which is lazy-loaded when the route is visited.
       component: () => import('@/views/MediaConsumptionView.vue'),
+    },
+    {
+      path: '/media-consumption/books',
+      name: 'MediaConsumptionBooksPage',
+      component: () => import('@/views/MediaConsumptionBooksView.vue'),
+    },
+    {
+      path: '/media-consumption/movies',
+      name: 'MediaConsumptionMoviesPage',
+      component: () => import('@/views/MediaConsumptionMoviesView.vue'),
+    },
+    {
+      path: '/media-consumption/tv-shows',
+      name: 'MediaConsumptionTVShowsPage',
+      component: () => import('@/views/MediaConsumptionTVShowsView.vue'),
+    },
+    {
+      path: '/media-consumption/video-games',
+      name: 'MediaConsumptionVideoGamesPage',
+      component: () => import('@/views/MediaConsumptionVideoGamesView.vue'),
     },
   ],
 });
