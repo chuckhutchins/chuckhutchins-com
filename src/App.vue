@@ -8,7 +8,7 @@
             <a href="mailto:chuck@chuckhutchins.com" aria-label="Email Me">chuck@chuckhutchins.com</a>
           </li>
           <li>
-            <a href="https://github.com/InnocentSmasher" aria-label="View My Profile on GitHub">GitHub</a>
+            <a href="https://github.com/chuckhutchins" aria-label="View My Profile on GitHub">GitHub</a>
           </li>
           <li>
             <a href="https://www.linkedin.com/in/chuckhutchinsdesign/" aria-label="View My Profile on LinkedIn">LinkedIn</a>
@@ -21,7 +21,7 @@
       <nav>
         <ul class="haunts">
           <li><a href="mailto:chuck@chuckhutchins.com" aria-label="Email Me">chuck@chuckhutchins.com</a></li>
-          <li><a href="https://github.com/InnocentSmasher" aria-label="View My Profile on GitHub">GitHub</a></li>
+          <li><a href="https://github.com/chuckhutchins" aria-label="View My Profile on GitHub">GitHub</a></li>
           <li><a href="https://www.linkedin.com/in/chuckhutchinsdesign/" aria-label="View My Profile on LinkedIn">LinkedIn</a></li>
         </ul>
       </nav>
