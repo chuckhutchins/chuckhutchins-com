@@ -118,7 +118,8 @@
             "index": 20,
             "name": "Big Bang",
             "roaster": "Rowster Coffee",
-            "rating": 5
+            "rating": 5,
+            "favorite": true
         },
         {
             "index": 21,
@@ -286,6 +287,96 @@
             "index": 48,
             "name": "Badass Women Blend",
             "roaster": "Roos Roast",
+            "rating": 4
+        },
+        {
+            "index": 49,
+            "name": "Highland Humanity",
+            "roaster": "Higher Grounds",
+            "rating": 3
+        },
+        {
+            "index": 50,
+            "name": "Brace For It Blend",
+            "roaster": "Black Stag",
+            "rating": 4
+        },
+        {
+            "index": 51,
+            "name": "Spooky Blend",
+            "roaster": "Uncommon Coffee Roasters",
+            "rating": 3
+        },
+        {
+            "index": 52,
+            "name": "Organic French Roast Vineyard",
+            "roaster": "Black Oak Coffee Roasters",
+            "rating": 5
+        },
+        {
+            "index": 53,
+            "name": "Lunar Dark Roast",
+            "roaster": "Sabbath Coffee Roasters",
+            "rating": 3
+        },
+        {
+            "index": 54,
+            "name": "Alum Rock Blend",
+            "roaster": "Academic Coffee Co",
+            "rating": 3
+        },
+        {
+            "index": 55,
+            "name": "360 Espresso Blend",
+            "roaster": "Voltaire Coffee House",
+            "rating": 4
+        },
+        {
+            "index": 56,
+            "name": "Sumatra",
+            "roaster": "Jitter Bean Coffee Co",
+            "rating": 4
+        },
+        {
+            "index": 57,
+            "name": "Espresso Yourself",
+            "roaster": "Rogue Roasters",
+            "rating": 5
+        },
+        {
+            "index": 58,
+            "name": "Holiday Blend 2022 Edition",
+            "roaster": "Uncommon Coffee Roasters",
+            "rating": 3
+        },
+        {
+            "index": 59,
+            "name": "Christmas 2022",
+            "roaster": "Starbucks Reserve",
+            "rating": 4
+        },
+        {
+            "index": 60,
+            "name": "Big Trouble",
+            "roaster": "Counter Culture Coffee",
+            "rating": 4
+        },
+        {
+            "index": 61,
+            "name": "Dark Roast",
+            "roaster": "Atomic Coffee",
+            "rating": 5
+        },
+        {
+            "index": 62,
+            "name": "Decaf Sumatra",
+            "roaster": "Starbucks",
+            "rating": 5
+        },
+        {
+            "index": 63,
+            "name": "Brazil Mantiqueira De Minas",
+            "roaster": "The Kookaburra Coffee",
             "rating": 4
         }
     ]
