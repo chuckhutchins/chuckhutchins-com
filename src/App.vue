@@ -4,37 +4,31 @@
       <nav class="nav">
         <RouterLink :to="{name: 'ResumePage'}" class="main">Chuck Hutchins</RouterLink>
         <ul class="haunts">
-          <li>
+          <li class="email">
             <a href="mailto:chuck@chuckhutchins.com" aria-label="Email Me">chuck@chuckhutchins.com</a>
           </li>
-          <li>
+          <li class="github">
             <a href="https://github.com/chuckhutchins" aria-label="View My Profile on GitHub">GitHub</a>
           </li>
-          <li>
+          <li class="linkedin">
             <a href="https://www.linkedin.com/in/chuckhutchinsdesign/" aria-label="View My Profile on LinkedIn">LinkedIn</a>
           </li>
         </ul>
       </nav>
     </header>
     <RouterView />
-    <footer class="footer">
-      <nav>
-        <ul class="haunts">
-          <li><a href="mailto:chuck@chuckhutchins.com" aria-label="Email Me">chuck@chuckhutchins.com</a></li>
-          <li><a href="https://github.com/chuckhutchins" aria-label="View My Profile on GitHub">GitHub</a></li>
-          <li><a href="https://www.linkedin.com/in/chuckhutchinsdesign/" aria-label="View My Profile on LinkedIn">LinkedIn</a></li>
-        </ul>
-      </nav>
-      <div>
-        Made with 💀
-      </div>
-    </footer>
+    <TheFooter />
   </div>
 </template>
 
 <script>
+import TheFooter from '@/components/common/TheFooter.vue';
+
 export default {
   name: 'App',
+  components: {
+    TheFooter,
+  },
 };
 </script>
 
@@ -142,28 +136,6 @@ header {
 
   .linkedin {
     justify-self: self-start;
-  }
-}
-
-footer {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-  border-top: 2px solid;
-  padding-top: 1rem;
-
-  @media (min-width: 768px) {
-    flex-direction: row;
-  }
-
-  .copyright {
-    line-height: 1;
-    margin-top: 1.5rem;
-
-    @media (min-width: 768px) {
-      margin-top: 0;
-    }
   }
 }
 </style>
