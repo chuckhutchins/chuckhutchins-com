@@ -12,11 +12,12 @@
   <div v-if="hasFinished" class="media-group">
     <h2>Finished</h2>
     <div class="media-list">
-      <MediaItem
-        v-for="(book, index) in finishedList"
-        :key="index"
-        :item="book"
-      />
+      <template v-for="(book, index) in finishedList" :key="index">
+        <div v-if="showYearCard(index)" class="year-card">
+          <p>{{ formatDate(book.end) }}</p>
+        </div>
+        <MediaItem :item="book" />
+      </template>
     </div>
   </div>
 </template>
@@ -43,13 +44,23 @@ export default {
     finishedList() {
       const list = [...this.bookList];
       const finished = list.filter(item => item.finish !== 0 || item.end !== '');
-      // TODO: fix date format for all data in order to use new Date to sort
-      return finished.reverse();
+      return finished.sort((a, b) => (a.end > b.end) ? -1 : 1);
     },
     hasFinished() {
       return this.finishedList.length > 0;
     },
-  }
+  },
+  methods: {
+    showYearCard(index) {
+      return (index === 0) || this.formatDate(this.finishedList[index - 1].end) !== this.formatDate(this.finishedList[index].end);
+    },
+    formatDate(date) {
+      if (date === '0') {
+        return 'Before the existence of written records';
+      }
+      return this.$dayjs(date).format('YYYY');
+    },
+  },
 };
 </script>
 
@@ -67,6 +78,22 @@ export default {
 
   @media (min-width: 480px) {
     grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));
+  }
+}
+
+.year-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0.25rem;
+  background: var(--fancy-gradient);
+
+  p {
+    color: var(--color-white);
+    font-size: 2rem;
+    font-weight: 700;
+    text-shadow: 0 .0625rem .125rem hsla(0, 0%, 0%, .25);
+    text-align: center;
   }
 }
 </style>
