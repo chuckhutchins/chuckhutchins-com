@@ -8,4 +8,4 @@ export default {
   getCoffeeList() {
     return coffeeList.coffee;
   },
-}
+};
