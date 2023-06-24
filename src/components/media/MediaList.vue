@@ -3,46 +3,52 @@
     <h2>In Progress</h2>
     <div class="media-list">
       <MediaItem
-        v-for="(book, index) in inProgressList"
+        v-for="(item, index) in inProgressList"
         :key="index"
-        :item="book"
+        :item="item"
       />
     </div>
   </div>
   <div v-if="hasFinished" class="media-group">
     <h2>Finished</h2>
     <div class="media-list">
-      <template v-for="(book, index) in finishedList" :key="index">
+      <template v-for="(item, index) in finishedList" :key="index">
         <div v-if="showYearCard(index)" class="year-card">
-          <p>{{ formatDate(book.end) }}</p>
+          <p>{{ formatDate(item.end) }}</p>
         </div>
-        <MediaItem :item="book" />
+        <MediaItem :item="item" />
       </template>
     </div>
   </div>
 </template>
 
 <script>
-import { mapState } from 'pinia';
-import { useMediaStore } from '@/stores/MediaStore.js';
 import MediaItem from '@/components/media/MediaItem.vue';
 
 export default {
   name: 'MediaList',
+  props: {
+    mediaList: {
+      default() {
+        return {};
+      },
+      required: true,
+      type: Object,
+    },
+  },
   components: {
     MediaItem,
   },
   computed: {
-    ...mapState(useMediaStore, ['bookList']),
     inProgressList() {
-      const list = [...this.bookList];
+      const list = [...this.mediaList];
       return list.filter(item => item.finish === 0 && item.end === '');
     },
     hasInProgress() {
       return this.inProgressList.length > 0;
     },
     finishedList() {
-      const list = [...this.bookList];
+      const list = [...this.mediaList];
       const finished = list.filter(item => item.finish !== 0 || item.end !== '');
       return finished.sort((a, b) => (a.end > b.end) ? -1 : 1);
     },
