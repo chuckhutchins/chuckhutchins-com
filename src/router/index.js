@@ -1,6 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import ResumeView from '@/views/ResumeView.vue';
-import {useCoffeeStore} from '@/stores/CoffeeStore.js';
+import { useCoffeeStore } from '@/stores/CoffeeStore.js';
+import { useMediaStore } from '@/stores/MediaStore.js';
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -29,6 +30,11 @@ const router = createRouter({
       path: '/media-consumption/books',
       name: 'MediaConsumptionBooksPage',
       component: () => import('@/views/MediaConsumptionBooksView.vue'),
+      beforeEnter(to, from, next) {
+        const mediaStore = useMediaStore();
+        mediaStore.getBookList();
+        next();
+      },
     },
     {
       path: '/media-consumption/movies',
