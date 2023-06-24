@@ -7,11 +7,13 @@
 <!--      TODO: back to link-->
     </div>
     <TheHr />
-    <MediaList />
+    <MediaList :mediaList="bookList" />
   </main>
 </template>
 
 <script>
+import { mapState } from 'pinia';
+import { useMediaStore } from '@/stores/MediaStore.js';
 import TheHr from '@/components/common/TheHr.vue';
 import MediaList from '@/components/media/MediaList.vue';
 
@@ -20,6 +22,9 @@ export default {
   components: {
     TheHr,
     MediaList,
+  },
+  computed: {
+    ...mapState(useMediaStore, ['bookList']),
   },
 };
 </script>

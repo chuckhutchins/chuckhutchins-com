@@ -31,7 +31,7 @@ export default {
       return this.type.replace(/\s/g, "");
     },
   },
-}
+};
 </script>
 
 <style scoped lang="scss">
