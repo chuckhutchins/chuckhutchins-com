@@ -10,24 +10,16 @@ export const useMediaStore = defineStore('media', {
   }),
   actions: {
     getBookList() {
-      console.log(ApiService.getBookList());
       this.bookList = ApiService.getBookList();
+    },
+    getMovieList() {
+      this.movieList = ApiService.getMovieList();
+    },
+    getTVShowList() {
+      this.tvShowList = ApiService.getTVShowList();
+    },
+    getVideoGameList() {
+      this.videoGameList = ApiService.getVideoGameList();
     },
   },
 });
-
-function filterByRating(list, rating) {
-  if (rating === 'all') {
-    return sortByName(list);
-  } else {
-    return sortByName(list.filter(item => item.rating === Number(rating)));
-  }
-}
-
-function sortByName(list) {
-  return []
-    .concat(list)
-    .sort((a, b) => {
-      return a.name.localeCompare(b.name);
-    });
-}

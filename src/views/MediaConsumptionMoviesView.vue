@@ -7,21 +7,24 @@
 <!--      TODO: back to link-->
     </div>
     <TheHr />
-    <div class="item-wrapper">
-      <ul>
-        <li>wat goes here</li>
-      </ul>
-    </div>
+    <MediaList :mediaList="movieList" />
   </main>
 </template>
 
 <script>
+import { mapState } from 'pinia';
+import { useMediaStore } from '@/stores/MediaStore.js';
 import TheHr from '@/components/common/TheHr.vue';
+import MediaList from '@/components/media/MediaList.vue';
 
 export default {
   name: 'MediaConsumptionMoviesView',
   components: {
     TheHr,
+    MediaList,
+  },
+  computed: {
+    ...mapState(useMediaStore, ['movieList']),
   },
 };
 </script>
@@ -39,13 +42,6 @@ export default {
     p:not(:last-child) {
       margin-block-end: 0.5rem;
     }
-  }
-
-  .type-list {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(10.2864rem, 1fr));
-    gap: 1rem;
-    align-items: start;
   }
 }
 </style>
