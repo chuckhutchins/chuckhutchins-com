@@ -40,16 +40,31 @@ const router = createRouter({
       path: '/media-consumption/movies',
       name: 'MediaConsumptionMoviesPage',
       component: () => import('@/views/MediaConsumptionMoviesView.vue'),
+      beforeEnter(to, from, next) {
+        const mediaStore = useMediaStore();
+        mediaStore.getMovieList();
+        next();
+      },
     },
     {
       path: '/media-consumption/tv-shows',
       name: 'MediaConsumptionTVShowsPage',
       component: () => import('@/views/MediaConsumptionTVShowsView.vue'),
+      beforeEnter(to, from, next) {
+        const mediaStore = useMediaStore();
+        mediaStore.getTVShowList();
+        next();
+      },
     },
     {
       path: '/media-consumption/video-games',
       name: 'MediaConsumptionVideoGamesPage',
       component: () => import('@/views/MediaConsumptionVideoGamesView.vue'),
+      beforeEnter(to, from, next) {
+        const mediaStore = useMediaStore();
+        mediaStore.getVideoGameList();
+        next();
+      },
     },
   ],
 });
