@@ -384,6 +384,12 @@
             "name": "Antithesis",
             "roaster": "Ceremony Coffee Roasters",
             "rating": 3
+        },
+        {
+            "index": 65,
+            "name": "Detroit Bold",
+            "roaster": "8 Mile Blend",
+            "rating": 4
         }
     ]
 }
