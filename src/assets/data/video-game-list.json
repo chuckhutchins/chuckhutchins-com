@@ -276,9 +276,9 @@
             "platform": "PS5",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/cyberpunk-2077_mgj5sx.jpg",
             "start": "2021-02-10",
-            "end": "",
-            "rating": "",
-            "finish": 0
+            "end": "2023-01-15",
+            "rating": "Like",
+            "finish": 1
         },
         {
             "index": 29,
@@ -436,6 +436,406 @@
             "platform": "PS5",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/hades_xbhn3t.jpg",
             "start": "2021-12-12",
+            "end": "2022-01-13",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 45,
+            "title": "Inscryption",
+            "platform": "PC",
+            "image": "",
+            "start": "2022-01-02",
+            "end": "2022-01-08",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 46,
+            "title": "Skyrim",
+            "platform": "PS5",
+            "image": "",
+            "start": "2022-01-14",
+            "end": "",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 47,
+            "title": "Pokemon Legends Arceus",
+            "platform": "Switch",
+            "image": "",
+            "start": "2022-02-20",
+            "end": "",
+            "rating": "Like",
+            "finish": 0
+        },
+        {
+            "index": 48,
+            "title": "Triangle Strategy",
+            "platform": "Swtich",
+            "image": "",
+            "start": "2022-03-17",
+            "end": "2022-04-07",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 49,
+            "title": "South Park: Stick of Truth",
+            "platform": "PS5",
+            "image": "",
+            "start": "2022-04-02",
+            "end": "2022-04-04",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 50,
+            "title": "Final Fantasy VII Remake Intermission",
+            "platform": "PS5",
+            "image": "",
+            "start": "2022-04-08",
+            "end": "2022-04-10",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 51,
+            "title": "Horizon Zero Dawn",
+            "platform": "PS5",
+            "image": "",
+            "start": "2022-04-11",
+            "end": "2022-04-16",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 52,
+            "title": "Rune Factory 5",
+            "platform": "Switch",
+            "image": "",
+            "start": "2022-04-24",
+            "end": "",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 53,
+            "title": "Slay The Spire",
+            "platform": "PS5",
+            "image": "",
+            "start": "2022-05-21",
+            "end": "",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 54,
+            "title": "Loop Hero",
+            "platform": "PC",
+            "image": "",
+            "start": "2022-06-17",
+            "end": "2022-06-20",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 55,
+            "title": "Hearts of the Dungeonlist",
+            "platform": "PC",
+            "image": "",
+            "start": "2022-06-20",
+            "end": "2022-06-24",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 56,
+            "title": "Monster Train",
+            "platform": "PC",
+            "image": "",
+            "start": "2022-06-24",
+            "end": "2022-06-24",
+            "rating": "Dislike",
+            "finish": 0
+        },
+        {
+            "index": 57,
+            "title": "Castles & Kingdoms",
+            "platform": "PC",
+            "image": "",
+            "start": "2022-06-25",
+            "end": "2022-06-25",
+            "rating": "Dislike",
+            "finish": 0
+        },
+        {
+            "index": 58,
+            "title": "Dicey Dungeons",
+            "platform": "PC",
+            "image": "",
+            "start": "2022-06-25",
+            "end": "2022-06-26",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 59,
+            "title": "Civilization 6",
+            "platform": "PC",
+            "image": "",
+            "start": "2022-06-26",
+            "end": "",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 60,
+            "title": "Civilization Beyond Earth",
+            "platform": "PC",
+            "image": "",
+            "start": "2022-06-27",
+            "end": "2022-06-27",
+            "rating": "Dislike",
+            "finish": 0
+        },
+        {
+            "index": 61,
+            "title": "Civilization 5",
+            "platform": "PC",
+            "image": "",
+            "start": "2022-06-28",
+            "end": "2022-06-28",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 62,
+            "title": "Stanley Parable",
+            "platform": "PC",
+            "image": "",
+            "start": "2022-07-04",
+            "end": "2022-07-04",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 63,
+            "title": "God of War",
+            "platform": "PS5",
+            "image": "",
+            "start": "2022-07-12",
+            "end": "2022-07-26",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 64,
+            "title": "Dark Cloud",
+            "platform": "PS5",
+            "image": "",
+            "start": "2022-08-06",
+            "end": "2022-08-26",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 65,
+            "title": "Harvest Moon: One World",
+            "platform": "PS5",
+            "image": "",
+            "start": "2022-08-28",
+            "end": "2022-08-28",
+            "rating": "Dislike",
+            "finish": 0
+        },
+        {
+            "index": 66,
+            "title": "Final Fantasy X-2",
+            "platform": "PS5",
+            "image": "",
+            "start": "2022-09-03",
+            "end": "2022-09-03",
+            "rating": "Dislike",
+            "finish": 0
+        },
+        {
+            "index": 67,
+            "title": "My Time at Portia",
+            "platform": "PS5",
+            "image": "",
+            "start": "2022-09-03",
+            "end": "2022-09-03",
+            "rating": "Dislike",
+            "finish": 0
+        },
+        {
+            "index": 68,
+            "title": "Tales of Arise",
+            "platform": "PS5",
+            "image": "",
+            "start": "2022-09-05",
+            "end": "2022-10-22",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 69,
+            "title": "God of War: Ragnarok",
+            "platform": "PS5",
+            "image": "",
+            "start": "2022-11-15",
+            "end": "2022-11-29",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 70,
+            "title": "Escape Academy",
+            "platform": "PS5",
+            "image": "",
+            "start": "2022-11-27",
+            "end": "2022-11-27",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 71,
+            "title": "Pokemon Violet",
+            "platform": "Switch",
+            "image": "",
+            "start": "2022-12-03",
+            "end": "2022-12-19",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 72,
+            "title": "Overcooked",
+            "platform": "PS5",
+            "image": "",
+            "start": "2022-12-04",
+            "end": "2022-12-04",
+            "rating": "Dislike",
+            "finish": 0
+        },
+        {
+            "index": 73,
+            "title": "Lego Harry Potter",
+            "platform": "PS5",
+            "image": "",
+            "start": "2022-12-04",
+            "end": "2022-12-04",
+            "rating": "Dislike",
+            "finish": 0
+        },
+        {
+            "index": 74,
+            "title": "Return of the Obra Dunn",
+            "platform": "PS5",
+            "image": "",
+            "start": "2022-12-22",
+            "end": "2022-12-23",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 75,
+            "title": "Layton's Mystery Journey",
+            "platform": "Switch",
+            "image": "",
+            "start": "2023-01-15",
+            "end": "",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 76,
+            "title": "Fire Emblem Engage",
+            "platform": "Switch",
+            "image": "",
+            "start": "2023-01-20",
+            "end": "2023-05-06",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 77,
+            "title": "The Escapists",
+            "platform": "PS5",
+            "image": "",
+            "start": "2023-01-29",
+            "end": "2023-01-29",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 78,
+            "title": "Vampire Survivors",
+            "platform": "Mac",
+            "image": "",
+            "start": "2023-02-18",
+            "end": "",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 79,
+            "title": "The Case of the Golden Idol",
+            "platform": "Mac",
+            "image": "",
+            "start": "2023-02-24",
+            "end": "2023-02-25",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 80,
+            "title": "Sun Haven",
+            "platform": "Mac",
+            "image": "",
+            "start": "2023-04-02",
+            "end": "",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 81,
+            "title": "Minecraft",
+            "platform": "Switch",
+            "image": "",
+            "start": "2023-04-22",
+            "end": "",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 82,
+            "title": "Kena: Bridge of Spirits",
+            "platform": "PS5",
+            "image": "",
+            "start": "2023-05-07",
+            "end": "",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 83,
+            "title": "The Legend of Zelda: Tears of the Kingdom",
+            "platform": "Switch",
+            "image": "",
+            "start": "2023-05-12",
+            "end": "2023-06-17",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 84,
+            "title": "Final Fantasy XVI",
+            "platform": "PS5",
+            "image": "",
+            "start": "2023-06-22",
             "end": "",
             "rating": "",
             "finish": 0
