@@ -66,6 +66,11 @@ const router = createRouter({
         next();
       },
     },
+    {
+      path: '/wishlist',
+      name: 'WishlistPage',
+      component: () => import('@/views/WishlistView.vue'),
+    },
   ],
 });
 
