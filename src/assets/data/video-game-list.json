@@ -16,7 +16,7 @@
             "platform": "Switch",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148572/chuckhutchins/video-games/rune-factory-4-special_fgixgr.jpg",
             "start": "0",
-            "end": "",
+            "end": "0",
             "rating": "Like",
             "finish": 0
         },
@@ -26,7 +26,7 @@
             "platform": "Steam",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148572/chuckhutchins/video-games/stardew-valley_p7hckx.jpg",
             "start": "0",
-            "end": "",
+            "end": "0",
             "rating": "Like",
             "finish": 0
         },
@@ -456,19 +456,19 @@
             "platform": "PS5",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421997/chuckhutchins/video-games/skyrim-anniversary-edition_ivaqkt.png",
             "start": "2022-01-14",
-            "end": "",
+            "end": "2022-02-13",
             "rating": "",
             "finish": 0
         },
         {
             "index": 47,
-            "title": "Pokemon Legends Arceus",
+            "title": "Pokemon Legends: Arceus",
             "platform": "Switch",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/pokemon-legends-arceus_cydfty.png",
             "start": "2022-02-20",
-            "end": "",
+            "end": "2022-02-25",
             "rating": "Like",
-            "finish": 0
+            "finish": 1
         },
         {
             "index": 48,
@@ -516,7 +516,7 @@
             "platform": "Switch",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/rune-factory-5_gcm27r.png",
             "start": "2022-04-24",
-            "end": "",
+            "end": "2022-05-08",
             "rating": "",
             "finish": 0
         },
@@ -526,7 +526,7 @@
             "platform": "PS5",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/slay-the-spire_xypcm1.png",
             "start": "2022-05-21",
-            "end": "",
+            "end": "2022-06-22",
             "rating": "",
             "finish": 0
         },
@@ -586,7 +586,7 @@
             "platform": "PC",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/civilization-6_t4yada.png",
             "start": "2022-06-26",
-            "end": "",
+            "end": "2022-06-29",
             "rating": "",
             "finish": 0
         },
@@ -776,7 +776,7 @@
             "platform": "Mac",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421141/chuckhutchins/video-games/vampire-survivors_evppgk.png",
             "start": "2023-02-18",
-            "end": "",
+            "end": "2023-02-18",
             "rating": "",
             "finish": 0
         },
@@ -796,8 +796,8 @@
             "platform": "Mac",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421141/chuckhutchins/video-games/sun-haven_eptvyd.png",
             "start": "2023-04-02",
-            "end": "",
-            "rating": "",
+            "end": "2023-04-02",
+            "rating": "Dislike",
             "finish": 0
         },
         {
