@@ -4,7 +4,7 @@
       <h1>Video Games</h1>
       <p>Hey, this is all the stuff I've played since 2020.</p>
 <!--      TODO: jump down to-->
-<!--      TODO: back to link-->
+      <router-link :to="{ name: 'MediaConsumptionPage' }">Back to Media Consumption</router-link>
     </div>
     <TheHr />
     <MediaList :mediaList="videoGameList" />

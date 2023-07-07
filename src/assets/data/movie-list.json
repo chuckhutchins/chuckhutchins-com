@@ -229,7 +229,7 @@
             "index": 24,
             "title": "The Lord of the Rings: The Two Towers",
             "platform": "Amazon Prime",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1641045678/chuckhutchins/movies/lotr-two-towers_cstqri.jpg",
             "end": "2022-01-01",
             "rating": "",
             "finish": 1
@@ -238,7 +238,7 @@
             "index": 25,
             "title": "The Lord of the Rings: Return of the King",
             "platform": "Amazon Prime",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1641045678/chuckhutchins/movies/lotr-return-of-the-king_ix8crp.jpg",
             "end": "2022-01-02",
             "rating": "",
             "finish": 1
@@ -246,8 +246,8 @@
         {
             "index": 26,
             "title": "The Hobbit: An Unexpected Journey",
-            "platform": "Amazon PRimse",
-            "image": "",
+            "platform": "Amazon Prime",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/the-hobbit-an-unexpected-journey_nzl9jl.jpg",
             "end": "2022-01-07",
             "rating": "",
             "finish": 1
@@ -256,7 +256,7 @@
             "index": 27,
             "title": "The Hobbit: The Desolation of Smaug",
             "platform": "Amazon Prime",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729407/chuckhutchins/movies/the-hobbit-the-desolation-of-smaug_roj80g.jpg",
             "end": "2022-01-08",
             "rating": "",
             "finish": 1
@@ -265,7 +265,7 @@
             "index": 28,
             "title": "The Hobbit: The Battle of the Five Armies",
             "platform": "Amazon Prime",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/the-hobbit-the-battle-of-the-five-armies_lhiw2m.jpg",
             "end": "2022-01-09",
             "rating": "",
             "finish": 1
@@ -274,7 +274,7 @@
             "index": 29,
             "title": "The Hobbit",
             "platform": "Amazon Prime",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729407/chuckhutchins/movies/the-hobbit_voyylr.jpg",
             "end": "2022-01-10",
             "rating": "Dislike",
             "finish": 1
@@ -283,7 +283,7 @@
             "index": 30,
             "title": "Palm Springs",
             "platform": "Hulu",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/palm-springs_cecfhm.jpg",
             "end": "2022-07-15",
             "rating": "Like",
             "finish": 1
@@ -292,7 +292,7 @@
             "index": 31,
             "title": "Free Guy",
             "platform": "HBO Max",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729404/chuckhutchins/movies/free-guy_b9dbgp.jpg",
             "end": "2022-07-16",
             "rating": "",
             "finish": 1
@@ -301,7 +301,7 @@
             "index": 32,
             "title": "Knives Out",
             "platform": "Amazon Prime",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729405/chuckhutchins/movies/knives-out_xu7yvz.jpg",
             "end": "2022-09-14",
             "rating": "",
             "finish": 1
@@ -310,7 +310,7 @@
             "index": 33,
             "title": "Fantastic Beasts and Where to Find Them",
             "platform": "HBO Max",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729404/chuckhutchins/movies/fantastic-beasts-and-where-to-find-them_xjdmu0.jpg",
             "end": "2022-10-05",
             "rating": "",
             "finish": 1
@@ -319,7 +319,7 @@
             "index": 34,
             "title": "Popstar: Never Stop Stopping",
             "platform": "HBO Max",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/popstar-never-stop-stopping_op2rzu.jpg",
             "end": "2022-10-08",
             "rating": "",
             "finish": 1
@@ -328,7 +328,7 @@
             "index": 35,
             "title": "Do Revenge",
             "platform": "Netflix",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729404/chuckhutchins/movies/do-revenge_ykgwlj.jpg",
             "end": "2022-10-09",
             "rating": "",
             "finish": 1
@@ -337,7 +337,7 @@
             "index": 36,
             "title": "Inside the Mind of a Cat",
             "platform": "Netflix",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729405/chuckhutchins/movies/inside-the-mind-of-a-cat_lltpeo.jpg",
             "end": "2022-12-18",
             "rating": "",
             "finish": 1
@@ -346,7 +346,7 @@
             "index": 37,
             "title": "A Christmas Story Christmas",
             "platform": "HBO Max",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729404/chuckhutchins/movies/a-christmas-story-christmas_vnqicm.jpg",
             "end": "2022-12-24",
             "rating": "",
             "finish": 1
@@ -355,7 +355,7 @@
             "index": 38,
             "title": "My Neighbor Totoro",
             "platform": "HBO Max",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729405/chuckhutchins/movies/my-neighbor-totoro_anupul.jpg",
             "end": "2022-12-30",
             "rating": "Like",
             "finish": 1
@@ -364,7 +364,7 @@
             "index": 39,
             "title": "Kiki's Delivery Service",
             "platform": "HBO Max",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729405/chuckhutchins/movies/kikis-delivery-service_kaiwmj.jpg",
             "end": "2022-12-30",
             "rating": "",
             "finish": 1
@@ -373,7 +373,7 @@
             "index": 40,
             "title": "Only Yesterday",
             "platform": "HBO Max",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/only-yesterday_bjuvnr.jpg",
             "end": "2022-12-31",
             "rating": "Dislike",
             "finish": 1
@@ -382,7 +382,7 @@
             "index": 41,
             "title": "Porco Rosso",
             "platform": "HBO Max",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/porco-rosso_csacbw.jpg",
             "end": "2022-12-31",
             "rating": "",
             "finish": 1
@@ -391,7 +391,7 @@
             "index": 42,
             "title": "Princess Mononoke",
             "platform": "HBO Max",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/princess-mononoke_w4xhia.jpg",
             "end": "2023-01-01",
             "rating": "Like",
             "finish": 1
@@ -400,7 +400,7 @@
             "index": 43,
             "title": "Spirited Away",
             "platform": "HBO Max",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729407/chuckhutchins/movies/spirited-away_ioz3sb.jpg",
             "end": "2023-01-01",
             "rating": "Like",
             "finish": 1
@@ -409,7 +409,7 @@
             "index": 44,
             "title": "Howl's Moving Castle",
             "platform": "HBO Max",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729404/chuckhutchins/movies/howls-moving-castle_w48ytk.jpg",
             "end": "2023-01-02",
             "rating": "",
             "finish": 1
@@ -418,7 +418,7 @@
             "index": 45,
             "title": "Ponyo",
             "platform": "HBO Max",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/ponyo_pjaxks.jpg",
             "end": "2023-01-02",
             "rating": "",
             "finish": 1
@@ -427,7 +427,7 @@
             "index": 46,
             "title": "The Tale of Princess Kaguya",
             "platform": "HBO Max",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729407/chuckhutchins/movies/the-tale-of-princess-kaguya_nfsdkx.jpg",
             "end": "2023-01-03",
             "rating": "Dislike",
             "finish": 1
@@ -436,7 +436,7 @@
             "index": 47,
             "title": "When Marnie Was There",
             "platform": "HBO Max",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729407/chuckhutchins/movies/when-marnie-was-there_daxsw7.jpg",
             "end": "2023-01-06",
             "rating": "",
             "finish": 1
@@ -445,7 +445,7 @@
             "index": 48,
             "title": "Glass Onion",
             "platform": "Netflix",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729404/chuckhutchins/movies/glass-onion_te7fvu.jpg",
             "end": "2023-01-07",
             "rating": "",
             "finish": 1
@@ -454,7 +454,7 @@
             "index": 49,
             "title": "The Menu",
             "platform": "HBO Max",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729407/chuckhutchins/movies/the-menu_mg5fiq.jpg",
             "end": "2023-01-13",
             "rating": "Like",
             "finish": 1
@@ -463,7 +463,7 @@
             "index": 50,
             "title": "Emily the Criminal",
             "platform": "Netflix",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729405/chuckhutchins/movies/emily-the-criminal_ryxtt3.jpg",
             "end": "2023-02-22",
             "rating": "",
             "finish": 1
@@ -472,7 +472,7 @@
             "index": 51,
             "title": "Inception",
             "platform": "Netflix",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729405/chuckhutchins/movies/inception_luxecl.jpg",
             "end": "2023-04-04",
             "rating": "",
             "finish": 1
@@ -481,7 +481,7 @@
             "index": 52,
             "title": "The Last Kingdom: Seven Kings Must Die",
             "platform": "Netflix",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729407/chuckhutchins/movies/the-last-kingdom-seven-kings-must-die_dvfntj.jpg",
             "end": "2023-04-24",
             "rating": "",
             "finish": 1
@@ -490,7 +490,7 @@
             "index": 53,
             "title": "Stutz",
             "platform": "Netflix",
-            "image": "",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/stutz_ec9i2d.jpg",
             "end": "2023-05-01",
             "rating": "",
             "finish": 1
