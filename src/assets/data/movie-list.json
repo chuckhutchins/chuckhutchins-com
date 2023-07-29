@@ -494,6 +494,24 @@
             "end": "2023-05-01",
             "rating": "",
             "finish": 1
+        },
+        {
+            "index": 54,
+            "title": "Nimona",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/nimona_mjuduz.jpg",
+            "end": "2023-07-17",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 55,
+            "title": "Office Space",
+            "platform": "Max",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/office-space_dbx7mq.jpg",
+            "end": "2023-07-23",
+            "rating": "",
+            "finish": 1
         }
     ]
 }
