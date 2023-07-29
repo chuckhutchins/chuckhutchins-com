@@ -557,7 +557,7 @@
             "medium": "Kindle",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1615140186/chuckhutchins/books/the-eye-of-the-world_djlh61.jpg",
             "start": "2021-07-26",
-            "end": "",
+            "end": "2021-12-28",
             "rating": "",
             "finish": 0
         },
@@ -799,7 +799,7 @@
             "medium": "Kindle",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/tress-of-the-emerald-sea_sccyjf.png",
             "start": "2023-03-07",
-            "end": "",
+            "end": "2023-03-11",
             "rating": "",
             "finish": 0
         },
@@ -879,6 +879,17 @@
             "end": "2023-06-25",
             "rating": "",
             "finish": 1
+        },
+        {
+            "index": 80,
+            "title": "Wool Omnibus",
+            "author": "Hugh Howey",
+            "medium": "Kindle",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/wool-omnibus_uviagk.jpg",
+            "start": "2023-07-22",
+            "end": "",
+            "rating": "",
+            "finish": 0
         }
     ]
 }

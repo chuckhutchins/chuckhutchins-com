@@ -10,83 +10,50 @@
         <h3>Front-End Developer</h3>
         <ul>
           <li>RecogNation</li>
-          <li>April 2021 &ndash; Present</li>
+          <li>2021&mdash;Present</li>
         </ul>
         <ul class="list">
-          <li>Develops proprietary Vue SaaS web applications in the employee recognition field</li>
-          <li>Maintains React Native iOS/Android application</li>
-          <li>Develops and maintains Outlook add-in for sending eCards</li>
-          <li>Develops and maintains Teams app for product's social feed, eCards, and nominations</li>
-          <li>Fixes existing ADA compliance issues in product</li>
-          <li>Advocates for accessibility within organization and educates team members and supervisors on importance of accessibility</li>
+          <li>Developed proprietary Vue software as a service (SaaS) web applications, working cross-functionally with team members throughout Agile ceremonies and sprints to set priorities based on customer requests</li>
+          <li>Leveraged strategic thinking and planning to complete tickets within Jira, ultimately setting front-end development standards for an employee recognition platform catering to more than 150 business clients</li>
+          <li>Managed a re-write of the entire front-end platform, leading a greenfield project to upgrade to Vue 3 from existing Vue 2 capabilities to ensure a consistent code base while preventing sunsetting downtime</li>
+          <li>Provided user experience (UX) accessibility subject matter expertise, collaborating with internal and external stakeholders to advocate for improved product features aligned with ADA recommendations; additionally, educated team members and supervisors on the importance of accessibility</li>
+          <li>Maintained React Native iOS/Android application to maintain feature parity with the web application</li>
+          <li>Created and maintained Outlook add-in to deliver popular platform features into customer email client</li>
+          <li>Designed and implemented a platform design system and style guide, introducing uniformity from overall
+            application structure down to individual reusable component user interface (UI)</li>
         </ul>
       </div>
       <div class="entry">
         <h3>Front-End Developer</h3>
         <ul>
           <li>Wayne State University</li>
-          <li>May 2020 &ndash; April 2021</li>
+          <li>2020&mdash;2021</li>
         </ul>
         <ul class="list">
-          <li>Collaborated with stakeholders and designers to create, maintain, and enhance over 100 university websites</li>
-          <li>Troubleshot and fixed ADA compliance issues, ranging from design to interactivity</li>
-          <li>Contributed to university's open-source Laravel template used to generate new websites</li>
-        </ul>
-      </div>
-      <div class="entry">
-        <h3>Front-End Developer</h3>
-        <ul>
-          <li>Nextep Solutions</li>
-          <li>March 2020 &ndash; May 2020</li>
+          <li>Collaborated with external stakeholders and designers to create, maintain, and enhance more than 100 university websites based on individual requests and requirements</li>
+          <li>Supported the build-out of an open-source HTML/CSS/Tailwind/Laravel templating system utilized to generate new websites, effectively driving efficiency by mitigating repetitive tasks</li>
         </ul>
       </div>
       <div class="entry">
         <h3>Lead Front-End Developer</h3>
-        <ul>
-          <li>Art Van Furniture</li>
-          <li>January 2019 &ndash; February 2020</li>
-        </ul>
-        <ul class="list">
-          <li>Created and maintained custom responsive web design framework for rapid prototyping and finished product delivery across all device types</li>
-          <li>Worked as technical member/resource on cross-functional teams addressing new and existing web, marketing, and product initiatives</li>
-          <li>Maintained website design system, enabling other developers and UX designers to produce consist and compliant user experiences</li>
-          <li>Integrated ADA compliant markup and semantic HTML into new and existing code templates and modules</li>
-          <li>Established process and code standards for day-to-day promotional content on the website</li>
-          <li>Trained new team members on development and design processes and tools</li>
-          <li>Owned responsibility for cross-browser/device testing/QA/UAT and internal development team code reviews</li>
-        </ul>
-      </div>
-      <div class="entry">
         <h3>Senior Web Designer</h3>
-        <ul>
-          <li>Art Van Furniture</li>
-          <li>March 2018 &ndash; January 2019</li>
-        </ul>
-        <ul class="list">
-          <li>Lead web design team in daily promotional site operations</li>
-          <li>Created development and design processes allowing for rapid day-to-day promotional changes</li>
-          <li>Designed and developed mockups and wireframes for new landing pages</li>
-          <li>Standardized and organized code and image assets to facilitate team communication and execution</li>
-          <li>Trained team members to use new techniques, internal templates, and tools</li>
-          <li>Developed responsive HTML to give the customer a seamless experience across any device</li>
-        </ul>
-      </div>
-      <div class="entry">
         <h3>Digital Designer &amp; Developer</h3>
         <ul>
           <li>Art Van Furniture</li>
-          <li>September 2017 &ndash; March 2018</li>
+          <li>2017&mdash;2020</li>
         </ul>
         <ul class="list">
-          <li>Worked on a cross-functional team addressing web and mobile initiatives</li>
-          <li>Provided ongoing updates and enhancements for the company’s aggressive retail promotional schedule</li>
+          <li>Created and maintained custom responsive web design framework for rapid prototyping, ensuring product delivery across all device types providing promotional content on websites serving 10K+ customers daily</li>
+          <li>Spearheaded the development and proof of concept to transform the entire website to HTML CMS which could more seamlessly integrate into Salesforce Commerce Cloud; presented to senior leadership and secured buy-in to rollout as the company standard which dramatically improved speed and efficiency</li>
+          <li>Trained and mentored new team members on development and design processes and tools</li>
+          <li>Led and managed cross-browser/device testing/QA/UAT and internal development team code reviews</li>
         </ul>
       </div>
       <div class="entry">
         <h3>Web Developer</h3>
         <ul>
           <li>Fullerton Tool Company</li>
-          <li>October 2013 &ndash; August 2016</li>
+          <li>2013&mdash;2016</li>
         </ul>
       </div>
     </div>
@@ -103,26 +70,30 @@
           <li>HTML5</li>
           <li>Javascript</li>
           <li>Laravel</li>
+          <li>Pinia</li>
           <li>Responsive Web Design</li>
-          <li>Sass</li>
+          <li>Sass/SCSS</li>
           <li>Tailwind CSS</li>
           <li>Vue</li>
+          <li>Vuex</li>
         </ul>
       </div>
       <div class="entry">
         <h3>Creative</h3>
         <ul class="list">
           <li>Adobe CC (Illustrator, InDesign, Photoshop, XD)</li>
+          <li>Figma</li>
           <li>Sketch</li>
-          <li>User Experience/Interface Design</li>
-          <li>Wireframing &amp; Prototyping</li>
+          <li>User Interface/Experience Design (UI/UX)</li>
+          <li>Prototyping &amp; Wireframing</li>
         </ul>
       </div>
       <div class="entry">
         <h3>Process</h3>
         <ul class="list">
           <li>Agile/SCRUM</li>
-          <li>Jira &amp; Confluence</li>
+          <li>Bitbucket/GitHub/GitLab</li>
+          <li>Jira</li>
         </ul>
       </div>
     </div>

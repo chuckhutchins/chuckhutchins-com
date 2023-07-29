@@ -390,6 +390,18 @@
             "name": "Detroit Bold",
             "roaster": "8 Mile Blend",
             "rating": 4
+        },
+        {
+            "index": 66,
+            "name": "French Roast",
+            "roaster": "Orinoco Coffee & Tea",
+            "rating": 4
+        },
+        {
+            "index": 67,
+            "name": "Damn Fine Coffee",
+            "roaster": "Twede's Cafe",
+            "rating": 5
         }
     ]
 }
