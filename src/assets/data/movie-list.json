@@ -512,6 +512,33 @@
             "end": "2023-07-23",
             "rating": "",
             "finish": 1
+        },
+        {
+            "index": 56,
+            "title": "The Beanie Bubble",
+            "platform": "Apple TV+",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/tetris_bnbzyb.jpg",
+            "end": "2023-07-30",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 57,
+            "title": "Tetris",
+            "platform": "Apple TV+",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/tetris_bnbzyb.jpg",
+            "end": "2023-07-31",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 58,
+            "title": "Glitch: The Rise and Fall of HQ Trivia",
+            "platform": "Max",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/glitch-rise-fall-hq-trivia_moitva.jpg",
+            "end": "2023-08-01",
+            "rating": "",
+            "finish": 1
         }
     ]
 }
