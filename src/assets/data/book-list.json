@@ -881,12 +881,45 @@
             "finish": 1
         },
         {
-            "index": 80,
+            "index": 81,
             "title": "Wool Omnibus",
             "author": "Hugh Howey",
             "medium": "Kindle",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/wool-omnibus_uviagk.jpg",
             "start": "2023-07-22",
+            "end": "2023-08-18",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 82,
+            "title": "The Line of Illeniel",
+            "author": "Michael G Manning",
+            "medium": "Kindle",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/the-line-of-illeniel_wdwcem.jpg",
+            "start": "2023-08-21",
+            "end": "2023-09-02",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 83,
+            "title": "The Archmage Unbound",
+            "author": "Michael G Manning",
+            "medium": "Kindle",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/the-archmage-unbound_rtsrne.jpg",
+            "start": "2023-09-03",
+            "end": "2023-09-14",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 84,
+            "title": "The God-Stone War",
+            "author": "Michael G Manning",
+            "medium": "Kindle",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/the-god-stone-war_dh7ir5.jpg",
+            "start": "2023-09-14",
             "end": "",
             "rating": "",
             "finish": 0
