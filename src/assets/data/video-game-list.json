@@ -836,9 +836,9 @@
             "platform": "PS5",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421996/chuckhutchins/video-games/final-fantasy-16_z58ugx.png",
             "start": "2023-06-22",
-            "end": "",
-            "rating": "",
-            "finish": 0
+            "end": "2023-08-07",
+            "rating": "Like",
+            "finish": 1
         },
         {
             "index": 85,
@@ -849,6 +849,86 @@
             "end": "2023-07-03",
             "rating": "Like",
             "finish": 1
+        },
+        {
+            "index": 86,
+            "title": "Baldur's Gate 3",
+            "platform": "PC",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/baldurs-gate-3_ucproe.png",
+            "start": "2023-08-12",
+            "end": "",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 87,
+            "title": "Hexcells",
+            "platform": "Mac",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/hexcells_f3352k.png",
+            "start": "2023-08-29",
+            "end": "2023-08-30",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 88,
+            "title": "Golden Idol Mysteries: The Lemurian Vampire",
+            "platform": "Mac",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/golden-idol-mysteries-lemurian-vampire_vclhxz.png",
+            "start": "2023-08-31",
+            "end": "2023-09-28",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 89,
+            "title": "Hexcells Plus",
+            "platform": "Mac",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/hexcells-plus_cvjmjj.png",
+            "start": "2023-09-01",
+            "end": "2023-09-02",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 90,
+            "title": "Paradise Killer",
+            "platform": "PS5",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/paradise-killer_tgc2os.png",
+            "start": "2023-09-14",
+            "end": "2023-09-14",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 91,
+            "title": "Circus Electrique",
+            "platform": "PS5",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/circus-electrique_wp0dtw.png",
+            "start": "2023-09-15",
+            "end": "2023-09-15",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 92,
+            "title": "Undertale",
+            "platform": "PS5",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/undertale_haqxdx.png",
+            "start": "2023-09-16",
+            "end": "2023-09-16",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 93,
+            "title": "Cyberpunk 2077: Phantom Liberty",
+            "platform": "PS5",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/phantom-liberty_hofgh5.png",
+            "start": "2023-09-26",
+            "end": "",
+            "rating": "",
+            "finish": 0
         }
     ]
 }

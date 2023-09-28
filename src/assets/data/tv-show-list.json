@@ -2218,9 +2218,9 @@
             "platform": "Hulu",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/its-always-sunny_ebgi9p.jpg",
             "start": "2023-06-27",
-            "end": "",
-            "rating": "",
-            "finish": 0
+            "end": "2023-07-23",
+            "rating": "Like",
+            "finish": 1
         },
         {
             "index": 203,
@@ -2251,9 +2251,9 @@
             "platform": "Amazon Prime",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/the-legend-of-vox-machina_no03kq.jpg",
             "start": "2023-07-06",
-            "end": "",
-            "rating": "",
-            "finish": 0
+            "end": "2023-09-16",
+            "rating": "Like",
+            "finish": 1
         },
         {
             "index": 206,
@@ -2262,9 +2262,9 @@
             "platform": "Hulu",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/what-we-do-in-the-shadows_y4jvmf.jpg",
             "start": "2023-07-16",
-            "end": "",
-            "rating": "",
-            "finish": 0
+            "end": "2023-09-09",
+            "rating": "Like",
+            "finish": 1
         },
         {
             "index": 207,
@@ -2284,6 +2284,149 @@
             "platform": "Netflix",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/the-witcher_nvtjw5.jpg",
             "start": "2023-07-24",
+            "end": "2023-07-29",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 209,
+            "title": "How to with John Wilson",
+            "season": "3",
+            "platform": "Max",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/how-to-with-john-wilson_tbe2us.jpg",
+            "start": "2023-08-01",
+            "end": "2023-09-11",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 210,
+            "title": "Veep",
+            "season": "1",
+            "platform": "Max",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/veep_o7khri.jpg",
+            "start": "2023-08-03",
+            "end": "2023-08-04",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 211,
+            "title": "Veep",
+            "season": "2",
+            "platform": "Max",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/veep_o7khri.jpg",
+            "start": "2023-08-04",
+            "end": "2023-08-06",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 212,
+            "title": "Veep",
+            "season": "3",
+            "platform": "Max",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/veep_o7khri.jpg",
+            "start": "2023-08-10",
+            "end": "2023-08-12",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 213,
+            "title": "Veep",
+            "season": "4",
+            "platform": "Max",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/veep_o7khri.jpg",
+            "start": "2023-08-13",
+            "end": "2023-08-15",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 214,
+            "title": "Veep",
+            "season": "5",
+            "platform": "Max",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/veep_o7khri.jpg",
+            "start": "2023-08-15",
+            "end": "2023-08-20",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 215,
+            "title": "Veep",
+            "season": "6",
+            "platform": "Max",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/veep_o7khri.jpg",
+            "start": "2023-08-20",
+            "end": "2023-08-21",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 216,
+            "title": "Veep",
+            "season": "7",
+            "platform": "Max",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/veep_o7khri.jpg",
+            "start": "2023-08-24",
+            "end": "2023-08-25",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 217,
+            "title": "Reservation Dogs",
+            "season": "3",
+            "platform": "Hulu",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/reservation-dogs_duvu25.jpg",
+            "start": "2023-08-28",
+            "end": "",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 218,
+            "title": "One Piece",
+            "season": "1",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/one-piece_emzika.jpg",
+            "start": "2023-09-04",
+            "end": "2023-09-08",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 219,
+            "title": "30 Rock",
+            "season": "1",
+            "platform": "Hulu",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/30-rock_zf9b1e.jpg",
+            "start": "2023-09-13",
+            "end": "2023-09-13",
+            "rating": "Dislike",
+            "finish": 0
+        },
+        {
+            "index": 220,
+            "title": "The Leftovers",
+            "season": "1",
+            "platform": "Max",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/the-leftovers_rswop4.jpg",
+            "start": "2023-09-13",
+            "end": "2023-09-22",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 221,
+            "title": "The Leftovers",
+            "season": "2",
+            "platform": "Max",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/the-leftovers_rswop4.jpg",
+            "start": "2023-09-24",
             "end": "",
             "rating": "",
             "finish": 0

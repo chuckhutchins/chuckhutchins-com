@@ -402,6 +402,24 @@
             "name": "Damn Fine Coffee",
             "roaster": "Twede's Cafe",
             "rating": 5
+        },
+        {
+            "index": 68,
+            "name": "Dotarrazu",
+            "roaster": "Coopedota",
+            "rating": 5
+        },
+        {
+            "index": 69,
+            "name": "Mothman's Red Eye Blend",
+            "roaster": "Spring-Heel'd Jack",
+            "rating": 5
+        },
+        {
+            "index": 70,
+            "name": "Black Phillip",
+            "roaster": "Spring-Heel'd Jack",
+            "rating": 5
         }
     ]
 }

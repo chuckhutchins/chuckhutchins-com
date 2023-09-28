@@ -7,10 +7,11 @@
     <div class="experience">
       <h2>Experience</h2>
       <div class="entry">
+        <h3>Senior Front-End Developer</h3>
         <h3>Front-End Developer</h3>
         <ul>
           <li>RecogNation</li>
-          <li>2021&mdash;Present</li>
+          <li>2021&mdash;2023</li>
         </ul>
         <ul class="list">
           <li>Developed proprietary Vue software as a service (SaaS) web applications, working cross-functionally with team members throughout Agile ceremonies and sprints to set priorities based on customer requests</li>
