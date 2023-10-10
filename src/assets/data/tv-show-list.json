@@ -2383,9 +2383,9 @@
             "platform": "Hulu",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/reservation-dogs_duvu25.jpg",
             "start": "2023-08-28",
-            "end": "",
-            "rating": "",
-            "finish": 0
+            "end": "2023-10-01",
+            "rating": "Like",
+            "finish": 1
         },
         {
             "index": 218,
@@ -2427,9 +2427,20 @@
             "platform": "Max",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/the-leftovers_rswop4.jpg",
             "start": "2023-09-24",
-            "end": "",
+            "end": "2023-10-03",
             "rating": "",
-            "finish": 0
+            "finish": 1
+        },
+        {
+            "index": 222,
+            "title": "The Leftovers",
+            "season": "3",
+            "platform": "Max",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/the-leftovers_rswop4.jpg",
+            "start": "2023-10-04",
+            "end": "2023-10-06",
+            "rating": "",
+            "finish": 1
         }
     ]
 }
