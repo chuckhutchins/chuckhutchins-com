@@ -420,6 +420,12 @@
             "name": "Black Phillip",
             "roaster": "Spring-Heel'd Jack",
             "rating": 5
+        },
+        {
+            "index": 71,
+            "name": "Re-Animator",
+            "roaster": "Spring-Heel'd Jack",
+            "rating": 4
         }
     ]
 }
