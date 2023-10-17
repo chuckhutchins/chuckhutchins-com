@@ -2441,6 +2441,28 @@
             "end": "2023-10-06",
             "rating": "",
             "finish": 1
+        },
+        {
+            "index": 223,
+            "title": "The Bear",
+            "season": "1",
+            "platform": "Hulu",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/the-bear_hethdz.jpg",
+            "start": "2023-10-15",
+            "end": "2023-10-15",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 223,
+            "title": "The Bear",
+            "season": "2",
+            "platform": "Hulu",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/the-bear_hethdz.jpg",
+            "start": "2023-10-16",
+            "end": "",
+            "rating": "",
+            "finish": 0
         }
     ]
 }

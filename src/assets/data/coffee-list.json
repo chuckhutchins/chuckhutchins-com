@@ -426,6 +426,18 @@
             "name": "Re-Animator",
             "roaster": "Spring-Heel'd Jack",
             "rating": 4
+        },
+        {
+            "index": 72,
+            "name": "Paimon",
+            "roaster": "Spring-Heel'd Jack",
+            "rating": 3
+        },
+        {
+            "index": 73,
+            "name": "Sumatra",
+            "roaster": "Starbucks",
+            "rating": 4
         }
     ]
 }
