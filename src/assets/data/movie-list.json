@@ -517,7 +517,7 @@
             "index": 56,
             "title": "The Beanie Bubble",
             "platform": "Apple TV+",
-            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/tetris_bnbzyb.jpg",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/beanie-bubble_jwrpyq.jpg",
             "end": "2023-07-30",
             "rating": "",
             "finish": 1
@@ -537,6 +537,24 @@
             "platform": "Max",
             "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/glitch-rise-fall-hq-trivia_moitva.jpg",
             "end": "2023-08-01",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 59,
+            "title": "The Big Lebowski",
+            "platform": "Amazon Prime",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/the-big-lebowski_dn8hre.jpg",
+            "end": "2023-10-29",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 60,
+            "title": "Memento",
+            "platform": "Amazon Prime",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/memento_etu6pm.jpg",
+            "end": "2023-10-29",
             "rating": "",
             "finish": 1
         }
