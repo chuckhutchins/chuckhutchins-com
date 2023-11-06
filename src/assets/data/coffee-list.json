@@ -438,6 +438,18 @@
             "name": "Sumatra",
             "roaster": "Starbucks",
             "rating": 4
+        },
+        {
+            "index": 74,
+            "name": "Decaf Honduras",
+            "roaster": "Uncommon Coffee Roasters",
+            "rating": 2
+        },
+        {
+            "index": 75,
+            "name": "Extra Dark French",
+            "roaster": "Allegro Coffee",
+            "rating": 4
         }
     ]
 }
