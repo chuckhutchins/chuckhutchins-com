@@ -426,6 +426,30 @@
             "name": "Re-Animator",
             "roaster": "Spring-Heel'd Jack",
             "rating": 4
+        },
+        {
+            "index": 72,
+            "name": "Paimon",
+            "roaster": "Spring-Heel'd Jack",
+            "rating": 3
+        },
+        {
+            "index": 73,
+            "name": "Sumatra",
+            "roaster": "Starbucks",
+            "rating": 4
+        },
+        {
+            "index": 74,
+            "name": "Decaf Honduras",
+            "roaster": "Uncommon Coffee Roasters",
+            "rating": 2
+        },
+        {
+            "index": 75,
+            "name": "Extra Dark French",
+            "roaster": "Allegro Coffee",
+            "rating": 4
         }
     ]
 }
