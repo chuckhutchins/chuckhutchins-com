@@ -2454,15 +2454,81 @@
             "finish": 1
         },
         {
-            "index": 223,
+            "index": 224,
             "title": "The Bear",
             "season": "2",
             "platform": "Hulu",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/the-bear_hethdz.jpg",
             "start": "2023-10-16",
+            "end": "2023-10-20",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 225,
+            "title": "Welcome to Wrexham",
+            "season": "2",
+            "platform": "Hulu",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/welcome-to-wrexham-2_lxskhd.jpg",
+            "start": "2023-10-20",
             "end": "",
             "rating": "",
             "finish": 0
+        },
+        {
+            "index": 226,
+            "title": "The Great British Baking Show",
+            "season": "14",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/the-great-british-baking-show_tpgtth.jpg",
+            "start": "2023-10-26",
+            "end": "",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 227,
+            "title": "Shoresy",
+            "season": "2",
+            "platform": "Hulu",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/shoresy-2_iybuyo.jpg",
+            "start": "2023-10-28",
+            "end": "2023-10-30",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 228,
+            "title": "Superstore",
+            "season": "1",
+            "platform": "Hulu",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/superstore_tidotp.jpg",
+            "start": "2023-10-30",
+            "end": "2023-10-31",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 229,
+            "title": "Superstore",
+            "season": "2",
+            "platform": "Hulu",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/superstore_tidotp.jpg",
+            "start": "2023-10-31",
+            "end": "",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 230,
+            "title": "Cunk on Earth",
+            "season": "1",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/cunk-on-earth_q46xa2.jpg",
+            "start": "2023-11-5",
+            "end": "2023-11-5",
+            "rating": "",
+            "finish": 1
         }
     ]
 }
