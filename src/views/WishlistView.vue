@@ -91,7 +91,7 @@ import TheHr from '@/components/common/TheHr.vue';
 import WishlistItem from '@/components/wishlist/WishlistItem.vue';
 
 export default {
-  name: 'CoffeeConsumptionView',
+  name: 'WishlistView',
   components: {
     TheHr,
     WishlistItem,
