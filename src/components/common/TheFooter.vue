@@ -10,6 +10,9 @@
           <router-link :to="{ name: 'MediaConsumptionPage' }">Media</router-link>
         </li>
         <li>
+          <router-link :to="{ name: 'NowPage' }">Now</router-link>
+        </li>
+        <li>
           <router-link :to="{ name: 'WishlistPage' }">Wishlist</router-link>
         </li>
       </ul>
