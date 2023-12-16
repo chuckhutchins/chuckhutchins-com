@@ -268,7 +268,7 @@
         {
             "index": 45,
             "name": "Rich French Neighbor",
-            "roaster": "Roos Roast",
+            "roaster": "RoosRoast Coffee",
             "rating": 5
         },
         {
@@ -286,7 +286,7 @@
         {
             "index": 48,
             "name": "Badass Women Blend",
-            "roaster": "Roos Roast",
+            "roaster": "RoosRoast Coffee",
             "rating": 4
         },
         {
@@ -450,6 +450,18 @@
             "name": "Extra Dark French",
             "roaster": "Allegro Coffee",
             "rating": 4
+        },
+        {
+            "index": 76,
+            "name": "Costa Rican",
+            "roaster": "Frederick's by Meijer",
+            "rating": 5
+        },
+        {
+            "index": 77,
+            "name": "Creation Espresso",
+            "roaster": "Creation Coffee",
+            "rating": 3
         }
     ]
 }
