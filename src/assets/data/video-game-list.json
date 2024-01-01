@@ -746,7 +746,7 @@
             "platform": "Switch",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421997/chuckhutchins/video-games/laytons-mystery-journey_xelfvn.png",
             "start": "2023-01-15",
-            "end": "",
+            "end": "2023-01-17",
             "rating": "",
             "finish": 0
         },
@@ -806,7 +806,7 @@
             "platform": "Switch",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421996/chuckhutchins/video-games/minecraft_ogknon.png",
             "start": "2023-04-22",
-            "end": "",
+            "end": "2023-04-22",
             "rating": "",
             "finish": 0
         },
@@ -956,7 +956,17 @@
             "platform": "Mac",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/humankind_gfb0cz.png",
             "start": "2023-10-24",
-            "end": "",
+            "end": "2023-10-27",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 97,
+            "title": "Power Wash Simulator",
+            "platform": "PS5",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/power-wash-simulator_lhrkkv.png",
+            "start": "2023-12-10",
+            "end": "2023-12-11",
             "rating": "",
             "finish": 0
         }

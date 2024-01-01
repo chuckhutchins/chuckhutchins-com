@@ -2471,9 +2471,9 @@
             "platform": "Hulu",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/welcome-to-wrexham-2_lxskhd.jpg",
             "start": "2023-10-20",
-            "end": "",
+            "end": "2023-11-18",
             "rating": "",
-            "finish": 0
+            "finish": 1
         },
         {
             "index": 226,
@@ -2482,9 +2482,9 @@
             "platform": "Netflix",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/the-great-british-baking-show_tpgtth.jpg",
             "start": "2023-10-26",
-            "end": "",
+            "end": "2023-12-01",
             "rating": "",
-            "finish": 0
+            "finish": 1
         },
         {
             "index": 227,
@@ -2515,9 +2515,9 @@
             "platform": "Hulu",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/superstore_tidotp.jpg",
             "start": "2023-10-31",
-            "end": "",
+            "end": "2023-11-07",
             "rating": "",
-            "finish": 0
+            "finish": 1
         },
         {
             "index": 230,
@@ -2525,10 +2525,120 @@
             "season": "1",
             "platform": "Netflix",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/cunk-on-earth_q46xa2.jpg",
-            "start": "2023-11-5",
-            "end": "2023-11-5",
+            "start": "2023-11-05",
+            "end": "2023-11-05",
             "rating": "",
             "finish": 1
+        },
+        {
+            "index": 231,
+            "title": "Superstore",
+            "season": "3",
+            "platform": "Hulu",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/superstore_tidotp.jpg",
+            "start": "2023-11-07",
+            "end": "2023-11-13",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 232,
+            "title": "Superstore",
+            "season": "4",
+            "platform": "Hulu",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/superstore_tidotp.jpg",
+            "start": "2023-11-15",
+            "end": "2023-11-19",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 233,
+            "title": "Superstore",
+            "season": "5",
+            "platform": "Hulu",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/superstore_tidotp.jpg",
+            "start": "2023-11-20",
+            "end": "2023-12-03",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 234,
+            "title": "Scott Pilgrim Takes Off",
+            "season": "1",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/scott-pilgrim-takes-off_p6tdyh.jpg",
+            "start": "2023-11-26",
+            "end": "2023-11-26",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 235,
+            "title": "Superstore",
+            "season": "6",
+            "platform": "Hulu",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/superstore_tidotp.jpg",
+            "start": "2023-12-03",
+            "end": "2023-12-13",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 236,
+            "title": "Chuck",
+            "season": "1",
+            "platform": "Amazon Prime",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/chuck_ddgogf.jpg",
+            "start": "2023-12-16",
+            "end": "",
+            "rating": "",
+            "finish": 0
+        },
+        {
+            "index": 237,
+            "title": "Parks and Recreation",
+            "season": "1",
+            "platform": "Peacock",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/parks-and-recreation_e5osbf.jpg",
+            "start": "2023-12-16",
+            "end": "2023-12-18",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 238,
+            "title": "Parks and Recreation",
+            "season": "2",
+            "platform": "Peacock",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/parks-and-recreation_e5osbf.jpg",
+            "start": "2023-12-18",
+            "end": "2023-12-28",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 239,
+            "title": "Letterkenny",
+            "season": "12",
+            "platform": "Hulu",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/letterkenny_mpebgu.jpg",
+            "start": "2023-12-27",
+            "end": "2023-12-27",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 240,
+            "title": "Parks and Recreation",
+            "season": "3",
+            "platform": "Peacock",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/parks-and-recreation_e5osbf.jpg",
+            "start": "2023-12-28",
+            "end": "",
+            "rating": "",
+            "finish": 0
         }
     ]
 }
