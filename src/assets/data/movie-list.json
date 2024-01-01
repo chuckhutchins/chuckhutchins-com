@@ -557,6 +557,69 @@
             "end": "2023-10-29",
             "rating": "",
             "finish": 1
+        },
+        {
+            "index": 61,
+            "title": "Scott Pilgrim vs. the World",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/scott-pilgrim-vs-the-world_bi0yqy.jpg",
+            "end": "2023-12-03",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 62,
+            "title": "No Hard Feelings",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/no-hard-feelings_mj2ipb.jpg",
+            "end": "2023-12-08",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 63,
+            "title": "Between Two Ferns: The Movie",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/between-two-ferns-the-movie_xvcj08.jpg",
+            "end": "2023-12-08",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 64,
+            "title": "Barbie",
+            "platform": "HBO Max",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/barbie_wpqwiy.jpg",
+            "end": "2023-12-15",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 65,
+            "title": "Monty Python and the Holy Grail",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/monty-python-and-the-holy-grail_a4zr9o.jpg",
+            "end": "2023-12-30",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 66,
+            "title": "The Princess Bride",
+            "platform": "Amazon Prime",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/the-princess-bride_xnksxg.jpg",
+            "end": "2023-12-31",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 67,
+            "title": "Blazing Saddles",
+            "platform": "Amazon Prime",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/blazing-saddles_jkdnpu.jpg",
+            "end": "2023-12-31",
+            "rating": "",
+            "finish": 1
         }
     ]
 }
