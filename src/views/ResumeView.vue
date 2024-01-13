@@ -8,6 +8,13 @@
       <h2>Experience</h2>
       <div class="entry">
         <h3>Senior Front-End Developer</h3>
+        <ul>
+          <li>Vaco</li>
+          <li>2023&ndash;Present</li>
+        </ul>
+      </div>
+      <div class="entry">
+        <h3>Senior Front-End Developer</h3>
         <h3>Front-End Developer</h3>
         <ul>
           <li>RecogNation</li>
