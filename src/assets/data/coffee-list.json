@@ -462,6 +462,12 @@
             "name": "Creation Espresso",
             "roaster": "Creation Coffee",
             "rating": 3
+        },
+        {
+            "index": 78,
+            "name": "Sumatra",
+            "roaster": "Oliver T's",
+            "rating": 4
         }
     ]
 }
