@@ -468,6 +468,12 @@
             "name": "Sumatra",
             "roaster": "Oliver T's",
             "rating": 4
+        },
+        {
+            "index": 79,
+            "name": "Happy Puppy Espresso Blend",
+            "roaster": "Flint Coffee Co",
+            "rating": 3
         }
     ]
 }

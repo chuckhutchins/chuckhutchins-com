@@ -656,6 +656,42 @@
             "end": "2024-01-07",
             "rating": "Dislike",
             "finish": 1
+        },
+        {
+            "index": 72,
+            "title": "The Godfather",
+            "platform": "Amazon Prime",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/the-godfather_tjic3m.jpg",
+            "end": "2024-01-13",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 73,
+            "title": "The Godfather Part II",
+            "platform": "Amazon Prime",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/the-godfather-part-two_grjjw5.jpg",
+            "end": "2024-01-14",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 74,
+            "title": "Self Reliance",
+            "platform": "Hulu",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/self-reliance_yrqq1y.jpg",
+            "end": "2024-01-14",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 75,
+            "title": "They Came Together",
+            "platform": "Peacock",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/they-came-together_zb0qng.jpg",
+            "end": "2024-01-18",
+            "rating": "",
+            "finish": 1
         }
     ]
 }
