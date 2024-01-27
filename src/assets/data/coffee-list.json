@@ -474,6 +474,12 @@
             "name": "Happy Puppy Espresso Blend",
             "roaster": "Flint Coffee Co",
             "rating": 3
+        },
+        {
+            "index": 80,
+            "name": "Amazonas - Peru, Los Patos Dark Roast",
+            "roaster": "Flint Coffee Co",
+            "rating": 5
         }
     ]
 }

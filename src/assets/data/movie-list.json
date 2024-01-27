@@ -692,6 +692,15 @@
             "end": "2024-01-18",
             "rating": "",
             "finish": 1
+        },
+        {
+            "index": 76,
+            "title": "2001: A Space Odyssey",
+            "platform": "Max",
+            "image": "https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/2001-a-space-odyssey_livnyi.jpg",
+            "end": "2024-01-20",
+            "rating": "",
+            "finish": 1
         }
     ]
 }
