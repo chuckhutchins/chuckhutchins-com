@@ -934,6 +934,17 @@
             "end": "2023-12-31",
             "rating": "",
             "finish": 1
+        },
+        {
+            "index": 86,
+            "title": "Understanding Healthy Eating",
+            "author": "Mike Israetel, Jen Case, Trevor Pfaendtner",
+            "medium": "Kindle",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/understanding-healthy-eating_nm3dab.jpg",
+            "start": "2024-02-27",
+            "end": "2024-03-01",
+            "rating": "",
+            "finish": 1
         }
     ]
 }
