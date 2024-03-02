@@ -2658,9 +2658,9 @@
             "platform": "Peacock",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/parks-and-recreation_e5osbf.jpg",
             "start": "2024-01-22",
-            "end": "",
-            "rating": "",
-            "finish": 0
+            "end": "2024-02-16",
+            "rating": "Like",
+            "finish": 1
         },
         {
             "index": 243,
@@ -2681,8 +2681,52 @@
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/below-deck_ganrrk.jpg",
             "start": "2024-02-04",
             "end": "2024-02-06",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 245,
+            "title": "Parks and Recreation",
+            "season": "6",
+            "platform": "Peacock",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/parks-and-recreation_e5osbf.jpg",
+            "start": "2024-02-16",
+            "end": "2024-02-21",
             "rating": "Like",
             "finish": 1
+        },
+        {
+            "index": 246,
+            "title": "Parks and Recreation",
+            "season": "7",
+            "platform": "Peacock",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/parks-and-recreation_e5osbf.jpg",
+            "start": "2024-02-21",
+            "end": "2024-02-24",
+            "rating": "Like",
+            "finish": 1
+        },
+        {
+            "index": 247,
+            "title": "Below Deck",
+            "season": "2",
+            "platform": "Peacock",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/below-deck_ganrrk.jpg",
+            "start": "2024-02-24",
+            "end": "2024-02-27",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 248,
+            "title": "Below Deck",
+            "season": "3",
+            "platform": "Peacock",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/below-deck_ganrrk.jpg",
+            "start": "2024-02-28",
+            "end": "",
+            "rating": "",
+            "finish": 0
         }
     ]
 }

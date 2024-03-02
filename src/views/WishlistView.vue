@@ -18,7 +18,7 @@
         <WishlistItem
           link='https://www.google.com/search?q=butchers+near+me'
           image='https://res.cloudinary.com/innocent/image/upload/f_auto/v1604691632/chuckhutchins/wishlist/delicious-meats_ec45nr.png'
-          name='Delicious Meats (New York Strip, Chuck Roast)'
+          name='Delicious Meats (New York Strip, Chuck Roast, T-Bone)'
         />
         <WishlistItem
           link='https://www.nintendo.com/giftcards/'
@@ -51,20 +51,15 @@
         />
       </ul>
     </div>
-    <div>
-      <h2 aria-label="$250 and over">$$$$</h2>
-      <ul class="wishlist-list">
-        <WishlistItem
-          link='https://store.hermanmiller.com/office/office-chairs/aeron-chair/2195348.html'
-          image='https://res.cloudinary.com/innocent/image/upload/f_auto/v1604667256/chuckhutchins/wishlist/herman-miller-aeron-chair_qudewg.png'
-          name='Herman Miller Aeron Chair'
-        />
-      </ul>
-    </div>
+<!--    <div>-->
+<!--      <h2 aria-label="$250 and over">$$$$</h2>-->
+<!--      <ul class="wishlist-list"></ul>-->
+<!--    </div>-->
     <TheHr />
     <div>
       <h2>Changelog</h2>
       <ul class="list">
+        <li>2024-03-02 &ndash; Added T-Bone to the examples of Delicious Meats. Removed Herman Miller Aeron Chair.</li>
         <li>2023-06-29 &ndash; Updated wishlist to new framework. Removed YubiKey 5C NFC and VanMoof S3.</li>
         <li>2022-01-01 &ndash; Removed Christmas Tree Cakes (Vanilla), Kroger Hot & Spicy Peanuts, Coffee Cup (Charcoal), and Anova Precision Cooker Nano.</li>
         <li>2021-12-15 &ndash; Removed Mujjo Double-Layered Touchscreen Gloves (Large) and Patagonia Better Sweater Fleece Jacket (Black, Large).</li>

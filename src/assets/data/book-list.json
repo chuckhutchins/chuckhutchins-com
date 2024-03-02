@@ -95,9 +95,9 @@
             "medium": "Kindle",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1615045265/chuckhutchins/books/getting-things-done_e7siej.jpg",
             "start": "0",
-            "end": "",
+            "end": "2024-02-12",
             "rating": "",
-            "finish": 0
+            "finish": 1
         },
         {
             "index": 10,
@@ -932,6 +932,17 @@
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/the-year-of-less_jjp3d2.jpg",
             "start": "2023-12-29",
             "end": "2023-12-31",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 86,
+            "title": "Understanding Healthy Eating",
+            "author": "Mike Israetel, Jen Case, Trevor Pfaendtner",
+            "medium": "Kindle",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/understanding-healthy-eating_nm3dab.jpg",
+            "start": "2024-02-27",
+            "end": "2024-03-01",
             "rating": "",
             "finish": 1
         }
