@@ -920,9 +920,9 @@
             "medium": "Kindle",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/the-god-stone-war_dh7ir5.jpg",
             "start": "2023-09-14",
-            "end": "",
+            "end": "2024-03-07",
             "rating": "",
-            "finish": 0
+            "finish": 1
         },
         {
             "index": 85,
@@ -945,6 +945,17 @@
             "end": "2024-03-01",
             "rating": "",
             "finish": 1
+        },
+        {
+            "index": 87,
+            "title": "The Final Redemption",
+            "author": "Michael G Manning",
+            "medium": "Kindle",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/the-final-redemption_u2qbwb.jpg",
+            "start": "2024-03-08",
+            "end": "",
+            "rating": "",
+            "finish": 0
         }
     ]
 }
