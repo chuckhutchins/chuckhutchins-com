@@ -486,6 +486,12 @@
             "name": "Mexico Veracruz",
             "roaster": "Atlas Coffee Club",
             "rating": 4
+        },
+        {
+            "index": 82,
+            "name": "Brazil Minas Gerais",
+            "roaster": "Atlas Coffee Club",
+            "rating": 3
         }
     ]
 }
