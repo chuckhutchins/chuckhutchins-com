@@ -2724,6 +2724,17 @@
             "platform": "Peacock",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/below-deck_ganrrk.jpg",
             "start": "2024-02-28",
+            "end": "2024-03-02",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 249,
+            "title": "Below Deck",
+            "season": "4",
+            "platform": "Peacock",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/below-deck_ganrrk.jpg",
+            "start": "2024-03-03",
             "end": "",
             "rating": "",
             "finish": 0
