@@ -953,6 +953,28 @@
             "medium": "Kindle",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/the-final-redemption_u2qbwb.jpg",
             "start": "2024-03-08",
+            "end": "2024-03-29",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 88,
+            "title": "Sit Up Straight",
+            "author": "Vinh Pham",
+            "medium": "Kindle",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/sit-up-straight_f5ipxr.jpg",
+            "start": "2024-03-29",
+            "end": "2024-04-03",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 89,
+            "title": "Adult Children of Emotionally Immature Parents",
+            "author": "Lindsay C Gibson",
+            "medium": "Kindle",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/adult-children-of-emotionally-immature-parents_kozdol.jpg",
+            "start": "2024-04-04",
             "end": "",
             "rating": "",
             "finish": 0
