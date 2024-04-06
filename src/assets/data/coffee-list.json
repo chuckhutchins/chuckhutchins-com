@@ -492,6 +492,18 @@
             "name": "Brazil Minas Gerais",
             "roaster": "Atlas Coffee Club",
             "rating": 3
+        },
+        {
+            "index": 83,
+            "name": "Black Lab Blend",
+            "roaster": "Forté Coffee",
+            "rating": 5
+        },
+        {
+            "index": 84,
+            "name": "Costa Rica Coto Brus",
+            "roaster": "Atlas Coffee Club",
+            "rating": 5
         }
     ]
 }

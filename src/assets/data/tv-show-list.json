@@ -2735,9 +2735,42 @@
             "platform": "Peacock",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/below-deck_ganrrk.jpg",
             "start": "2024-03-03",
-            "end": "",
+            "end": "2024-03-09",
             "rating": "",
-            "finish": 0
+            "finish": 1
+        },
+        {
+            "index": 250,
+            "title": "Below Deck",
+            "season": "5",
+            "platform": "Peacock",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/below-deck_ganrrk.jpg",
+            "start": "2024-03-10",
+            "end": "2024-03-15",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 251,
+            "title": "Below Deck",
+            "season": "6",
+            "platform": "Peacock",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/below-deck_ganrrk.jpg",
+            "start": "2024-03-15",
+            "end": "2024-03-20",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 252,
+            "title": "Below Deck",
+            "season": "7",
+            "platform": "Peacock",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/below-deck_ganrrk.jpg",
+            "start": "2024-03-25",
+            "end": "2024-04-05",
+            "rating": "",
+            "finish": 1
         }
     ]
 }
