@@ -9,7 +9,7 @@
       <div class="entry">
         <h3>Senior Front-End Developer</h3>
         <ul>
-          <li>Vaco</li>
+          <li>Sedgwick</li>
           <li>2023&ndash;Present</li>
         </ul>
       </div>
