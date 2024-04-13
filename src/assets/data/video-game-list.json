@@ -989,6 +989,16 @@
             "end": "",
             "rating": "",
             "finish": 0
+        },
+        {
+            "index": 100,
+            "title": "Cats Organized Neatly",
+            "platform": "Switch",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/cats-organized-neatly_rs2ckx.png",
+            "start": "2024-04-07",
+            "end": "2024-04-07",
+            "rating": "",
+            "finish": 0
         }
     ]
 }
