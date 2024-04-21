@@ -3,8 +3,8 @@
     <h2>In Progress</h2>
     <div class="media-list">
       <MediaItem
-        v-for="(item, index) in inProgressList"
-        :key="index"
+        v-for="item in inProgressList"
+        :key="item.index"
         :item="item"
       />
     </div>
@@ -12,7 +12,7 @@
   <div v-if="hasFinished" class="media-group">
     <h2>Finished</h2>
     <div class="media-list">
-      <template v-for="(item, index) in finishedList" :key="index">
+      <template v-for="(item, index) in finishedList" :key="item.index">
         <div v-if="showYearCard(index)" class="year-card">
           <p>{{ formatDate(item.end) }}</p>
         </div>
