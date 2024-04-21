@@ -122,11 +122,13 @@ const filteredCoffeeList = computed(() => {
   return sortedCoffeeList.value;
 });
 
-const sortedCoffeeList = computed(() => {return []
-  .concat(coffeeStore.coffeeList)
-  .sort((a, b) => {
-    return a.name.localeCompare(b.name);
-  });});
+const sortedCoffeeList = computed(() => {
+  return []
+    .concat(coffeeStore.coffeeList)
+    .sort((a, b) => {
+      return a.name.localeCompare(b.name);
+    });
+});
 </script>
 
 <style scoped lang="scss">
