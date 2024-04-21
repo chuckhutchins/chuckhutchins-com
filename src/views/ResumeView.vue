@@ -137,15 +137,8 @@
   </main>
 </template>
 
-<script>
+<script setup lang="ts">
 import TheHr from '@/components/common/TheHr.vue';
-
-export default {
-  name: 'ResumeView',
-  components: {
-    TheHr,
-  },
-};
 </script>
 
 <style scoped lang="scss">
