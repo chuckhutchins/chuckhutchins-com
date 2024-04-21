@@ -37,10 +37,10 @@
         />
       </ul>
     </div>
-<!--    <div>-->
-<!--      <h2 aria-label="$25 to $99">$$</h2>-->
-<!--      <ul class="wishlist-list"></ul>-->
-<!--    </div>-->
+    <!--    <div>-->
+    <!--      <h2 aria-label="$25 to $99">$$</h2>-->
+    <!--      <ul class="wishlist-list"></ul>-->
+    <!--    </div>-->
     <div>
       <h2 aria-label="$100 to $249">$$$</h2>
       <ul class="wishlist-list">
@@ -51,10 +51,10 @@
         />
       </ul>
     </div>
-<!--    <div>-->
-<!--      <h2 aria-label="$250 and over">$$$$</h2>-->
-<!--      <ul class="wishlist-list"></ul>-->
-<!--    </div>-->
+    <!--    <div>-->
+    <!--      <h2 aria-label="$250 and over">$$$$</h2>-->
+    <!--      <ul class="wishlist-list"></ul>-->
+    <!--    </div>-->
     <TheHr />
     <div>
       <h2>Changelog</h2>
