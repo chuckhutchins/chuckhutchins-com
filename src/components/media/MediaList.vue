@@ -3,8 +3,8 @@
     <h2>In Progress</h2>
     <div class="media-list">
       <MediaItem
-        v-for="(item, index) in inProgressList"
-        :key="index"
+        v-for="item in inProgressList"
+        :key="item.index"
         :item="item"
       />
     </div>
@@ -12,7 +12,7 @@
   <div v-if="hasFinished" class="media-group">
     <h2>Finished</h2>
     <div class="media-list">
-      <template v-for="(item, index) in finishedList" :key="index">
+      <template v-for="(item, index) in finishedList" :key="item.index">
         <div v-if="showYearCard(index)" class="year-card">
           <p>{{ formatDate(item.end) }}</p>
         </div>
@@ -22,51 +22,37 @@
   </div>
 </template>
 
-<script>
+<script setup lang="ts">
+import { computed } from 'vue';
+import dayjs from 'dayjs';
 import MediaItem from '@/components/media/MediaItem.vue';
+import type { Media } from '@/types';
 
-export default {
-  name: 'MediaList',
-  props: {
-    mediaList: {
-      default() {
-        return {};
-      },
-      required: true,
-      type: Object,
-    },
-  },
-  components: {
-    MediaItem,
-  },
-  computed: {
-    inProgressList() {
-      const list = [...this.mediaList];
-      return list.filter(item => item.finish === 0 && item.end === '');
-    },
-    hasInProgress() {
-      return this.inProgressList.length > 0;
-    },
-    finishedList() {
-      const list = [...this.mediaList];
-      const finished = list.filter(item => item.finish !== 0 || item.end !== '');
-      return finished.sort((a, b) => (a.end > b.end) ? -1 : 1);
-    },
-    hasFinished() {
-      return this.finishedList.length > 0;
-    },
-  },
-  methods: {
-    showYearCard(index) {
-      return (index === 0) || this.formatDate(this.finishedList[index - 1].end) !== this.formatDate(this.finishedList[index].end);
-    },
-    formatDate(date) {
-      if (date === '0') {
-        return 'Before the existence of written records';
-      }
-      return this.$dayjs(date).format('YYYY');
-    },
-  },
+const props = defineProps<{
+  mediaList: Media[];
+}>();
+
+const inProgressList = computed(() => {
+  const list = [...props.mediaList];
+  return list.filter(item => !item.finish && item.end === '');
+});
+const hasInProgress = computed(() => inProgressList.value.length > 0);
+
+const finishedList = computed(() => {
+  const list = [...props.mediaList];
+  const finished = list.filter(item => item.finish || item.end !== '');
+  return finished.sort((a, b) => (a.end > b.end) ? -1 : 1);
+});
+const hasFinished = computed(() => finishedList.value.length > 0);
+
+const showYearCard = index => {
+  return (index === 0) || formatDate(finishedList.value[index - 1].end) !== formatDate(finishedList.value[index].end);
+};
+const formatDate = date => {
+  if (date === '0') {
+    return 'Before the existence of written records';
+  }
+  return dayjs(date).format('YYYY');
 };
 </script>
 
@@ -98,7 +84,7 @@ export default {
     color: var(--color-white);
     font-size: 2rem;
     font-weight: 700;
-    text-shadow: 0 .0625rem .125rem hsla(0, 0%, 0%, .25);
+    text-shadow: 0 0.0625rem 0.125rem hsla(0, 0%, 0%, 0.25);
     text-align: center;
   }
 }

@@ -16,17 +16,9 @@
   </main>
 </template>
 
-<script>
+<script setup lang="ts">
 import MediaTypeItem from '@/components/media/MediaTypeItem.vue';
 import TheHr from '@/components/common/TheHr.vue';
-
-export default {
-  name: 'MediaConsumptionView',
-  components: {
-    MediaTypeItem,
-    TheHr,
-  },
-};
 </script>
 
 <style scoped lang="scss">

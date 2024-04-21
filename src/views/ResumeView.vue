@@ -137,15 +137,8 @@
   </main>
 </template>
 
-<script>
+<script setup lang="ts">
 import TheHr from '@/components/common/TheHr.vue';
-
-export default {
-  name: 'ResumeView',
-  components: {
-    TheHr,
-  },
-};
 </script>
 
 <style scoped lang="scss">
@@ -164,7 +157,7 @@ export default {
 
   .mission {
     padding: 1rem 1.5rem;
-    background: repeating-linear-gradient(-45deg, var(--stripes), var(--stripes) .25rem, transparent .25rem, transparent 1.125rem);
+    background: repeating-linear-gradient(-45deg, var(--stripes), var(--stripes) 0.25rem, transparent 0.25rem, transparent 1.125rem);
 
     @media (min-width: 768px) {
       padding: 2.5rem 3rem;

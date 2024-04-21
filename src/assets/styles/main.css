@@ -24,7 +24,7 @@ html {
   --visited: var(--color-dark-gray);
   --bg: var(--color-white);
   --bg-image: url('@/assets/images/bg-light.png');
-  --text-shadow: rgba(0, 0, 0, .3);
+  --text-shadow: rgba(0, 0, 0, 0.3);
   --filter-background: var(--color-light-gray);
   --filter-active: var(--color-white);
   --filter-hover: var(--color-gray);
@@ -45,7 +45,7 @@ html {
     --visited: var(--color-gray);
     --bg: var(--color-black);
     --bg-image: url('@/assets/images/bg-dark.png');
-    --text-shadow: rgba(0, 0, 0, .9);
+    --text-shadow: rgba(0, 0, 0, 0.9);
     --filter-background: var(--color-dark-gray);
     --filter-active: var(--color-black);
     --filter-hover: var(--color-gray);
@@ -98,7 +98,7 @@ h1,
 h2,
 h3,
 h4 {
-  letter-spacing: -.0125em;
+  letter-spacing: -0.0125em;
 }
 
 h1,
@@ -126,7 +126,7 @@ a {
   color: var(--text);
   text-decoration: none;
   border-bottom: 2px dotted;
-  transition: border-bottom-color .2s;
+  transition: border-bottom-color 0.2s;
 }
 
 a:hover,
@@ -153,6 +153,6 @@ ul.list {
 }
 
 sup {
-  font-size: .75rem;
+  font-size: 0.75rem;
   line-height: 0;
 }

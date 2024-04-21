@@ -24,53 +24,27 @@
   </div>
 </template>
 
-<script>
+<script setup lang="ts">
+import { computed } from 'vue';
 import IconRatingDislike from '@/components/icons/IconRatingDislike.vue';
 import IconRatingGhost from '@/components/icons/IconRatingGhost.vue';
 import IconRatingHeart from '@/components/icons/IconRatingHeart.vue';
+import type { Media } from '@/types';
 
-export default {
-  name: 'MediaList',
-  props: {
-    item: {
-      default() {
-        return {};
-      },
-      required: true,
-      type: Object,
-    }
-  },
-  components: {
-    IconRatingDislike,
-    IconRatingGhost,
-    IconRatingHeart,
-  },
-  computed: {
-    hasBadge() {
-      return this.isLiked ||
-        this.isDisliked ||
-        this.isAbandoned;
-    },
-    isLiked() {
-      return this.item.rating === 'Like';
-    },
-    isDisliked() {
-      return this.item.rating === 'Dislike';
-    },
-    isAbandoned() {
-      return this.item.finish === 0 && this.item.end !== '';
-    },
-    hasAuthor() {
-      return !!this.item.author;
-    },
-    hasPlatform() {
-      return !!this.item.platform;
-    },
-    hasSeason() {
-      return !!this.item.season;
-    },
-  }
-};
+const props = defineProps<{
+  item: Media
+}>();
+
+// badges
+const hasBadge = computed((): boolean => isLiked.value || isDisliked.value || isAbandoned.value);
+const isLiked = computed((): boolean => props.item.rating === 'Like');
+const isDisliked = computed((): boolean => props.item.rating === 'Dislike');
+const isAbandoned = computed((): boolean => !props.item.finish && props.item.end !== '');
+
+// data
+const hasAuthor = computed((): boolean => !!props.item.author);
+const hasPlatform = computed((): boolean => !!props.item.platform);
+const hasSeason = computed((): boolean => !!props.item.season);
 </script>
 
 <style scoped lang="scss">
@@ -80,7 +54,7 @@ export default {
   gap: 0.25rem;
 
   .image-wrapper {
-    --special-border-width: 0.25rem;
+    --special-border-inline-size: 0.25rem;
     --image-border-radius: 0.25rem;
 
     align-self: start;
@@ -92,11 +66,8 @@ export default {
       &:before {
         content: ' ';
         position: absolute;
-        top: 0;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        border: var(--special-border-width) solid;
+        inset: 0;
+        border: var(--special-border-inline-size) solid;
         z-index: 1;
       }
 
@@ -123,17 +94,17 @@ export default {
 
       .badge {
         position: absolute;
-        top: 0;
-        left: 0;
+        inset-block-start: 0;
+        inset-inline-start: 0;
         display: flex;
         gap: 0.25rem;
-        padding: var(--special-border-width);
+        padding: var(--special-border-inline-size);
         border-bottom-right-radius: var(--image-border-radius);
         line-height: 0;
         z-index: 1;
 
         svg {
-          width: 1rem;
+          inline-size: 1rem;
           aspect-ratio: 1;
         }
       }
