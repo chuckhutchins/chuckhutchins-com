@@ -84,7 +84,7 @@ const formatDate = (date) => {
     color: var(--color-white);
     font-size: 2rem;
     font-weight: 700;
-    text-shadow: 0 .0625rem .125rem hsla(0, 0%, 0%, .25);
+    text-shadow: 0 0.0625rem 0.125rem hsla(0, 0%, 0%, 0.25);
     text-align: center;
   }
 }

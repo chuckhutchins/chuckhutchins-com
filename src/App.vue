@@ -27,7 +27,7 @@ import TheHeader from '@/components/common/TheHeader.vue';
 
 .not-found {
   h1 {
-    margin-bottom: .5rem;
+    margin-bottom: 0.5rem;
   }
 }
 </style>

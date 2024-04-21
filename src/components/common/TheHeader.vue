@@ -42,7 +42,7 @@ header {
       font-size: 1.5rem;
       font-weight: 700;
       line-height: 1;
-      letter-spacing: -.0125em;
+      letter-spacing: -0.0125em;
       text-decoration: none;
       border-block-end: transparent;
     }

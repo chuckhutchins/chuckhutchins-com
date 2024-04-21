@@ -88,14 +88,14 @@ const routeName = computed(() => ({ name: `MediaConsumption${sanitizedType.value
     font-size: 1.5rem;
     font-weight: 700;
     color: var(--color-white);
-    text-shadow: 0 .0625rem .125rem hsla(0, 0%, 0%, .25);
+    text-shadow: 0 0.0625rem 0.125rem hsla(0, 0%, 0%, 0.25);
     padding: 2rem;
     border-block-end: 0;
-    border-radius: .25rem;
+    border-radius: 0.25rem;
     overflow: hidden;
     z-index: 0;
-    transition: box-shadow .25s ease;
-    box-shadow: 0 .0625rem .25rem -.125rem hsla(0, 0%, 0%, .25);
+    transition: box-shadow 0.25s ease;
+    box-shadow: 0 0.0625rem 0.25rem -0.125rem hsla(0, 0%, 0%, 0.25);
 
     &::before {
       content: "";
@@ -103,12 +103,12 @@ const routeName = computed(() => ({ name: `MediaConsumption${sanitizedType.value
       inset: 0;
       z-index: -1;
       opacity: 0;
-      transition: opacity .5s ease;
+      transition: opacity 0.5s ease;
     }
 
     &:hover,
     &:focus {
-      box-shadow: 0 .1875rem .25rem -.125rem hsla(0, 0%, 0%, .25);
+      box-shadow: 0 0.1875rem 0.25rem -0.125rem hsla(0, 0%, 0%, 0.25);
 
       &::before {
         opacity: 1;
@@ -123,8 +123,8 @@ const routeName = computed(() => ({ name: `MediaConsumption${sanitizedType.value
       inline-size: 2rem;
       aspect-ratio: 1;
       fill: currentColor;
-      margin-block-start: -.0625rem;
-      filter: drop-shadow(0 .0625rem .125rem hsla(0, 0%, 0%, .25));
+      margin-block-start: -0.0625rem;
+      filter: drop-shadow(0 0.0625rem 0.125rem hsla(0, 0%, 0%, 0.25));
     }
   }
 }

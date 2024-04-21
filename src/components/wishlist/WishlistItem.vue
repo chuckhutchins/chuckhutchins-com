@@ -32,20 +32,20 @@ a {
 
   div {
     overflow: hidden;
-    border-radius: .125rem;
-    margin-block-end: .5rem;
+    border-radius: 0.125rem;
+    margin-block-end: 0.5rem;
     background: linear-gradient(-45deg, #ffa745 0%, #fe869f 30%, #ef7ac8 45%, #a083ed 70%, #43aeff 85%);
   }
 
   img {
     background-color: var(--stripes);
-    transition: background-color .2s;
+    transition: background-color 0.2s;
   }
 
   h4 {
     display: inline;
-    border-block-end: .125rem dotted;
-    transition: border-bottom-color .2s;
+    border-block-end: 0.125rem dotted;
+    transition: border-bottom-color 0.2s;
   }
 }
 </style>
