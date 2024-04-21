@@ -1,5 +1,5 @@
 import { defineStore } from 'pinia';
-import ApiService from '@/services/Api.js';
+import ApiService from '@/services/Api';
 import type { Coffee } from '@/types';
 
 type StateShape = {
