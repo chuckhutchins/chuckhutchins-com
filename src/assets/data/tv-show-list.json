@@ -2779,9 +2779,9 @@
             "platform": "Peacock",
             "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/below-deck_ganrrk.jpg",
             "start": "2024-04-06",
-            "end": "",
+            "end": "2024-04-13",
             "rating": "",
-            "finish": 0
+            "finish": 1
         },
         {
             "index": 254,
@@ -2793,6 +2793,28 @@
             "end": "2024-04-08",
             "rating": "Like",
             "finish": 1
+        },
+        {
+            "index": 255,
+            "title": "Fallout",
+            "season": "1",
+            "platform": "Amazon Prime",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/fallout_agstty.jpg",
+            "start": "2024-04-14",
+            "end": "2024-04-15",
+            "rating": "",
+            "finish": 1
+        },
+        {
+            "index": 256,
+            "title": "3 Body Problem",
+            "season": "1",
+            "platform": "Netflix",
+            "image": "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/3-body-problem_bgp0c5.jpg",
+            "start": "2024-04-19",
+            "end": "",
+            "rating": "",
+            "finish": 0
         }
     ]
 }
