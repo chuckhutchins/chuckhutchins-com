@@ -13,7 +13,7 @@
 
 <script>
 import { mapState } from 'pinia';
-import { useMediaStore } from '@/stores/MediaStore.js';
+import { useMediaStore } from '@/stores/MediaStore.ts';
 import TheHr from '@/components/common/TheHr.vue';
 import MediaList from '@/components/media/MediaList.vue';
 
