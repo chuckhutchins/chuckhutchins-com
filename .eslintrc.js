@@ -16,10 +16,12 @@ module.exports = {
   },
   plugins: ['@stylistic', '@typescript-eslint', 'vue'],
   rules: {
-    '@stylistic/comma-style': ['error', 'last'],
-    '@stylistic/semi': ['error', 'always'],
     '@stylistic/arrow-parens': ['error', 'as-needed'],
-    '@stylistic/space-before-function-paren': ['error', 'never'],
+    '@stylistic/comma-dangle': ['error', 'always-multiline'],
+    '@stylistic/comma-style': ['error', 'last'],
+    '@stylistic/eol-last': ['error', 'always'],
+    '@stylistic/indent': ['error', 2],
+    '@stylistic/no-floating-decimal': 'error',
     '@stylistic/quote-props': ['error', 'as-needed'],
     '@stylistic/quotes': [
       'error',
@@ -29,9 +31,7 @@ module.exports = {
         allowTemplateLiterals: true,
       },
     ],
-    '@stylistic/indent': ['error', 2],
-    '@stylistic/comma-dangle': ['error', 'always-multiline'],
-    '@stylistic/no-floating-decimal': 'error',
-    '@stylistic/eol-last': ['error', 'always'],
+    '@stylistic/semi': ['error', 'always'],
+    '@stylistic/space-before-function-paren': ['error', 'never'],
   },
 };
