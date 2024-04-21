@@ -3,30 +3,18 @@
     <div class="opener">
       <h1>TV Shows</h1>
       <p>Hey, this is all the stuff I've watched since 2020.</p>
-<!--      TODO: jump down to-->
+      <!--      TODO: jump down to-->
       <router-link :to="{ name: 'MediaConsumptionPage' }">Back to Media Consumption</router-link>
     </div>
     <TheHr />
-    <MediaList :mediaList="tvShowList" />
+    <MediaList :mediaList="useMediaStore().tvShowList" />
   </main>
 </template>
 
-<script>
-import { mapState } from 'pinia';
+<script setup lang="ts">
 import { useMediaStore } from '@/stores/MediaStore.ts';
 import TheHr from '@/components/common/TheHr.vue';
 import MediaList from '@/components/media/MediaList.vue';
-
-export default {
-  name: 'MediaConsumptionTVShowsView',
-  components: {
-    TheHr,
-    MediaList,
-  },
-  computed: {
-    ...mapState(useMediaStore, ['tvShowList']),
-  },
-};
 </script>
 
 <style scoped lang="scss">
