@@ -37,15 +37,8 @@
   </main>
 </template>
 
-<script>
+<script setup lang="ts">
 import TheHr from '@/components/common/TheHr.vue';
-
-export default {
-  name: 'NowView',
-  components: {
-    TheHr,
-  },
-};
 </script>
 
 <style scoped lang="scss">
@@ -68,7 +61,6 @@ export default {
 
   ul {
     margin-block: -0.5rem 0.5rem;
-    //margin-block-end: 0.5rem;
   }
 }
 </style>
