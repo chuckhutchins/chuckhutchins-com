@@ -8,7 +8,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 2,
@@ -19,7 +19,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 3,
@@ -30,7 +30,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 4,
@@ -41,7 +41,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 5,
@@ -52,7 +52,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 6,
@@ -63,7 +63,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 7,
@@ -74,7 +74,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 8,
@@ -85,7 +85,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 9,
@@ -96,7 +96,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 10,
@@ -107,7 +107,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 11,
@@ -118,7 +118,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 12,
@@ -129,7 +129,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 13,
@@ -140,7 +140,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 14,
@@ -151,7 +151,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 15,
@@ -162,7 +162,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Dislike',
-    finish: 0
+    finish: 0,
   },
   {
     index: 16,
@@ -173,7 +173,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 17,
@@ -184,7 +184,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 18,
@@ -195,7 +195,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 0
+    finish: 0,
   },
   {
     index: 19,
@@ -206,7 +206,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Dislike',
-    finish: 0
+    finish: 0,
   },
   {
     index: 20,
@@ -217,7 +217,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 21,
@@ -228,7 +228,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 22,
@@ -239,7 +239,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 23,
@@ -250,7 +250,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 24,
@@ -261,7 +261,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 25,
@@ -272,7 +272,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 26,
@@ -283,7 +283,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 27,
@@ -294,7 +294,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 28,
@@ -305,7 +305,7 @@ export const tvShowList = [
     start: '0',
     end: '2021-03-21',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 29,
@@ -316,7 +316,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 0
+    finish: 0,
   },
   {
     index: 30,
@@ -327,7 +327,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 0
+    finish: 0,
   },
   {
     index: 31,
@@ -338,7 +338,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 32,
@@ -349,7 +349,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 33,
@@ -360,7 +360,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 34,
@@ -371,7 +371,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 35,
@@ -382,7 +382,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 36,
@@ -393,7 +393,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 37,
@@ -404,7 +404,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Dislike',
-    finish: 0
+    finish: 0,
   },
   {
     index: 38,
@@ -415,7 +415,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 39,
@@ -426,7 +426,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 40,
@@ -437,7 +437,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 41,
@@ -448,7 +448,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 42,
@@ -459,7 +459,7 @@ export const tvShowList = [
     start: '0',
     end: '2021-07-08',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 43,
@@ -470,7 +470,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 44,
@@ -481,7 +481,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 45,
@@ -492,7 +492,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 46,
@@ -503,7 +503,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 47,
@@ -514,7 +514,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 48,
@@ -525,7 +525,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 49,
@@ -536,7 +536,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 50,
@@ -547,7 +547,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 51,
@@ -558,7 +558,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 0
+    finish: 0,
   },
   {
     index: 52,
@@ -569,7 +569,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 53,
@@ -580,7 +580,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 54,
@@ -591,7 +591,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 55,
@@ -602,7 +602,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 56,
@@ -613,7 +613,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 57,
@@ -624,7 +624,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 58,
@@ -635,7 +635,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 59,
@@ -646,7 +646,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 60,
@@ -657,7 +657,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 61,
@@ -668,7 +668,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 62,
@@ -679,7 +679,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 63,
@@ -690,7 +690,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 0
+    finish: 0,
   },
   {
     index: 64,
@@ -701,7 +701,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 65,
@@ -712,7 +712,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 66,
@@ -723,7 +723,7 @@ export const tvShowList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 67,
@@ -734,7 +734,7 @@ export const tvShowList = [
     start: '2021-02-12',
     end: '2021-02-12',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 68,
@@ -745,7 +745,7 @@ export const tvShowList = [
     start: '2021-02-14',
     end: '2021-02-14',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 69,
@@ -756,7 +756,7 @@ export const tvShowList = [
     start: '2021-02-14',
     end: '2021-02-15',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 70,
@@ -767,7 +767,7 @@ export const tvShowList = [
     start: '2021-02-16',
     end: '2021-02-16',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 71,
@@ -778,7 +778,7 @@ export const tvShowList = [
     start: '2021-02-19',
     end: '2021-02-20',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 72,
@@ -789,7 +789,7 @@ export const tvShowList = [
     start: '2021-02-20',
     end: '2021-02-22',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 73,
@@ -800,7 +800,7 @@ export const tvShowList = [
     start: '2021-02-22',
     end: '2021-02-24',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 74,
@@ -811,7 +811,7 @@ export const tvShowList = [
     start: '2021-02-24',
     end: '2021-02-25',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 75,
@@ -822,7 +822,7 @@ export const tvShowList = [
     start: '2021-03-07',
     end: '2021-03-12',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 76,
@@ -833,7 +833,7 @@ export const tvShowList = [
     start: '2021-03-14',
     end: '2021-03-22',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 77,
@@ -844,7 +844,7 @@ export const tvShowList = [
     start: '2021-03-22',
     end: '2021-03-28',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 78,
@@ -855,7 +855,7 @@ export const tvShowList = [
     start: '2021-03-28',
     end: '2021-04-07',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 79,
@@ -866,7 +866,7 @@ export const tvShowList = [
     start: '2021-04-07',
     end: '2021-04-14',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 80,
@@ -877,7 +877,7 @@ export const tvShowList = [
     start: '2021-04-15',
     end: '2021-04-21',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 81,
@@ -888,7 +888,7 @@ export const tvShowList = [
     start: '2021-04-22',
     end: '2021-04-29',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 82,
@@ -899,7 +899,7 @@ export const tvShowList = [
     start: '2021-04-29',
     end: '2021-05-06',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 83,
@@ -910,7 +910,7 @@ export const tvShowList = [
     start: '2021-05-06',
     end: '2021-05-09',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 84,
@@ -921,7 +921,7 @@ export const tvShowList = [
     start: '2021-05-10',
     end: '2021-05-14',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 85,
@@ -932,7 +932,7 @@ export const tvShowList = [
     start: '2021-05-14',
     end: '2021-05-14',
     rating: '',
-    finish: 0
+    finish: 0,
   },
   {
     index: 86,
@@ -943,7 +943,7 @@ export const tvShowList = [
     start: '2021-05-24',
     end: '2021-05-27',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 87,
@@ -954,7 +954,7 @@ export const tvShowList = [
     start: '2021-05-28',
     end: '2021-06-05',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 88,
@@ -965,7 +965,7 @@ export const tvShowList = [
     start: '2021-06-05',
     end: '2021-06-15',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 89,
@@ -976,7 +976,7 @@ export const tvShowList = [
     start: '2021-06-16',
     end: '2021-06-22',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 90,
@@ -987,7 +987,7 @@ export const tvShowList = [
     start: '2021-06-23',
     end: '2021-07-03',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 91,
@@ -998,7 +998,7 @@ export const tvShowList = [
     start: '2021-07-04',
     end: '2021-07-06',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 92,
@@ -1009,7 +1009,7 @@ export const tvShowList = [
     start: '2021-07-09',
     end: '2021-07-11',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 93,
@@ -1020,7 +1020,7 @@ export const tvShowList = [
     start: '2021-07-14',
     end: '2021-07-21',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 94,
@@ -1031,7 +1031,7 @@ export const tvShowList = [
     start: '2021-07-23',
     end: '2021-07-27',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 95,
@@ -1042,7 +1042,7 @@ export const tvShowList = [
     start: '2021-07-28',
     end: '2021-10-09',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 96,
@@ -1053,7 +1053,7 @@ export const tvShowList = [
     start: '2021-07-28',
     end: '2021-07-29',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 97,
@@ -1064,7 +1064,7 @@ export const tvShowList = [
     start: '2021-08-06',
     end: '2021-08-07',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 98,
@@ -1075,7 +1075,7 @@ export const tvShowList = [
     start: '2021-08-16',
     end: '2021-08-25',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 99,
@@ -1086,7 +1086,7 @@ export const tvShowList = [
     start: '2021-08-21',
     end: '2021-10-30',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 100,
@@ -1097,7 +1097,7 @@ export const tvShowList = [
     start: '2021-08-25',
     end: '2021-09-15',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 101,
@@ -1108,7 +1108,7 @@ export const tvShowList = [
     start: '2021-09-16',
     end: '2021-10-08',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 102,
@@ -1119,7 +1119,7 @@ export const tvShowList = [
     start: '2021-10-10',
     end: '2021-10-24',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 103,
@@ -1130,7 +1130,7 @@ export const tvShowList = [
     start: '2021-10-24',
     end: '2021-11-01',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 104,
@@ -1141,7 +1141,7 @@ export const tvShowList = [
     start: '2021-11-01',
     end: '2021-11-02',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 105,
@@ -1152,7 +1152,7 @@ export const tvShowList = [
     start: '2021-11-06',
     end: '2021-11-12',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 106,
@@ -1163,7 +1163,7 @@ export const tvShowList = [
     start: '2021-11-13',
     end: '2021-11-22',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 107,
@@ -1174,7 +1174,7 @@ export const tvShowList = [
     start: '2021-11-25',
     end: '2021-12-03',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 108,
@@ -1185,7 +1185,7 @@ export const tvShowList = [
     start: '2021-11-26',
     end: '2021-11-28',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 109,
@@ -1196,7 +1196,7 @@ export const tvShowList = [
     start: '2021-12-04',
     end: '2021-12-06',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 110,
@@ -1207,7 +1207,7 @@ export const tvShowList = [
     start: '2021-12-10',
     end: '2021-12-18',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 111,
@@ -1218,7 +1218,7 @@ export const tvShowList = [
     start: '2021-12-20',
     end: '2021-12-24',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 112,
@@ -1229,7 +1229,7 @@ export const tvShowList = [
     start: '2022-01-01',
     end: '2022-01-02',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 113,
@@ -1240,7 +1240,7 @@ export const tvShowList = [
     start: '2022-01-03',
     end: '2022-01-25',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 114,
@@ -1251,7 +1251,7 @@ export const tvShowList = [
     start: '2022-01-15',
     end: '2022-01-17',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 115,
@@ -1262,7 +1262,7 @@ export const tvShowList = [
     start: '2022-01-17',
     end: '2022-01-22',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 116,
@@ -1273,7 +1273,7 @@ export const tvShowList = [
     start: '2022-01-23',
     end: '2022-01-25',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 117,
@@ -1284,7 +1284,7 @@ export const tvShowList = [
     start: '2022-01-28',
     end: '2022-01-29',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 118,
@@ -1295,7 +1295,7 @@ export const tvShowList = [
     start: '2022-01-30',
     end: '2022-02-02',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 119,
@@ -1306,7 +1306,7 @@ export const tvShowList = [
     start: '2022-02-02',
     end: '2022-02-12',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 120,
@@ -1317,7 +1317,7 @@ export const tvShowList = [
     start: '2022-02-12',
     end: '2022-02-17',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 121,
@@ -1328,7 +1328,7 @@ export const tvShowList = [
     start: '2022-02-21',
     end: '2022-02-27',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 122,
@@ -1339,7 +1339,7 @@ export const tvShowList = [
     start: '2022-02-26',
     end: '2022-03-13',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 123,
@@ -1350,7 +1350,7 @@ export const tvShowList = [
     start: '2022-02-27',
     end: '2022-03-31',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 124,
@@ -1361,7 +1361,7 @@ export const tvShowList = [
     start: '2022-03-01',
     end: '2022-03-07',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 125,
@@ -1372,7 +1372,7 @@ export const tvShowList = [
     start: '2022-03-07',
     end: '2022-03-12',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 126,
@@ -1383,7 +1383,7 @@ export const tvShowList = [
     start: '2022-03-13',
     end: '2022-03-15',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 127,
@@ -1394,7 +1394,7 @@ export const tvShowList = [
     start: '2022-03-22',
     end: '2022-03-26',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 128,
@@ -1405,7 +1405,7 @@ export const tvShowList = [
     start: '2022-03-27',
     end: '2022-03-28',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 129,
@@ -1416,7 +1416,7 @@ export const tvShowList = [
     start: '2022-03-28',
     end: '2022-03-29',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 130,
@@ -1427,7 +1427,7 @@ export const tvShowList = [
     start: '2022-03-30',
     end: '2022-04-04',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 131,
@@ -1438,7 +1438,7 @@ export const tvShowList = [
     start: '2022-04-04',
     end: '2022-04-10',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 132,
@@ -1449,7 +1449,7 @@ export const tvShowList = [
     start: '2022-04-10',
     end: '2022-04-17',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 133,
@@ -1460,7 +1460,7 @@ export const tvShowList = [
     start: '2022-04-17',
     end: '2022-04-20',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 134,
@@ -1471,7 +1471,7 @@ export const tvShowList = [
     start: '2022-04-20',
     end: '2022-04-26',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 135,
@@ -1482,7 +1482,7 @@ export const tvShowList = [
     start: '2022-05-02',
     end: '2022-05-08',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 136,
@@ -1493,7 +1493,7 @@ export const tvShowList = [
     start: '2022-05-06',
     end: '2022-05-10',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 137,
@@ -1504,7 +1504,7 @@ export const tvShowList = [
     start: '2022-05-08',
     end: '2022-05-20',
     rating: 'Dislike',
-    finish: 1
+    finish: 1,
   },
   {
     index: 138,
@@ -1515,7 +1515,7 @@ export const tvShowList = [
     start: '2022-05-15',
     end: '2022-05-16',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 139,
@@ -1526,7 +1526,7 @@ export const tvShowList = [
     start: '2022-05-16',
     end: '2022-05-17',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 140,
@@ -1537,7 +1537,7 @@ export const tvShowList = [
     start: '2022-05-17',
     end: '2022-06-06',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 141,
@@ -1548,7 +1548,7 @@ export const tvShowList = [
     start: '2022-05-19',
     end: '2022-05-30',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 142,
@@ -1559,7 +1559,7 @@ export const tvShowList = [
     start: '2022-05-38',
     end: '2022-07-03',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 143,
@@ -1570,7 +1570,7 @@ export const tvShowList = [
     start: '2022-05-30',
     end: '2022-06-03',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 144,
@@ -1581,7 +1581,7 @@ export const tvShowList = [
     start: '2022-06-07',
     end: '2022-06-07',
     rating: '',
-    finish: 0
+    finish: 0,
   },
   {
     index: 145,
@@ -1592,7 +1592,7 @@ export const tvShowList = [
     start: '2022-06-20',
     end: '2022-06-21',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 146,
@@ -1603,7 +1603,7 @@ export const tvShowList = [
     start: '2022-06-21',
     end: '2022-07-01',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 147,
@@ -1614,7 +1614,7 @@ export const tvShowList = [
     start: '2022-07-03',
     end: '2022-07-05',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 148,
@@ -1625,7 +1625,7 @@ export const tvShowList = [
     start: '2022-07-08',
     end: '2022-07-11',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 149,
@@ -1636,7 +1636,7 @@ export const tvShowList = [
     start: '2022-07-11',
     end: '2022-09-18',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 150,
@@ -1647,7 +1647,7 @@ export const tvShowList = [
     start: '2022-07-17',
     end: '2022-07-18',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 151,
@@ -1658,7 +1658,7 @@ export const tvShowList = [
     start: '2022-07-19',
     end: '2022-07-23',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 152,
@@ -1669,7 +1669,7 @@ export const tvShowList = [
     start: '2022-07-23',
     end: '2022-08-05',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 153,
@@ -1680,7 +1680,7 @@ export const tvShowList = [
     start: '2022-07-29',
     end: '2022-07-30',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 154,
@@ -1691,7 +1691,7 @@ export const tvShowList = [
     start: '2022-08-06',
     end: '2022-08-07',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 155,
@@ -1702,7 +1702,7 @@ export const tvShowList = [
     start: '2022-08-08',
     end: '2022-08-20',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 156,
@@ -1713,7 +1713,7 @@ export const tvShowList = [
     start: '2022-08-15',
     end: '2022-08-20',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 157,
@@ -1724,7 +1724,7 @@ export const tvShowList = [
     start: '2022-08-24',
     end: '2022-08-30',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 158,
@@ -1735,7 +1735,7 @@ export const tvShowList = [
     start: '2022-09-02',
     end: '2022-10-24',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 159,
@@ -1746,7 +1746,7 @@ export const tvShowList = [
     start: '2022-09-03',
     end: '2022-09-10',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 160,
@@ -1757,7 +1757,7 @@ export const tvShowList = [
     start: '2022-09-10',
     end: '2022-09-12',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 161,
@@ -1768,7 +1768,7 @@ export const tvShowList = [
     start: '2022-09-17',
     end: '2022-09-18',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 162,
@@ -1779,7 +1779,7 @@ export const tvShowList = [
     start: '2022-09-18',
     end: '2022-09-25',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 163,
@@ -1790,7 +1790,7 @@ export const tvShowList = [
     start: '2022-09-26',
     end: '2023-04-21',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 164,
@@ -1801,7 +1801,7 @@ export const tvShowList = [
     start: '2022-09-20',
     end: '2022-10-01',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 165,
@@ -1812,7 +1812,7 @@ export const tvShowList = [
     start: '2022-10-04',
     end: '2022-10-15',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 166,
@@ -1823,7 +1823,7 @@ export const tvShowList = [
     start: '2022-10-07',
     end: '2022-10-08',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 167,
@@ -1834,7 +1834,7 @@ export const tvShowList = [
     start: '2022-10-16',
     end: '2022-10-22',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 168,
@@ -1845,7 +1845,7 @@ export const tvShowList = [
     start: '2022-10-23',
     end: '2022-10-23',
     rating: '',
-    finish: 0
+    finish: 0,
   },
   {
     index: 169,
@@ -1856,7 +1856,7 @@ export const tvShowList = [
     start: '2022-10-24',
     end: '2022-11-03',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 170,
@@ -1867,7 +1867,7 @@ export const tvShowList = [
     start: '2022-11-01',
     end: '2022-11-19',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 171,
@@ -1878,7 +1878,7 @@ export const tvShowList = [
     start: '2022-11-19',
     end: '2022-11-21',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 172,
@@ -1889,7 +1889,7 @@ export const tvShowList = [
     start: '2022-11-24',
     end: '2022-11-28',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 173,
@@ -1900,7 +1900,7 @@ export const tvShowList = [
     start: '2022-11-29',
     end: '2023-01-02',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 174,
@@ -1911,7 +1911,7 @@ export const tvShowList = [
     start: '2022-12-04',
     end: '2022-12-04',
     rating: 'Dislike',
-    finish: 0
+    finish: 0,
   },
   {
     index: 175,
@@ -1922,7 +1922,7 @@ export const tvShowList = [
     start: '2022-12-04',
     end: '2022-12-06',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 176,
@@ -1933,7 +1933,7 @@ export const tvShowList = [
     start: '2022-12-06',
     end: '2022-12-12',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 177,
@@ -1944,7 +1944,7 @@ export const tvShowList = [
     start: '2022-12-12',
     end: '2022-12-16',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 178,
@@ -1955,7 +1955,7 @@ export const tvShowList = [
     start: '2022-12-17',
     end: '2023-01-13',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 179,
@@ -1966,7 +1966,7 @@ export const tvShowList = [
     start: '2022-12-20',
     end: '2022-12-28',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 180,
@@ -1977,7 +1977,7 @@ export const tvShowList = [
     start: '2023-01-06',
     end: '2023-01-06',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 181,
@@ -1988,7 +1988,7 @@ export const tvShowList = [
     start: '2023-01-08',
     end: '2023-01-08',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 182,
@@ -1999,7 +1999,7 @@ export const tvShowList = [
     start: '2023-01-09',
     end: '2023-01-17',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 183,
@@ -2010,7 +2010,7 @@ export const tvShowList = [
     start: '2023-01-21',
     end: '2023-01-27',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 184,
@@ -2021,7 +2021,7 @@ export const tvShowList = [
     start: '2023-01-29',
     end: '2023-02-08',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 185,
@@ -2032,7 +2032,7 @@ export const tvShowList = [
     start: '2023-02-11',
     end: '2023-02-14',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 186,
@@ -2043,7 +2043,7 @@ export const tvShowList = [
     start: '2023-02-17',
     end: '2023-03-13',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 187,
@@ -2054,7 +2054,7 @@ export const tvShowList = [
     start: '2023-03-14',
     end: '2023-03-28',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 188,
@@ -2065,7 +2065,7 @@ export const tvShowList = [
     start: '2023-03-24',
     end: '2023-04-16',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 189,
@@ -2076,7 +2076,7 @@ export const tvShowList = [
     start: '2023-04-03',
     end: '2023-04-18',
     rating: 'Dislike',
-    finish: 1
+    finish: 1,
   },
   {
     index: 190,
@@ -2087,7 +2087,7 @@ export const tvShowList = [
     start: '2023-04-21',
     end: '2023-04-22',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 191,
@@ -2098,7 +2098,7 @@ export const tvShowList = [
     start: '2023-04-24',
     end: '2023-04-25',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 192,
@@ -2109,7 +2109,7 @@ export const tvShowList = [
     start: '2023-04-26',
     end: '2023-05-01',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 193,
@@ -2120,7 +2120,7 @@ export const tvShowList = [
     start: '2023-05-03',
     end: '2023-05-05',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 194,
@@ -2131,7 +2131,7 @@ export const tvShowList = [
     start: '2023-05-08',
     end: '2023-06-02',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 195,
@@ -2142,7 +2142,7 @@ export const tvShowList = [
     start: '2023-05-19',
     end: '2023-05-20',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 196,
@@ -2153,7 +2153,7 @@ export const tvShowList = [
     start: '2023-05-21',
     end: '2023-05-23',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 197,
@@ -2164,7 +2164,7 @@ export const tvShowList = [
     start: '2023-05-23',
     end: '2023-06-03',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 198,
@@ -2175,7 +2175,7 @@ export const tvShowList = [
     start: '2023-06-05',
     end: '2023-06-09',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 199,
@@ -2186,7 +2186,7 @@ export const tvShowList = [
     start: '2023-06-10',
     end: '2023-06-11',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 200,
@@ -2197,7 +2197,7 @@ export const tvShowList = [
     start: '2023-06-12',
     end: '2023-06-10',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 201,
@@ -2208,7 +2208,7 @@ export const tvShowList = [
     start: '2023-06-21',
     end: '2023-07-03',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 202,
@@ -2219,7 +2219,7 @@ export const tvShowList = [
     start: '2023-06-27',
     end: '2023-07-23',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 203,
@@ -2230,7 +2230,7 @@ export const tvShowList = [
     start: '2023-06-28',
     end: '2023-07-03',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 204,
@@ -2241,7 +2241,7 @@ export const tvShowList = [
     start: '2023-07-04',
     end: '2023-07-05',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 205,
@@ -2252,7 +2252,7 @@ export const tvShowList = [
     start: '2023-07-06',
     end: '2023-09-16',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 206,
@@ -2263,7 +2263,7 @@ export const tvShowList = [
     start: '2023-07-16',
     end: '2023-09-09',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 207,
@@ -2274,7 +2274,7 @@ export const tvShowList = [
     start: '2023-07-16',
     end: '2023-07-22',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 208,
@@ -2285,7 +2285,7 @@ export const tvShowList = [
     start: '2023-07-24',
     end: '2023-07-29',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 209,
@@ -2296,7 +2296,7 @@ export const tvShowList = [
     start: '2023-08-01',
     end: '2023-09-11',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 210,
@@ -2307,7 +2307,7 @@ export const tvShowList = [
     start: '2023-08-03',
     end: '2023-08-04',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 211,
@@ -2318,7 +2318,7 @@ export const tvShowList = [
     start: '2023-08-04',
     end: '2023-08-06',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 212,
@@ -2329,7 +2329,7 @@ export const tvShowList = [
     start: '2023-08-10',
     end: '2023-08-12',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 213,
@@ -2340,7 +2340,7 @@ export const tvShowList = [
     start: '2023-08-13',
     end: '2023-08-15',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 214,
@@ -2351,7 +2351,7 @@ export const tvShowList = [
     start: '2023-08-15',
     end: '2023-08-20',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 215,
@@ -2362,7 +2362,7 @@ export const tvShowList = [
     start: '2023-08-20',
     end: '2023-08-21',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 216,
@@ -2373,7 +2373,7 @@ export const tvShowList = [
     start: '2023-08-24',
     end: '2023-08-25',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 217,
@@ -2384,7 +2384,7 @@ export const tvShowList = [
     start: '2023-08-28',
     end: '2023-10-01',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 218,
@@ -2395,7 +2395,7 @@ export const tvShowList = [
     start: '2023-09-04',
     end: '2023-09-08',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 219,
@@ -2406,7 +2406,7 @@ export const tvShowList = [
     start: '2023-09-13',
     end: '2023-09-13',
     rating: 'Dislike',
-    finish: 0
+    finish: 0,
   },
   {
     index: 220,
@@ -2417,7 +2417,7 @@ export const tvShowList = [
     start: '2023-09-13',
     end: '2023-09-22',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 221,
@@ -2428,7 +2428,7 @@ export const tvShowList = [
     start: '2023-09-24',
     end: '2023-10-03',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 222,
@@ -2439,7 +2439,7 @@ export const tvShowList = [
     start: '2023-10-04',
     end: '2023-10-06',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 223,
@@ -2450,7 +2450,7 @@ export const tvShowList = [
     start: '2023-10-15',
     end: '2023-10-15',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 224,
@@ -2461,7 +2461,7 @@ export const tvShowList = [
     start: '2023-10-16',
     end: '2023-10-20',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 225,
@@ -2472,7 +2472,7 @@ export const tvShowList = [
     start: '2023-10-20',
     end: '2023-11-18',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 226,
@@ -2483,7 +2483,7 @@ export const tvShowList = [
     start: '2023-10-26',
     end: '2023-12-01',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 227,
@@ -2494,7 +2494,7 @@ export const tvShowList = [
     start: '2023-10-28',
     end: '2023-10-30',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 228,
@@ -2505,7 +2505,7 @@ export const tvShowList = [
     start: '2023-10-30',
     end: '2023-10-31',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 229,
@@ -2516,7 +2516,7 @@ export const tvShowList = [
     start: '2023-10-31',
     end: '2023-11-07',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 230,
@@ -2527,7 +2527,7 @@ export const tvShowList = [
     start: '2023-11-05',
     end: '2023-11-05',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 231,
@@ -2538,7 +2538,7 @@ export const tvShowList = [
     start: '2023-11-07',
     end: '2023-11-13',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 232,
@@ -2549,7 +2549,7 @@ export const tvShowList = [
     start: '2023-11-15',
     end: '2023-11-19',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 233,
@@ -2560,7 +2560,7 @@ export const tvShowList = [
     start: '2023-11-20',
     end: '2023-12-03',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 234,
@@ -2571,7 +2571,7 @@ export const tvShowList = [
     start: '2023-11-26',
     end: '2023-11-26',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 235,
@@ -2582,7 +2582,7 @@ export const tvShowList = [
     start: '2023-12-03',
     end: '2023-12-13',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 236,
@@ -2593,7 +2593,7 @@ export const tvShowList = [
     start: '2023-12-16',
     end: '',
     rating: '',
-    finish: 0
+    finish: 0,
   },
   {
     index: 237,
@@ -2604,7 +2604,7 @@ export const tvShowList = [
     start: '2023-12-16',
     end: '2023-12-18',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 238,
@@ -2615,7 +2615,7 @@ export const tvShowList = [
     start: '2023-12-18',
     end: '2023-12-28',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 239,
@@ -2626,7 +2626,7 @@ export const tvShowList = [
     start: '2023-12-27',
     end: '2023-12-27',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 240,
@@ -2637,7 +2637,7 @@ export const tvShowList = [
     start: '2023-12-28',
     end: '2024-01-04',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 241,
@@ -2648,7 +2648,7 @@ export const tvShowList = [
     start: '2024-01-04',
     end: '2024-01-21',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 242,
@@ -2659,7 +2659,7 @@ export const tvShowList = [
     start: '2024-01-22',
     end: '2024-02-16',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 243,
@@ -2670,7 +2670,7 @@ export const tvShowList = [
     start: '2024-01-26',
     end: '2024-02-02',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 244,
@@ -2681,7 +2681,7 @@ export const tvShowList = [
     start: '2024-02-04',
     end: '2024-02-06',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 245,
@@ -2692,7 +2692,7 @@ export const tvShowList = [
     start: '2024-02-16',
     end: '2024-02-21',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 246,
@@ -2703,7 +2703,7 @@ export const tvShowList = [
     start: '2024-02-21',
     end: '2024-02-24',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 247,
@@ -2714,7 +2714,7 @@ export const tvShowList = [
     start: '2024-02-24',
     end: '2024-02-27',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 248,
@@ -2725,7 +2725,7 @@ export const tvShowList = [
     start: '2024-02-28',
     end: '2024-03-02',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 249,
@@ -2736,7 +2736,7 @@ export const tvShowList = [
     start: '2024-03-03',
     end: '2024-03-09',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 250,
@@ -2747,7 +2747,7 @@ export const tvShowList = [
     start: '2024-03-10',
     end: '2024-03-15',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 251,
@@ -2758,7 +2758,7 @@ export const tvShowList = [
     start: '2024-03-15',
     end: '2024-03-20',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 252,
@@ -2769,7 +2769,7 @@ export const tvShowList = [
     start: '2024-03-25',
     end: '2024-04-05',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 253,
@@ -2780,7 +2780,7 @@ export const tvShowList = [
     start: '2024-04-06',
     end: '2024-04-13',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 254,
@@ -2791,7 +2791,7 @@ export const tvShowList = [
     start: '2024-04-08',
     end: '2024-04-08',
     rating: 'Like',
-    finish: 1
+    finish: 1,
   },
   {
     index: 255,
@@ -2802,7 +2802,7 @@ export const tvShowList = [
     start: '2024-04-14',
     end: '2024-04-15',
     rating: '',
-    finish: 1
+    finish: 1,
   },
   {
     index: 256,
@@ -2813,6 +2813,6 @@ export const tvShowList = [
     start: '2024-04-19',
     end: '',
     rating: '',
-    finish: 0
-  }
+    finish: 0,
+  },
 ];
