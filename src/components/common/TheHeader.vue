@@ -17,19 +17,15 @@
   </header>
 </template>
 
-<script>
-export default {
-  name: 'TheHeader',
-};
-</script>
+<script setup lang="ts" />
 
 <style scoped lang="scss">
 $nav-breakpoint: 768px;
 $haunts-breakpoint: 480px;
 
 header {
-  border-bottom: 2px solid;
-  padding-bottom: 1rem;
+  border-block-end: 2px solid;
+  padding-block-end: 1rem;
 
   .nav {
     display: flex;
@@ -48,7 +44,7 @@ header {
       line-height: 1;
       letter-spacing: -.0125em;
       text-decoration: none;
-      border-bottom: transparent;
+      border-block-end: transparent;
     }
   }
 
@@ -57,10 +53,10 @@ header {
       display: grid;
       grid-template-columns: repeat(2, 1fr);
       grid-gap: 1rem;
-      width: 100%;
+      inline-size: 100%;
 
       @media (min-width: $haunts-breakpoint) {
-        width: unset;
+        inline-size: unset;
         grid-template-columns: repeat(3, min-content);
       }
 

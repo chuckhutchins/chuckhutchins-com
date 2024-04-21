@@ -36,11 +36,7 @@
   </footer>
 </template>
 
-<script>
-export default {
-  name: 'TheFooter',
-};
-</script>
+<script setup lang="ts" />
 
 <style scoped lang="scss">
 $nav-breakpoint: 768px;
@@ -51,8 +47,8 @@ $haunts-breakpoint: 480px;
 
   display: grid;
   gap: var(--footer-spacing);
-  border-top: 2px solid;
-  padding-top: 1rem;
+  border-block-start: 2px solid;
+  padding-block-start: 1rem;
 
   @media (min-width: $nav-breakpoint) {
     grid-template-columns: 1fr auto;
@@ -96,10 +92,10 @@ $haunts-breakpoint: 480px;
       display: grid;
       grid-template-columns: repeat(2, 1fr);
       grid-gap: 1rem;
-      width: 100%;
+      inline-size: 100%;
 
       @media (min-width: $haunts-breakpoint) {
-        width: unset;
+        inline-size: unset;
         grid-template-columns: repeat(3, min-content);
       }
     }
