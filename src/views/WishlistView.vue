@@ -59,6 +59,7 @@
     <div>
       <h2>Changelog</h2>
       <ul class="list">
+        <li>2024-04-21 &ndash; Updated wishlist code behind the scenes.</li>
         <li>2024-03-02 &ndash; Added T-Bone to the examples of Delicious Meats. Removed Herman Miller Aeron Chair.</li>
         <li>2023-06-29 &ndash; Updated wishlist to new framework. Removed YubiKey 5C NFC and VanMoof S3.</li>
         <li>2022-01-01 &ndash; Removed Christmas Tree Cakes (Vanilla), Kroger Hot & Spicy Peanuts, Coffee Cup (Charcoal), and Anova Precision Cooker Nano.</li>
@@ -81,17 +82,9 @@
   </main>
 </template>
 
-<script>
+<script setup lang="ts">
 import TheHr from '@/components/common/TheHr.vue';
 import WishlistItem from '@/components/wishlist/WishlistItem.vue';
-
-export default {
-  name: 'WishlistView',
-  components: {
-    TheHr,
-    WishlistItem,
-  },
-};
 </script>
 
 <style scoped lang="scss">
@@ -110,7 +103,7 @@ export default {
   }
 
   h2 {
-    margin-bottom: 0.5rem;
+    margin-block-end: 0.5rem;
   }
 
   .wishlist-list {

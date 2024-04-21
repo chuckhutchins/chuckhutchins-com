@@ -1,51 +1,23 @@
 <template>
   <li>
-    <a :href="link">
+    <a :href="props.link">
       <div>
-        <img :src='image' alt='' />
+        <img :src='props.image' alt='' />
       </div>
-      <h3>{{ name }}<sup v-if="hasFootnote">{{ footnote }}</sup></h3>
+      <h3>{{ props.name }}</h3>
     </a>
   </li>
 </template>
 
-<script>
-export default {
-  name: 'WishlistItem',
-  props: {
-    footnote: {
-      default: '',
-      required: false,
-      type: String,
-    },
-    image: {
-      default: '',
-      required: true,
-      type: String,
-    },
-    link: {
-      default: '',
-      required: true,
-      type: String,
-    },
-    name: {
-      default: '',
-      required: true,
-      type: String,
-    },
-  },
-  computed: {
-    hasFootnote() {
-      return this.footnote !== '';
-    },
-  },
-};
+<script setup lang="ts">
+import type { WishlistItem } from '@/types';
+const props = defineProps<WishlistItem>();
 </script>
 
 <style scoped lang="scss">
 a {
   display: block;
-  border-bottom: none;
+  border-block-end: none;
 
   &:hover,
   &:focus {
@@ -54,14 +26,14 @@ a {
     }
 
     h4 {
-      border-bottom-color: transparent;
+      border-block-end-color: transparent;
     }
   }
 
   div {
     overflow: hidden;
     border-radius: .125rem;
-    margin-bottom: .5rem;
+    margin-block-end: .5rem;
     background: linear-gradient(-45deg, #ffa745 0%, #fe869f 30%, #ef7ac8 45%, #a083ed 70%, #43aeff 85%);
   }
 
@@ -72,7 +44,7 @@ a {
 
   h4 {
     display: inline;
-    border-bottom: .125rem dotted;
+    border-block-end: .125rem dotted;
     transition: border-bottom-color .2s;
   }
 }
