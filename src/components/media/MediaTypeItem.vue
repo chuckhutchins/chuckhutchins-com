@@ -100,10 +100,7 @@ const routeName = computed(() => ({ name: `MediaConsumption${sanitizedType.value
     &::before {
       content: "";
       position: absolute;
-      inset-block-start: 0;
-      inset-block-end: 0;
-      inset-inline-end: 0;
-      inset-inline-start: 0;
+      inset: 0;
       z-index: -1;
       opacity: 0;
       transition: opacity .5s ease;
