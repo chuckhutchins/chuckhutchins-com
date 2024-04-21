@@ -1,23 +1,23 @@
-import bookList from '@/assets/data/book-list.json';
-import coffeeList from '@/assets/data/coffee-list.json';
-import movieList from '@/assets/data/movie-list.json';
-import tvShowList from '@/assets/data/tv-show-list.json';
-import videoGameList from '@/assets/data/video-game-list.json';
+import { bookList } from '@/assets/data/book-list.ts';
+import { coffeeList } from '@/assets/data/coffee-list.ts';
+import { movieList } from '@/assets/data/movie-list.ts';
+import { tvShowList } from '@/assets/data/tv-show-list.ts';
+import { videoGameList } from '@/assets/data/video-game-list.ts';
 
 export default {
   getBookList() {
-    return bookList.books;
+    return bookList;
   },
   getCoffeeList() {
-    return coffeeList.coffee;
+    return coffeeList;
   },
   getMovieList() {
-    return movieList.movies;
+    return movieList;
   },
   getTVShowList() {
-    return tvShowList.tvShows;
+    return tvShowList;
   },
   getVideoGameList() {
-    return videoGameList.videoGames;
+    return videoGameList;
   },
 };
