@@ -18,7 +18,7 @@ const props = defineProps<{
 }>();
 
 const sanitizedType = computed(() => {
-  return props.type.replace(/\s/g, "");
+  return props.type.replace(/\s/g, '');
 });
 
 const icons = {
