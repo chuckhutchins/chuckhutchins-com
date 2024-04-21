@@ -1,8 +1,16 @@
 import { defineStore } from 'pinia';
-import ApiService from '@/services/Api.js';
+import ApiService from '@/services/Api.ts';
+import type { Media } from '@/types';
+
+type StateShape = {
+  bookList: Media[];
+  movieList: Media[];
+  tvShowList: Media[];
+  videoGameList: Media[];
+};
 
 export const useMediaStore = defineStore('media', {
-  state: () => ({
+  state: (): StateShape => ({
     bookList: [],
     movieList: [],
     tvShowList: [],

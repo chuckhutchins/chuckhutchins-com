@@ -1,37 +1,35 @@
 <template>
   <li class="type-item">
-    <router-link :to="{ name: `MediaConsumption${sanitizedType}Page` }">
-      <component :is="`Icon${sanitizedType}`" /> {{ type }}
+    <router-link :to="routeName">
+      <component :is="iconComponent" /> {{ props.type }}
     </router-link>
   </li>
 </template>
 
-<script>
+<script setup lang="ts">
+import { computed } from 'vue';
 import IconBooks from '@/components/icons/IconBooks.vue';
 import IconMovies from '@/components/icons/IconMovies.vue';
 import IconTVShows from '@/components/icons/IconTVShows.vue';
 import IconVideoGames from '@/components/icons/IconVideoGames.vue';
 
-export default {
-  name: 'MediaTypeItem',
-  props: {
-    type: {
-      required: true,
-      type: String,
-    },
-  },
-  components: {
-    IconBooks,
-    IconMovies,
-    IconTVShows,
-    IconVideoGames,
-  },
-  computed: {
-    sanitizedType() {
-      return this.type.replace(/\s/g, "");
-    },
-  },
+const props = defineProps<{
+  type: string
+}>();
+
+const sanitizedType = computed(() => {
+  return props.type.replace(/\s/g, '');
+});
+
+const icons = {
+  Books: IconBooks,
+  Movies: IconMovies,
+  TVShows: IconTVShows,
+  VideoGames: IconVideoGames,
 };
+
+const iconComponent = computed(() => icons[sanitizedType.value]);
+const routeName = computed(() => ({ name: `MediaConsumption${sanitizedType.value}Page`}));
 </script>
 
 <style scoped lang="scss">
@@ -90,30 +88,27 @@ export default {
     font-size: 1.5rem;
     font-weight: 700;
     color: var(--color-white);
-    text-shadow: 0 .0625rem .125rem hsla(0, 0%, 0%, .25);
+    text-shadow: 0 0.0625rem 0.125rem hsla(0, 0%, 0%, 0.25);
     padding: 2rem;
-    border-bottom: 0;
-    border-radius: .25rem;
+    border-block-end: 0;
+    border-radius: 0.25rem;
     overflow: hidden;
     z-index: 0;
-    transition: box-shadow .25s ease;
-    box-shadow: 0 .0625rem .25rem -.125rem hsla(0, 0%, 0%, .25);
+    transition: box-shadow 0.25s ease;
+    box-shadow: 0 0.0625rem 0.25rem -0.125rem hsla(0, 0%, 0%, 0.25);
 
     &::before {
       content: "";
       position: absolute;
-      top: 0;
-      bottom: 0;
-      right: 0;
-      left: 0;
+      inset: 0;
       z-index: -1;
       opacity: 0;
-      transition: opacity .5s ease;
+      transition: opacity 0.5s ease;
     }
 
     &:hover,
     &:focus {
-      box-shadow: 0 .1875rem .25rem -.125rem hsla(0, 0%, 0%, .25);
+      box-shadow: 0 0.1875rem 0.25rem -0.125rem hsla(0, 0%, 0%, 0.25);
 
       &::before {
         opacity: 1;
@@ -125,11 +120,11 @@ export default {
     }
 
     svg {
-      width: 2rem;
+      inline-size: 2rem;
       aspect-ratio: 1;
       fill: currentColor;
-      margin-top: -.0625rem;
-      filter: drop-shadow(0 .0625rem .125rem hsla(0, 0%, 0%, .25));
+      margin-block-start: -0.0625rem;
+      filter: drop-shadow(0 0.0625rem 0.125rem hsla(0, 0%, 0%, 0.25));
     }
   }
 }

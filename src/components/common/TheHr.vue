@@ -2,15 +2,11 @@
   <div class="hr" />
 </template>
 
-<script>
-export default {
-  name: 'TheHr',
-};
-</script>
+<script setup lang="ts" />
 
 <style scoped lang="scss">
 .hr {
-  width: 2rem;
-  border-bottom: 4px solid;
+  inline-size: 2rem;
+  border-block-end: 4px solid;
 }
 </style>

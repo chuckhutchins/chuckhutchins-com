@@ -6,17 +6,9 @@
   </div>
 </template>
 
-<script>
+<script setup lang="ts">
 import TheFooter from '@/components/common/TheFooter.vue';
 import TheHeader from '@/components/common/TheHeader.vue';
-
-export default {
-  name: 'App',
-  components: {
-    TheFooter,
-    TheHeader,
-  },
-};
 </script>
 
 <style scoped lang="scss">
@@ -35,7 +27,7 @@ export default {
 
 .not-found {
   h1 {
-    margin-bottom: .5rem;
+    margin-bottom: 0.5rem;
   }
 }
 </style>
