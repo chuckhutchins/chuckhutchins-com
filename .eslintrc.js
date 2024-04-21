@@ -18,6 +18,7 @@ module.exports = {
   rules: {
     '@stylistic/comma-style': ['error', 'last'],
     '@stylistic/semi': ['error', 'always'],
+    '@stylistic/arrow-parens': ['error', 'as-needed'],
     '@stylistic/space-before-function-paren': ['error', 'never'],
     '@stylistic/quote-props': ['error', 'as-needed'],
     '@stylistic/quotes': [
