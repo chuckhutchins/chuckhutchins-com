@@ -94,7 +94,7 @@
     <div class="coffee-wrapper">
       <ul class="coffee-list">
         <CoffeeItem
-          v-for="(coffee, index) in getFilteredCoffeeList(rating)"
+          v-for="(coffee, index) in filteredCoffeeList"
           :key="index"
           :coffee="coffee"
         />
@@ -103,27 +103,30 @@
   </main>
 </template>
 
-<script>
-import { mapActions } from 'pinia';
-import {useCoffeeStore} from '@/stores/CoffeeStore';
+<script setup lang="ts">
+import { computed, ref } from 'vue';
+import { useCoffeeStore } from '@/stores/CoffeeStore';
 import CoffeeItem from '@/components/coffee/CoffeeItem.vue';
 import IconStarSimple from '@/components/icons/IconStarSimple.vue';
 import TheHr from '@/components/common/TheHr.vue';
+import type { CoffeeRating } from '@/types';
 
-export default {
-  name: 'CoffeeConsumptionView',
-  components: {
-    CoffeeItem,
-    IconStarSimple,
-    TheHr,
-  },
-  data: () => ({
-    rating: 'all',
-  }),
-  methods: {
-    ...mapActions(useCoffeeStore, ['getFilteredCoffeeList']),
+const coffeeStore = useCoffeeStore();
+
+const rating = ref<CoffeeRating>('all');
+
+const filteredCoffeeList = computed(() => {
+  if (rating.value !== 'all') {
+    return sortedCoffeeList.value.filter(item => item.rating === Number(rating.value));
   }
-};
+  return sortedCoffeeList.value;
+});
+
+const sortedCoffeeList = computed(() => {return []
+  .concat(coffeeStore.coffeeList)
+  .sort((a, b) => {
+    return a.name.localeCompare(b.name);
+  });});
 </script>
 
 <style scoped lang="scss">
