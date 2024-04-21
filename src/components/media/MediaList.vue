@@ -34,13 +34,13 @@ const props = defineProps<{
 
 const inProgressList = computed(() => {
   const list = [...props.mediaList];
-  return list.filter(item => item.finish === 0 && item.end === '');
+  return list.filter(item => !item.finish && item.end === '');
 });
 const hasInProgress = computed(() => inProgressList.value.length > 0);
 
 const finishedList = computed(() => {
   const list = [...props.mediaList];
-  const finished = list.filter(item => item.finish !== 0 || item.end !== '');
+  const finished = list.filter(item => item.finish || item.end !== '');
   return finished.sort((a, b) => (a.end > b.end) ? -1 : 1);
 });
 const hasFinished = computed(() => finishedList.value.length > 0);

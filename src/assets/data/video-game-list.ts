@@ -7,7 +7,7 @@ export const videoGameList = [
     start: '0',
     end: '2021-05-29',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 2,
@@ -17,7 +17,7 @@ export const videoGameList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 0,
+    finish: false,
   },
   {
     index: 3,
@@ -27,7 +27,7 @@ export const videoGameList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 0,
+    finish: false,
   },
   {
     index: 4,
@@ -37,7 +37,7 @@ export const videoGameList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 5,
@@ -47,7 +47,7 @@ export const videoGameList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 6,
@@ -57,7 +57,7 @@ export const videoGameList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 7,
@@ -67,7 +67,7 @@ export const videoGameList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 8,
@@ -77,7 +77,7 @@ export const videoGameList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 9,
@@ -87,7 +87,7 @@ export const videoGameList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 10,
@@ -97,7 +97,7 @@ export const videoGameList = [
     start: '0',
     end: '0',
     rating: '0',
-    finish: 0,
+    finish: false,
   },
   {
     index: 11,
@@ -107,7 +107,7 @@ export const videoGameList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 12,
@@ -117,7 +117,7 @@ export const videoGameList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 13,
@@ -127,7 +127,7 @@ export const videoGameList = [
     start: '0',
     end: '0',
     rating: 'Dislike',
-    finish: 0,
+    finish: false,
   },
   {
     index: 14,
@@ -137,7 +137,7 @@ export const videoGameList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 15,
@@ -147,7 +147,7 @@ export const videoGameList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 16,
@@ -157,7 +157,7 @@ export const videoGameList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 17,
@@ -167,7 +167,7 @@ export const videoGameList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 18,
@@ -177,7 +177,7 @@ export const videoGameList = [
     start: '2020-10-17',
     end: '2020-10-31',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 19,
@@ -187,7 +187,7 @@ export const videoGameList = [
     start: '2020-10-24',
     end: '2020-11-03',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 20,
@@ -197,7 +197,7 @@ export const videoGameList = [
     start: '2020-10-30',
     end: '2020-12-13',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 21,
@@ -207,7 +207,7 @@ export const videoGameList = [
     start: '2020-10-31',
     end: '0',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 22,
@@ -217,7 +217,7 @@ export const videoGameList = [
     start: '2020-11-18',
     end: '2021-07-04',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 23,
@@ -227,7 +227,7 @@ export const videoGameList = [
     start: '2020-11-28',
     end: '0',
     rating: 'Dislike',
-    finish: 0,
+    finish: false,
   },
   {
     index: 24,
@@ -237,7 +237,7 @@ export const videoGameList = [
     start: '2020-12-26',
     end: '2020-12-31',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 25,
@@ -247,7 +247,7 @@ export const videoGameList = [
     start: '2021-01-08',
     end: '2021-01-08',
     rating: 'Dislike',
-    finish: 0,
+    finish: false,
   },
   {
     index: 26,
@@ -257,7 +257,7 @@ export const videoGameList = [
     start: '2021-01-08',
     end: '2021-01-08',
     rating: 'Dislike',
-    finish: 0,
+    finish: false,
   },
   {
     index: 27,
@@ -267,7 +267,7 @@ export const videoGameList = [
     start: '2021-01-08',
     end: '2021-02-08',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 28,
@@ -277,7 +277,7 @@ export const videoGameList = [
     start: '2021-02-10',
     end: '2023-01-15',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 29,
@@ -287,7 +287,7 @@ export const videoGameList = [
     start: '2021-02-13',
     end: '2021-02-13',
     rating: 'Dislike',
-    finish: 0,
+    finish: false,
   },
   {
     index: 30,
@@ -297,7 +297,7 @@ export const videoGameList = [
     start: '2021-02-19',
     end: '2021-02-27',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 31,
@@ -307,7 +307,7 @@ export const videoGameList = [
     start: '2021-02-27',
     end: '2021-04-11',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 32,
@@ -317,7 +317,7 @@ export const videoGameList = [
     start: '2021-03-28',
     end: '2021-05-02',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 33,
@@ -327,7 +327,7 @@ export const videoGameList = [
     start: '2021-03-30',
     end: '2021-04-03',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 34,
@@ -337,7 +337,7 @@ export const videoGameList = [
     start: '2021-05-29',
     end: '2021-06-19',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 35,
@@ -347,7 +347,7 @@ export const videoGameList = [
     start: '2021-06-19',
     end: '2021-06-19',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 36,
@@ -357,7 +357,7 @@ export const videoGameList = [
     start: '2021-06-24',
     end: '2021-06-27',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 37,
@@ -367,7 +367,7 @@ export const videoGameList = [
     start: '2021-07-04',
     end: '2021-07-18',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 38,
@@ -377,7 +377,7 @@ export const videoGameList = [
     start: '2021-07-19',
     end: '2021-10-11',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 39,
@@ -387,7 +387,7 @@ export const videoGameList = [
     start: '2021-07-20',
     end: '2021-08-07',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 40,
@@ -397,7 +397,7 @@ export const videoGameList = [
     start: '2021-08-08',
     end: '',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 41,
@@ -407,7 +407,7 @@ export const videoGameList = [
     start: '2021-10-31',
     end: '',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 42,
@@ -417,7 +417,7 @@ export const videoGameList = [
     start: '2021-11-29',
     end: '2021-12-04',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 43,
@@ -427,7 +427,7 @@ export const videoGameList = [
     start: '2021-12-04',
     end: '2021-12-12',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 44,
@@ -437,7 +437,7 @@ export const videoGameList = [
     start: '2021-12-12',
     end: '2022-01-13',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 45,
@@ -447,7 +447,7 @@ export const videoGameList = [
     start: '2022-01-02',
     end: '2022-01-08',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 46,
@@ -457,7 +457,7 @@ export const videoGameList = [
     start: '2022-01-14',
     end: '2022-02-13',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 47,
@@ -467,7 +467,7 @@ export const videoGameList = [
     start: '2022-02-20',
     end: '2022-02-25',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 48,
@@ -477,7 +477,7 @@ export const videoGameList = [
     start: '2022-03-17',
     end: '2022-04-07',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 49,
@@ -487,7 +487,7 @@ export const videoGameList = [
     start: '2022-04-02',
     end: '2022-04-04',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 50,
@@ -497,7 +497,7 @@ export const videoGameList = [
     start: '2022-04-08',
     end: '2022-04-10',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 51,
@@ -507,7 +507,7 @@ export const videoGameList = [
     start: '2022-04-11',
     end: '2022-04-16',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 52,
@@ -517,7 +517,7 @@ export const videoGameList = [
     start: '2022-04-24',
     end: '2022-05-08',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 53,
@@ -527,7 +527,7 @@ export const videoGameList = [
     start: '2022-05-21',
     end: '2022-06-22',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 54,
@@ -537,7 +537,7 @@ export const videoGameList = [
     start: '2022-06-17',
     end: '2022-06-20',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 55,
@@ -547,7 +547,7 @@ export const videoGameList = [
     start: '2022-06-20',
     end: '2022-06-24',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 56,
@@ -557,7 +557,7 @@ export const videoGameList = [
     start: '2022-06-24',
     end: '2022-06-24',
     rating: 'Dislike',
-    finish: 0,
+    finish: false,
   },
   {
     index: 57,
@@ -567,7 +567,7 @@ export const videoGameList = [
     start: '2022-06-25',
     end: '2022-06-25',
     rating: 'Dislike',
-    finish: 0,
+    finish: false,
   },
   {
     index: 58,
@@ -577,7 +577,7 @@ export const videoGameList = [
     start: '2022-06-25',
     end: '2022-06-26',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 59,
@@ -587,7 +587,7 @@ export const videoGameList = [
     start: '2022-06-26',
     end: '2022-06-29',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 60,
@@ -597,7 +597,7 @@ export const videoGameList = [
     start: '2022-06-27',
     end: '2022-06-27',
     rating: 'Dislike',
-    finish: 0,
+    finish: false,
   },
   {
     index: 61,
@@ -607,7 +607,7 @@ export const videoGameList = [
     start: '2022-06-28',
     end: '2022-06-28',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 62,
@@ -617,7 +617,7 @@ export const videoGameList = [
     start: '2022-07-04',
     end: '2022-07-04',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 63,
@@ -627,7 +627,7 @@ export const videoGameList = [
     start: '2022-07-12',
     end: '2022-07-26',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 64,
@@ -637,7 +637,7 @@ export const videoGameList = [
     start: '2022-08-06',
     end: '2022-08-26',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 65,
@@ -647,7 +647,7 @@ export const videoGameList = [
     start: '2022-08-28',
     end: '2022-08-28',
     rating: 'Dislike',
-    finish: 0,
+    finish: false,
   },
   {
     index: 66,
@@ -657,7 +657,7 @@ export const videoGameList = [
     start: '2022-09-03',
     end: '2022-09-03',
     rating: 'Dislike',
-    finish: 0,
+    finish: false,
   },
   {
     index: 67,
@@ -667,7 +667,7 @@ export const videoGameList = [
     start: '2022-09-03',
     end: '2022-09-03',
     rating: 'Dislike',
-    finish: 0,
+    finish: false,
   },
   {
     index: 68,
@@ -677,7 +677,7 @@ export const videoGameList = [
     start: '2022-09-05',
     end: '2022-10-22',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 69,
@@ -687,7 +687,7 @@ export const videoGameList = [
     start: '2022-11-15',
     end: '2022-11-29',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 70,
@@ -697,7 +697,7 @@ export const videoGameList = [
     start: '2022-11-27',
     end: '2022-11-27',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 71,
@@ -707,7 +707,7 @@ export const videoGameList = [
     start: '2022-12-03',
     end: '2022-12-19',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 72,
@@ -717,7 +717,7 @@ export const videoGameList = [
     start: '2022-12-04',
     end: '2022-12-04',
     rating: 'Dislike',
-    finish: 0,
+    finish: false,
   },
   {
     index: 73,
@@ -727,7 +727,7 @@ export const videoGameList = [
     start: '2022-12-04',
     end: '2022-12-04',
     rating: 'Dislike',
-    finish: 0,
+    finish: false,
   },
   {
     index: 74,
@@ -737,7 +737,7 @@ export const videoGameList = [
     start: '2022-12-22',
     end: '2022-12-23',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 75,
@@ -747,7 +747,7 @@ export const videoGameList = [
     start: '2023-01-15',
     end: '2023-01-17',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 76,
@@ -757,7 +757,7 @@ export const videoGameList = [
     start: '2023-01-20',
     end: '2023-05-06',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 77,
@@ -767,7 +767,7 @@ export const videoGameList = [
     start: '2023-01-29',
     end: '2023-01-29',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 78,
@@ -777,7 +777,7 @@ export const videoGameList = [
     start: '2023-02-18',
     end: '2023-02-18',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 79,
@@ -787,7 +787,7 @@ export const videoGameList = [
     start: '2023-02-24',
     end: '2023-02-25',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 80,
@@ -797,7 +797,7 @@ export const videoGameList = [
     start: '2023-04-02',
     end: '2023-04-02',
     rating: 'Dislike',
-    finish: 0,
+    finish: false,
   },
   {
     index: 81,
@@ -807,7 +807,7 @@ export const videoGameList = [
     start: '2023-04-22',
     end: '2023-04-22',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 82,
@@ -817,7 +817,7 @@ export const videoGameList = [
     start: '2023-05-07',
     end: '',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 83,
@@ -827,7 +827,7 @@ export const videoGameList = [
     start: '2023-05-12',
     end: '2023-06-17',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 84,
@@ -837,7 +837,7 @@ export const videoGameList = [
     start: '2023-06-22',
     end: '2023-08-07',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 85,
@@ -847,7 +847,7 @@ export const videoGameList = [
     start: '2023-07-01',
     end: '2023-07-03',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 86,
@@ -857,7 +857,7 @@ export const videoGameList = [
     start: '2023-08-12',
     end: '',
     rating: 'Like',
-    finish: 0,
+    finish: false,
   },
   {
     index: 87,
@@ -867,7 +867,7 @@ export const videoGameList = [
     start: '2023-08-29',
     end: '2023-08-30',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 88,
@@ -877,7 +877,7 @@ export const videoGameList = [
     start: '2023-08-31',
     end: '2023-09-28',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 89,
@@ -887,7 +887,7 @@ export const videoGameList = [
     start: '2023-09-01',
     end: '2023-09-02',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 90,
@@ -897,7 +897,7 @@ export const videoGameList = [
     start: '2023-09-14',
     end: '2023-09-14',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 91,
@@ -907,7 +907,7 @@ export const videoGameList = [
     start: '2023-09-15',
     end: '2023-09-15',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 92,
@@ -917,7 +917,7 @@ export const videoGameList = [
     start: '2023-09-16',
     end: '2023-09-16',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 93,
@@ -927,7 +927,7 @@ export const videoGameList = [
     start: '2023-09-26',
     end: '2023-10-14',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 94,
@@ -937,7 +937,7 @@ export const videoGameList = [
     start: '2023-10-15',
     end: '',
     rating: 'Like',
-    finish: 0,
+    finish: false,
   },
   {
     index: 95,
@@ -947,7 +947,7 @@ export const videoGameList = [
     start: '2023-10-22',
     end: '2023-10-28',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 96,
@@ -957,7 +957,7 @@ export const videoGameList = [
     start: '2023-10-24',
     end: '2023-10-27',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 97,
@@ -967,7 +967,7 @@ export const videoGameList = [
     start: '2023-12-10',
     end: '2023-12-11',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 98,
@@ -977,7 +977,7 @@ export const videoGameList = [
     start: '2024-02-06',
     end: '2024-02-06',
     rating: 'Dislike',
-    finish: 0,
+    finish: false,
   },
   {
     index: 99,
@@ -987,7 +987,7 @@ export const videoGameList = [
     start: '2024-03-03',
     end: '',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 100,
@@ -997,6 +997,6 @@ export const videoGameList = [
     start: '2024-04-07',
     end: '2024-04-07',
     rating: '',
-    finish: 0,
+    finish: false,
   },
 ];

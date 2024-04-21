@@ -8,7 +8,7 @@ export const bookList = [
     start: '0',
     end: '0',
     rating: 'Dislike',
-    finish: 0,
+    finish: false,
   },
   {
     index: 2,
@@ -19,7 +19,7 @@ export const bookList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 3,
@@ -30,7 +30,7 @@ export const bookList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 4,
@@ -41,7 +41,7 @@ export const bookList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 5,
@@ -52,7 +52,7 @@ export const bookList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 6,
@@ -63,7 +63,7 @@ export const bookList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 7,
@@ -74,7 +74,7 @@ export const bookList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 8,
@@ -85,7 +85,7 @@ export const bookList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 9,
@@ -96,7 +96,7 @@ export const bookList = [
     start: '0',
     end: '2024-02-12',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 10,
@@ -107,7 +107,7 @@ export const bookList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 11,
@@ -118,7 +118,7 @@ export const bookList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 12,
@@ -129,7 +129,7 @@ export const bookList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 13,
@@ -140,7 +140,7 @@ export const bookList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 14,
@@ -151,7 +151,7 @@ export const bookList = [
     start: '0',
     end: '0',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 15,
@@ -162,7 +162,7 @@ export const bookList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 16,
@@ -173,7 +173,7 @@ export const bookList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 17,
@@ -184,7 +184,7 @@ export const bookList = [
     start: '0',
     end: '0',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 18,
@@ -195,7 +195,7 @@ export const bookList = [
     start: '0',
     end: '0',
     rating: 'Dislike',
-    finish: 1,
+    finish: true,
   },
   {
     index: 19,
@@ -206,7 +206,7 @@ export const bookList = [
     start: '2020-08-30',
     end: '2020-08-30',
     rating: 'Dislike',
-    finish: 0,
+    finish: false,
   },
   {
     index: 20,
@@ -217,7 +217,7 @@ export const bookList = [
     start: '2020-08-31',
     end: '2020-09-01',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 21,
@@ -228,7 +228,7 @@ export const bookList = [
     start: '2020-09-01',
     end: '2020-09-02',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 22,
@@ -239,7 +239,7 @@ export const bookList = [
     start: '2020-09-03',
     end: '2020-09-07',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 23,
@@ -250,7 +250,7 @@ export const bookList = [
     start: '2020-09-07',
     end: '2020-09-14',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 24,
@@ -261,7 +261,7 @@ export const bookList = [
     start: '2020-09-08',
     end: '2020-10-03',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 25,
@@ -272,7 +272,7 @@ export const bookList = [
     start: '2020-10-04',
     end: '2020-10-08',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 26,
@@ -283,7 +283,7 @@ export const bookList = [
     start: '2020-10-12',
     end: '2020-10-19',
     rating: 'Dislike',
-    finish: 1,
+    finish: true,
   },
   {
     index: 27,
@@ -294,7 +294,7 @@ export const bookList = [
     start: '2020-10-20',
     end: '2020-10-20',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 28,
@@ -305,7 +305,7 @@ export const bookList = [
     start: '2020-10-12',
     end: '',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 29,
@@ -316,7 +316,7 @@ export const bookList = [
     start: '2020-10-29',
     end: '2020-11-24',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 30,
@@ -327,7 +327,7 @@ export const bookList = [
     start: '2020-11-05',
     end: '2020-11-15',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 31,
@@ -338,7 +338,7 @@ export const bookList = [
     start: '2020-11-15',
     end: '2020-11-22',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 32,
@@ -349,7 +349,7 @@ export const bookList = [
     start: '2020-11-26',
     end: '2020-12-06',
     rating: 'Dislike',
-    finish: 1,
+    finish: true,
   },
   {
     index: 33,
@@ -360,7 +360,7 @@ export const bookList = [
     start: '2020-12-06',
     end: '2020-12-12',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 34,
@@ -371,7 +371,7 @@ export const bookList = [
     start: '2020-12-13',
     end: '2020-12-18',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 35,
@@ -382,7 +382,7 @@ export const bookList = [
     start: '2020-12-18',
     end: '2020-12-20',
     rating: 'Dislike',
-    finish: 0,
+    finish: false,
   },
   {
     index: 36,
@@ -393,7 +393,7 @@ export const bookList = [
     start: '2020-12-31',
     end: '2020-12-31',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 37,
@@ -404,7 +404,7 @@ export const bookList = [
     start: '2021-01-01',
     end: '2021-03-14',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 38,
@@ -415,7 +415,7 @@ export const bookList = [
     start: '2021-02-02',
     end: '2021-03-14',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 39,
@@ -426,7 +426,7 @@ export const bookList = [
     start: '2021-03-16',
     end: '2021-03-31',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 40,
@@ -437,7 +437,7 @@ export const bookList = [
     start: '2021-03-27',
     end: '2021-03-27',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 41,
@@ -448,7 +448,7 @@ export const bookList = [
     start: '2021-03-27',
     end: '2021-03-27',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 42,
@@ -459,7 +459,7 @@ export const bookList = [
     start: '2021-04-01',
     end: '2021-04-14',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 43,
@@ -470,7 +470,7 @@ export const bookList = [
     start: '2021-04-14',
     end: '2021-04-20',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 44,
@@ -481,7 +481,7 @@ export const bookList = [
     start: '2021-04-20',
     end: '2021-04-25',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 45,
@@ -492,7 +492,7 @@ export const bookList = [
     start: '2021-04-25',
     end: '2021-04-29',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 46,
@@ -503,7 +503,7 @@ export const bookList = [
     start: '2021-04-29',
     end: '2021-05-12',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 47,
@@ -514,7 +514,7 @@ export const bookList = [
     start: '2021-05-13',
     end: '2021-05-18',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 48,
@@ -525,7 +525,7 @@ export const bookList = [
     start: '2021-05-18',
     end: '2021-06-01',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 49,
@@ -536,7 +536,7 @@ export const bookList = [
     start: '2021-06-02',
     end: '2021-06-25',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 50,
@@ -547,7 +547,7 @@ export const bookList = [
     start: '2021-06-26',
     end: '2021-06-28',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 51,
@@ -558,7 +558,7 @@ export const bookList = [
     start: '2021-07-26',
     end: '2021-12-28',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 52,
@@ -569,7 +569,7 @@ export const bookList = [
     start: '2022-06-12',
     end: '2022-06-13',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 53,
@@ -580,7 +580,7 @@ export const bookList = [
     start: '2022-07-11',
     end: '2022-07-15',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 54,
@@ -591,7 +591,7 @@ export const bookList = [
     start: '2022-07-15',
     end: '2022-07-17',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 55,
@@ -602,7 +602,7 @@ export const bookList = [
     start: '2022-07-18',
     end: '2022-07-18',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 56,
@@ -613,7 +613,7 @@ export const bookList = [
     start: '2022-07-18',
     end: '2022-07-19',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 57,
@@ -624,7 +624,7 @@ export const bookList = [
     start: '2022-07-23',
     end: '2022-09-04',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 58,
@@ -635,7 +635,7 @@ export const bookList = [
     start: '2022-08-20',
     end: '2022-08-20',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 59,
@@ -646,7 +646,7 @@ export const bookList = [
     start: '2022-08-20',
     end: '2022-08-20',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 60,
@@ -657,7 +657,7 @@ export const bookList = [
     start: '2022-08-21',
     end: '2022-08-12',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 61,
@@ -668,7 +668,7 @@ export const bookList = [
     start: '2022-08-22',
     end: '2022-08-23',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 62,
@@ -679,7 +679,7 @@ export const bookList = [
     start: '2022-09-05',
     end: '2022-',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 63,
@@ -690,7 +690,7 @@ export const bookList = [
     start: '2022-12-18',
     end: '2022-12-31',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 64,
@@ -701,7 +701,7 @@ export const bookList = [
     start: '2023-01-02',
     end: '2023-01-29',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 65,
@@ -712,7 +712,7 @@ export const bookList = [
     start: '2023-01-29',
     end: '2023-02-13',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 66,
@@ -723,7 +723,7 @@ export const bookList = [
     start: '2023-02-14',
     end: '2023-02-26',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 67,
@@ -734,7 +734,7 @@ export const bookList = [
     start: '2023-02-26',
     end: '2023-02-27',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 68,
@@ -745,7 +745,7 @@ export const bookList = [
     start: '2023-02-27',
     end: '2023-02-28',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 69,
@@ -756,7 +756,7 @@ export const bookList = [
     start: '2023-03-01',
     end: '2023-03-04',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 70,
@@ -767,7 +767,7 @@ export const bookList = [
     start: '2023-03-04',
     end: '2023-03-06',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 71,
@@ -778,7 +778,7 @@ export const bookList = [
     start: '2023-03-04',
     end: '2023-03-04',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 72,
@@ -789,7 +789,7 @@ export const bookList = [
     start: '2023-03-05',
     end: '2023-03-06',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 73,
@@ -800,7 +800,7 @@ export const bookList = [
     start: '2023-03-07',
     end: '2023-03-11',
     rating: '',
-    finish: 0,
+    finish: false,
   },
   {
     index: 74,
@@ -811,7 +811,7 @@ export const bookList = [
     start: '2023-04-11',
     end: '2023-04-13',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 75,
@@ -822,7 +822,7 @@ export const bookList = [
     start: '2023-04-13',
     end: '2023-04-19',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 76,
@@ -833,7 +833,7 @@ export const bookList = [
     start: '2023-04-16',
     end: '2023-04-16',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 77,
@@ -844,7 +844,7 @@ export const bookList = [
     start: '2023-04-16',
     end: '2023-04-16',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 78,
@@ -855,7 +855,7 @@ export const bookList = [
     start: '2023-05-26',
     end: '2023-05-29',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 79,
@@ -866,7 +866,7 @@ export const bookList = [
     start: '2023-05-29',
     end: '2023-06-04',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 80,
@@ -877,7 +877,7 @@ export const bookList = [
     start: '2023-06-19',
     end: '2023-06-25',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 81,
@@ -888,7 +888,7 @@ export const bookList = [
     start: '2023-07-22',
     end: '2023-08-18',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 82,
@@ -899,7 +899,7 @@ export const bookList = [
     start: '2023-08-21',
     end: '2023-09-02',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 83,
@@ -910,7 +910,7 @@ export const bookList = [
     start: '2023-09-03',
     end: '2023-09-14',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 84,
@@ -921,7 +921,7 @@ export const bookList = [
     start: '2023-09-14',
     end: '2024-03-07',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 85,
@@ -932,7 +932,7 @@ export const bookList = [
     start: '2023-12-29',
     end: '2023-12-31',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 86,
@@ -943,7 +943,7 @@ export const bookList = [
     start: '2024-02-27',
     end: '2024-03-01',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 87,
@@ -954,7 +954,7 @@ export const bookList = [
     start: '2024-03-08',
     end: '2024-03-29',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 88,
@@ -965,7 +965,7 @@ export const bookList = [
     start: '2024-03-29',
     end: '2024-04-03',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 89,
@@ -976,6 +976,6 @@ export const bookList = [
     start: '2024-04-04',
     end: '',
     rating: '',
-    finish: 0,
+    finish: false,
   },
 ];

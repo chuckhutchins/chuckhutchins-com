@@ -39,7 +39,7 @@ const props = defineProps<{
 const hasBadge = computed((): boolean => isLiked.value || isDisliked.value || isAbandoned.value);
 const isLiked = computed((): boolean => props.item.rating === 'Like');
 const isDisliked = computed((): boolean => props.item.rating === 'Dislike');
-const isAbandoned = computed((): boolean => props.item.finish === 0 && props.item.end !== '');
+const isAbandoned = computed((): boolean => !props.item.finish && props.item.end !== '');
 
 // data
 const hasAuthor = computed((): boolean => !!props.item.author);

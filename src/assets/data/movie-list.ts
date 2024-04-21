@@ -6,7 +6,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/have-a-good-trip_zr9jud.jpg',
     end: '0',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 2,
@@ -15,7 +15,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/onward_blmgqu.jpg',
     end: '0',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 3,
@@ -24,7 +24,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/harry-potter-1_dhlepb.jpg',
     end: '0',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 4,
@@ -33,7 +33,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/borat_a4kgz7.jpg',
     end: '2020-10-25',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 5,
@@ -42,7 +42,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/borat-2_hmfh85.jpg',
     end: '2020-10-25',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 6,
@@ -51,7 +51,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/star-wars-1_ttdcdt.jpg',
     end: '2020-12-29',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 7,
@@ -60,7 +60,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/star-wars-2_bwyor7.jpg',
     end: '2020-12-30',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 8,
@@ -69,7 +69,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/star-wars-3_dl9evl.jpg',
     end: '2020-12-31',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 9,
@@ -78,7 +78,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/star-wars-4_j4aixu.jpg',
     end: '2021-01-01',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 10,
@@ -87,7 +87,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/star-wars-5_zdovyc.jpg',
     end: '2021-01-02',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 11,
@@ -96,7 +96,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/star-wars-6_ijn2ay.jpg',
     end: '2021-01-03',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 12,
@@ -105,7 +105,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/star-wars-7_smgomk.jpg',
     end: '2021-01-04',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 13,
@@ -114,7 +114,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/star-wars-8_kmoets.jpg',
     end: '2021-01-05',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 14,
@@ -123,7 +123,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/star-wars-9_viir4m.jpg',
     end: '2021-01-06',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 15,
@@ -132,7 +132,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/the-social-dilemma_jhpsxv.jpg',
     end: '2021-02-11',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 16,
@@ -141,7 +141,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/enola-holmes_xubfht.jpg',
     end: '2021-03-06',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 17,
@@ -150,7 +150,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/ant-man_vmx1li.jpg',
     end: '2021-05-05',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 18,
@@ -159,7 +159,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/spider-man-homecoming_y7cnqe.jpg',
     end: '2021-05-18',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 19,
@@ -168,7 +168,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/ant-man-and-the-wasp_stuxma.jpg',
     end: '2021-05-31',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 20,
@@ -177,7 +177,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/inside_wuvp21.jpg',
     end: '2021-07-07',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 21,
@@ -186,7 +186,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/what_vtntv8.jpg',
     end: '2021-07-11',
     rating: 'Dislike',
-    finish: 1,
+    finish: true,
   },
   {
     index: 20,
@@ -195,7 +195,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/make-happy_qdiztg.jpg',
     end: '2021-07-12',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 21,
@@ -204,7 +204,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/jolt_s9hfuu.jpg',
     end: '2021-08-06',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 22,
@@ -213,7 +213,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/witcher-nightmare-of-the-wolf_yaw2ct.jpg',
     end: '2021-12-24',
     rating: 'Dislike',
-    finish: 1,
+    finish: true,
   },
   {
     index: 23,
@@ -222,7 +222,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/lotr-fellowship-of-the-ring_clfczz.jpg',
     end: '2021-12-31',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 24,
@@ -231,7 +231,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1641045678/chuckhutchins/movies/lotr-two-towers_cstqri.jpg',
     end: '2022-01-01',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 25,
@@ -240,7 +240,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1641045678/chuckhutchins/movies/lotr-return-of-the-king_ix8crp.jpg',
     end: '2022-01-02',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 26,
@@ -249,7 +249,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/the-hobbit-an-unexpected-journey_nzl9jl.jpg',
     end: '2022-01-07',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 27,
@@ -258,7 +258,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729407/chuckhutchins/movies/the-hobbit-the-desolation-of-smaug_roj80g.jpg',
     end: '2022-01-08',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 28,
@@ -267,7 +267,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/the-hobbit-the-battle-of-the-five-armies_lhiw2m.jpg',
     end: '2022-01-09',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 29,
@@ -276,7 +276,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729407/chuckhutchins/movies/the-hobbit_voyylr.jpg',
     end: '2022-01-10',
     rating: 'Dislike',
-    finish: 1,
+    finish: true,
   },
   {
     index: 30,
@@ -285,7 +285,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/palm-springs_cecfhm.jpg',
     end: '2022-07-15',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 31,
@@ -294,7 +294,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729404/chuckhutchins/movies/free-guy_b9dbgp.jpg',
     end: '2022-07-16',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 32,
@@ -303,7 +303,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729405/chuckhutchins/movies/knives-out_xu7yvz.jpg',
     end: '2022-09-14',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 33,
@@ -312,7 +312,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729404/chuckhutchins/movies/fantastic-beasts-and-where-to-find-them_xjdmu0.jpg',
     end: '2022-10-05',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 34,
@@ -321,7 +321,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/popstar-never-stop-stopping_op2rzu.jpg',
     end: '2022-10-08',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 35,
@@ -330,7 +330,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729404/chuckhutchins/movies/do-revenge_ykgwlj.jpg',
     end: '2022-10-09',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 36,
@@ -339,7 +339,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729405/chuckhutchins/movies/inside-the-mind-of-a-cat_lltpeo.jpg',
     end: '2022-12-18',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 37,
@@ -348,7 +348,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729404/chuckhutchins/movies/a-christmas-story-christmas_vnqicm.jpg',
     end: '2022-12-24',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 38,
@@ -357,7 +357,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729405/chuckhutchins/movies/my-neighbor-totoro_anupul.jpg',
     end: '2022-12-30',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 39,
@@ -366,7 +366,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729405/chuckhutchins/movies/kikis-delivery-service_kaiwmj.jpg',
     end: '2022-12-30',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 40,
@@ -375,7 +375,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/only-yesterday_bjuvnr.jpg',
     end: '2022-12-31',
     rating: 'Dislike',
-    finish: 1,
+    finish: true,
   },
   {
     index: 41,
@@ -384,7 +384,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/porco-rosso_csacbw.jpg',
     end: '2022-12-31',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 42,
@@ -393,7 +393,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/princess-mononoke_w4xhia.jpg',
     end: '2023-01-01',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 43,
@@ -402,7 +402,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729407/chuckhutchins/movies/spirited-away_ioz3sb.jpg',
     end: '2023-01-01',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 44,
@@ -411,7 +411,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729404/chuckhutchins/movies/howls-moving-castle_w48ytk.jpg',
     end: '2023-01-02',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 45,
@@ -420,7 +420,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/ponyo_pjaxks.jpg',
     end: '2023-01-02',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 46,
@@ -429,7 +429,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729407/chuckhutchins/movies/the-tale-of-princess-kaguya_nfsdkx.jpg',
     end: '2023-01-03',
     rating: 'Dislike',
-    finish: 1,
+    finish: true,
   },
   {
     index: 47,
@@ -438,7 +438,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729407/chuckhutchins/movies/when-marnie-was-there_daxsw7.jpg',
     end: '2023-01-06',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 48,
@@ -447,7 +447,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729404/chuckhutchins/movies/glass-onion_te7fvu.jpg',
     end: '2023-01-07',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 49,
@@ -456,7 +456,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729407/chuckhutchins/movies/the-menu_mg5fiq.jpg',
     end: '2023-01-13',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 50,
@@ -465,7 +465,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729405/chuckhutchins/movies/emily-the-criminal_ryxtt3.jpg',
     end: '2023-02-22',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 51,
@@ -474,7 +474,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729405/chuckhutchins/movies/inception_luxecl.jpg',
     end: '2023-04-04',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 52,
@@ -483,7 +483,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729407/chuckhutchins/movies/the-last-kingdom-seven-kings-must-die_dvfntj.jpg',
     end: '2023-04-24',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 53,
@@ -492,7 +492,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/stutz_ec9i2d.jpg',
     end: '2023-05-01',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 54,
@@ -501,7 +501,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/nimona_mjuduz.jpg',
     end: '2023-07-17',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 55,
@@ -510,7 +510,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/office-space_dbx7mq.jpg',
     end: '2023-07-23',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 56,
@@ -519,7 +519,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/beanie-bubble_jwrpyq.jpg',
     end: '2023-07-30',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 57,
@@ -528,7 +528,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/tetris_bnbzyb.jpg',
     end: '2023-07-31',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 58,
@@ -537,7 +537,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/glitch-rise-fall-hq-trivia_moitva.jpg',
     end: '2023-08-01',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 59,
@@ -546,7 +546,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/the-big-lebowski_dn8hre.jpg',
     end: '2023-10-29',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 60,
@@ -555,7 +555,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/memento_etu6pm.jpg',
     end: '2023-10-29',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 61,
@@ -564,7 +564,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/scott-pilgrim-vs-the-world_bi0yqy.jpg',
     end: '2023-12-03',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 62,
@@ -573,7 +573,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/no-hard-feelings_mj2ipb.jpg',
     end: '2023-12-08',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 63,
@@ -582,7 +582,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/between-two-ferns-the-movie_xvcj08.jpg',
     end: '2023-12-08',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 64,
@@ -591,7 +591,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/barbie_wpqwiy.jpg',
     end: '2023-12-15',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 65,
@@ -600,7 +600,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/monty-python-and-the-holy-grail_a4zr9o.jpg',
     end: '2023-12-30',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 66,
@@ -609,7 +609,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/the-princess-bride_xnksxg.jpg',
     end: '2023-12-31',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 67,
@@ -618,7 +618,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/blazing-saddles_jkdnpu.jpg',
     end: '2023-12-31',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 68,
@@ -627,7 +627,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/dune_qqi0ui.jpg',
     end: '2024-01-02',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 69,
@@ -636,7 +636,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/my-cousin-vinny_onfwya.jpg',
     end: '2024-01-05',
     rating: 'Like',
-    finish: 1,
+    finish: true,
   },
   {
     index: 70,
@@ -645,7 +645,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/pulp-fiction_eqprjz.jpg',
     end: '2024-01-06',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 71,
@@ -654,7 +654,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/reservoir-dogs_pap1jh.jpg',
     end: '2024-01-07',
     rating: 'Dislike',
-    finish: 1,
+    finish: true,
   },
   {
     index: 72,
@@ -663,7 +663,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/the-godfather_tjic3m.jpg',
     end: '2024-01-13',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 73,
@@ -672,7 +672,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/the-godfather-part-two_grjjw5.jpg',
     end: '2024-01-14',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 74,
@@ -681,7 +681,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/self-reliance_yrqq1y.jpg',
     end: '2024-01-14',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 75,
@@ -690,7 +690,7 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/they-came-together_zb0qng.jpg',
     end: '2024-01-18',
     rating: '',
-    finish: 1,
+    finish: true,
   },
   {
     index: 76,
@@ -699,6 +699,6 @@ export const movieList = [
     image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/2001-a-space-odyssey_livnyi.jpg',
     end: '2024-01-20',
     rating: '',
-    finish: 1,
+    finish: true,
   },
 ];
