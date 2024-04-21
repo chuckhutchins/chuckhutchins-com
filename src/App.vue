@@ -6,17 +6,9 @@
   </div>
 </template>
 
-<script>
+<script setup lang="ts">
 import TheFooter from '@/components/common/TheFooter.vue';
 import TheHeader from '@/components/common/TheHeader.vue';
-
-export default {
-  name: 'App',
-  components: {
-    TheFooter,
-    TheHeader,
-  },
-};
 </script>
 
 <style scoped lang="scss">
