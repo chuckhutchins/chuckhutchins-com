@@ -1,9 +1,9 @@
 import { defineStore } from 'pinia';
 import ApiService from '@/services/Api.js';
-import type { CoffeeItem } from '@/types';
+import type { Coffee } from '@/types';
 
 type StateShape = {
-  coffeeList: CoffeeItem[];
+  coffeeList: Coffee[];
 };
 
 export const useCoffeeStore = defineStore('coffee', {

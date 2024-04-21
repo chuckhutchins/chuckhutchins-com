@@ -6,9 +6,9 @@
 </template>
 
 <script setup lang="ts">
-import type { CoffeeItem } from '@/types';
+import type { Coffee } from '@/types';
 const props = defineProps<{
-  coffee: CoffeeItem
+  coffee: Coffee
 }>();
 </script>
 

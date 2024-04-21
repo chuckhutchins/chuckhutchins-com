@@ -10,8 +10,8 @@
 </template>
 
 <script setup lang="ts">
-import type { WishlistItem } from '@/types';
-const props = defineProps<WishlistItem>();
+import type { Wishlist } from '@/types';
+const props = defineProps<Wishlist>();
 </script>
 
 <style scoped lang="scss">
