@@ -1,20 +1,15 @@
 <template>
-  <li :class="{'favorite': coffee.favorite}">
-    <h2>{{ coffee.name }}</h2>
-    <p>{{ coffee.roaster }}</p>
+  <li :class="{'favorite': props.coffee.favorite}">
+    <h2>{{ props.coffee.name }}</h2>
+    <p>{{ props.coffee.roaster }}</p>
   </li>
 </template>
 
-<script>
-export default {
-  name: 'CoffeeItem',
-  props: {
-    coffee: {
-      required: true,
-      type: Object,
-    },
-  },
-};
+<script setup lang="ts">
+import type { CoffeeItem } from '@/types';
+const props = defineProps<{
+  coffee: CoffeeItem
+}>();
 </script>
 
 <style scoped lang="scss">

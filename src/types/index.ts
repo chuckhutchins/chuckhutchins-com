@@ -3,6 +3,7 @@ export type CoffeeItem = {
   name: string;
   roaster: string;
   rating: number;
+  favorite?: boolean;
 };
 
 export type CoffeeRating = 'all' | '1' | '2' | '3' | '4' | '5';

@@ -94,8 +94,8 @@
     <div class="coffee-wrapper">
       <ul class="coffee-list">
         <CoffeeItem
-          v-for="(coffee, index) in filteredCoffeeList"
-          :key="index"
+          v-for="coffee in filteredCoffeeList"
+          :key="coffee.index"
           :coffee="coffee"
         />
       </ul>
@@ -193,7 +193,7 @@ const sortedCoffeeList = computed(() => {return []
         }
 
         svg {
-          width: 1rem;
+          inline-size: 1rem;
         }
       }
     }
