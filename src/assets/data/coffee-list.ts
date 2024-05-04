@@ -504,4 +504,10 @@ export const coffeeList = [
     roaster: 'Atlas Coffee Club',
     rating: 5,
   },
+  {
+    index: 85,
+    name: 'Uganda Sipi Falls',
+    roaster: 'Atlas Coffee Club',
+    rating: 5,
+  },
 ];
