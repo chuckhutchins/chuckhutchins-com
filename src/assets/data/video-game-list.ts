@@ -999,4 +999,14 @@ export const videoGameList = [
     rating: '',
     finish: false,
   },
+  {
+    index: 100,
+    title: 'Soul Hackers 2',
+    platform: 'PS5',
+    image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/soul-hackers-2_feucsn.png',
+    start: '2024-04-27',
+    end: '',
+    rating: '',
+    finish: false,
+  },
 ];
