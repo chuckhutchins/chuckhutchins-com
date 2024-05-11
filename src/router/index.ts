@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router';
-import { useCoffeeStore } from '@/stores/CoffeeStore.ts';
+import { useCoffeeStore } from '@/stores/CoffeeStore';
 import { useMediaStore } from '@/stores/MediaStore';
 import ResumeView from '@/views/ResumeView.vue';
 

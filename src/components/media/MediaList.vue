@@ -45,10 +45,10 @@ const finishedList = computed(() => {
 });
 const hasFinished = computed(() => finishedList.value.length > 0);
 
-const showYearCard = index => {
+const showYearCard = (index: number) => {
   return (index === 0) || formatDate(finishedList.value[index - 1].end) !== formatDate(finishedList.value[index].end);
 };
-const formatDate = date => {
+const formatDate = (date: string) => {
   if (date === '0') {
     return 'Before the existence of written records';
   }

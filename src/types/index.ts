@@ -19,7 +19,7 @@ export type Media = {
   start?: string;
   end: string;
   rating: string;
-  finish: number;
+  finish: boolean;
 };
 
 export type Wishlist = {
