@@ -109,7 +109,7 @@ import { useCoffeeStore } from '@/stores/CoffeeStore';
 import CoffeeItem from '@/components/coffee/CoffeeItem.vue';
 import IconStarSimple from '@/components/icons/IconStarSimple.vue';
 import TheHr from '@/components/common/TheHr.vue';
-import type { CoffeeRating } from '@/types';
+import type { Coffee, CoffeeRating } from '@/types';
 
 const coffeeStore = useCoffeeStore();
 
