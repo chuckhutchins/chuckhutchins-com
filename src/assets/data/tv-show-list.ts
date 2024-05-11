@@ -2822,8 +2822,8 @@ export const tvShowList = [
     platform: 'Hulu',
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/shogun_rctmzp.jpg',
     start: '2024-04-26',
-    end: '',
-    rating: '',
-    finish: false,
+    end: '2024-05-05',
+    rating: 'Like',
+    finish: true,
   },
 ];

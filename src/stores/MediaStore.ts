@@ -1,5 +1,5 @@
 import { defineStore } from 'pinia';
-import ApiService from '@/services/Api.ts';
+import ApiService from '@/services/Api';
 import type { Media } from '@/types';
 
 type StateShape = {

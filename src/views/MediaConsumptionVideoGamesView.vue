@@ -12,7 +12,7 @@
 </template>
 
 <script setup lang="ts">
-import { useMediaStore } from '@/stores/MediaStore.ts';
+import { useMediaStore } from '@/stores/MediaStore';
 import TheHr from '@/components/common/TheHr.vue';
 import MediaList from '@/components/media/MediaList.vue';
 </script>
