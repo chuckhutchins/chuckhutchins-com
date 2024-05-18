@@ -728,4 +728,22 @@ export const movieList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 80,
+    title: 'Paper Towns',
+    platform: 'Max',
+    image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/paper-towns_mfonpc.jpg',
+    end: '2024-05-11',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 81,
+    title: 'The Perks of Being A Wallflower',
+    platform: 'Apple TV',
+    image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/the-perks-of-being-a-wallflower_eyscb1.jpg',
+    end: '2024-05-12',
+    rating: '',
+    finish: true,
+  },
 ];

@@ -989,4 +989,15 @@ export const bookList = [
     rating: '',
     finish: false,
   },
+  {
+    index: 91,
+    title: '1984: The Graphic Novel',
+    author: 'Fido Nesti, George Orwell',
+    medium: 'Kindle',
+    image: 'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/1984-the-graphic-novel_yy1ahw.jpg',
+    start: '2024-05-17',
+    end: '',
+    rating: '',
+    finish: false,
+  },
 ];
