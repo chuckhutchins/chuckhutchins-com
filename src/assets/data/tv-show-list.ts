@@ -2817,7 +2817,7 @@ export const tvShowList = [
   },
   {
     index: 257,
-    title: 'Shoōgun',
+    title: 'Shōgun',
     season: '1',
     platform: 'Hulu',
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/shogun_rctmzp.jpg',
@@ -2825,5 +2825,16 @@ export const tvShowList = [
     end: '2024-05-05',
     rating: 'Like',
     finish: true,
+  },
+  {
+    index: 258,
+    title: 'Welcome to Wrexham',
+    season: '3',
+    platform: 'Hulu',
+    image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/welcome-to-wrexham_raqxn6.jpg',
+    start: '2024-05-28',
+    end: '',
+    rating: '',
+    finish: false,
   },
 ];
