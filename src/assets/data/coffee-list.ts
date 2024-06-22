@@ -510,4 +510,10 @@ export const coffeeList = [
     roaster: 'Atlas Coffee Club',
     rating: 5,
   },
+  {
+    index: 86,
+    name: 'Columbia Huila',
+    roaster: 'Atlas Coffee Club',
+    rating: 5,
+  },
 ];
