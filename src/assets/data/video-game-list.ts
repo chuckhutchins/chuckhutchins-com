@@ -1019,4 +1019,14 @@ export const videoGameList = [
     rating: '',
     finish: false,
   },
+  {
+    index: 102,
+    title: 'Duck Detective: The Secret Salami',
+    platform: 'Switch',
+    image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/duck-detective_jccjfz.png',
+    start: '2024-06-18',
+    end: '2024-06-18',
+    rating: '',
+    finish: true,
+  },
 ];
