@@ -782,4 +782,22 @@ export const movieList = [
     rating: 'Dislike',
     finish: true,
   },
+  {
+    index: 86,
+    title: 'Pissing Out Cancer',
+    platform: 'Dropout',
+    image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/pissing-out-cancer_qeklqt.jpg',
+    end: '2024-07-01',
+    rating: 'Like',
+    finish: true,
+  },
+  {
+    index: 87,
+    title: 'Everything Everywhere All at Once',
+    platform: 'Netflix',
+    image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/everything-everywhere-all-at-once_zkt0q5.jpg',
+    end: '2024-07-03',
+    rating: '',
+    finish: true,
+  },
 ];
