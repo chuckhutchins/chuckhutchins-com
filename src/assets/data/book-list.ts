@@ -1000,4 +1000,15 @@ export const bookList = [
     rating: '',
     finish: false,
   },
+  {
+    index: 92,
+    title: 'Quiet: The Power of Introverts in a World That Can\'t Stop Talking',
+    author: 'Susan Cain',
+    medium: 'Audiobook',
+    image: 'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/quiet_xmy5et.jpg',
+    start: '2024-06-30',
+    end: '2024-07-02',
+    rating: '',
+    finish: true,
+  },
 ];
