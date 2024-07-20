@@ -1029,4 +1029,14 @@ export const videoGameList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 103,
+    title: 'Coral Island',
+    platform: 'PS5',
+    image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/coral-island_gech0e.png',
+    start: '2024-07-14',
+    end: '',
+    rating: 'Like',
+    finish: false,
+  },
 ];

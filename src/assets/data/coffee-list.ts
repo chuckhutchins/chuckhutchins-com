@@ -516,4 +516,10 @@ export const coffeeList = [
     roaster: 'Atlas Coffee Club',
     rating: 5,
   },
+  {
+    index: 87,
+    name: 'Burundi Nkanda',
+    roaster: 'Atlas Coffee Club',
+    rating: 4,
+  },
 ];
