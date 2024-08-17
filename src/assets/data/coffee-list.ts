@@ -522,4 +522,10 @@ export const coffeeList = [
     roaster: 'Atlas Coffee Club',
     rating: 4,
   },
+  {
+    index: 88,
+    name: 'Pink Bourbon',
+    roaster: 'Kohi Coffee',
+    rating: 3,
+  },
 ];
