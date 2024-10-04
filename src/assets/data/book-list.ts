@@ -1011,4 +1011,15 @@ export const bookList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 93,
+    title: 'Slow Productivity',
+    author: 'Cal Newport',
+    medium: 'Kindle',
+    image: 'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/slow-productivity_gmy1rq.jpg',
+    start: '2024-08-21',
+    end: '',
+    rating: '',
+    finish: false,
+  },
 ];
