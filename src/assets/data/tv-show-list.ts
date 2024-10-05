@@ -3075,8 +3075,8 @@ export const tvShowList = [
     platform: 'Dropout',
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/thousandaires_p4l9ki.jpg',
     start: '2024-08-27',
-    end: '',
+    end: '2024-09-02',
     rating: '',
-    finish: false,
+    finish: true,
   },
 ];

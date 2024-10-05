@@ -985,9 +985,9 @@ export const bookList = [
     medium: 'Kindle',
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/bookshops-and-bonedust_xidyik.jpg',
     start: '2024-05-02',
-    end: '',
+    end: '2024-09-23',
     rating: '',
-    finish: false,
+    finish: true,
   },
   {
     index: 91,
@@ -1018,8 +1018,8 @@ export const bookList = [
     medium: 'Kindle',
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/slow-productivity_gmy1rq.jpg',
     start: '2024-08-21',
-    end: '',
+    end: '2024-09-15',
     rating: '',
-    finish: false,
+    finish: true,
   },
 ];
