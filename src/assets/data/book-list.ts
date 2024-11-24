@@ -1022,4 +1022,15 @@ export const bookList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 94,
+    title: 'The Bright Sword',
+    author: 'Lev Grossman',
+    medium: 'Kindle',
+    image: 'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/the-bright-sword_mkesp4.jpg',
+    start: '2024-10-22',
+    end: '',
+    rating: '',
+    finish: false,
+  },
 ];

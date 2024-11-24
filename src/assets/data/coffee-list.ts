@@ -528,4 +528,16 @@ export const coffeeList = [
     roaster: 'Kohi Coffee',
     rating: 3,
   },
+  {
+    index: 89,
+    name: 'Guatemala Fraijanes',
+    roaster: 'Atlas Coffee Club',
+    rating: 4,
+  },
+  {
+    index: 90,
+    name: 'Into the Void',
+    roaster: 'Black Ichor',
+    rating: 5,
+  },
 ];
