@@ -1033,4 +1033,15 @@ export const bookList = [
     rating: '',
     finish: false,
   },
+  {
+    index: 95,
+    title: 'Dandadan Vol 1',
+    author: 'Yukinobu Tatsu',
+    medium: 'MangaPlus',
+    image: 'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/dandadan-vol1_ottmgy.jpg',
+    start: '2024-12-21',
+    end: '2024-12-21',
+    rating: '',
+    finish: true,
+  },
 ];

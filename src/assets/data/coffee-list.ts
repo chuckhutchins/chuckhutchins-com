@@ -540,4 +540,10 @@ export const coffeeList = [
     roaster: 'Black Ichor',
     rating: 5,
   },
+  {
+    index: 91,
+    name: 'Omen',
+    roaster: 'Proxy Coffee Co',
+    rating: 4,
+  },
 ];
