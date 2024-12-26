@@ -78,11 +78,6 @@ const router = createRouter({
       name: 'WishlistPage',
       component: () => import('@/views/WishlistView.vue'),
     },
-    {
-      path: '/now',
-      name: 'NowPage',
-      component: () => import('@/views/NowView.vue'),
-    },
   ],
 });
 
