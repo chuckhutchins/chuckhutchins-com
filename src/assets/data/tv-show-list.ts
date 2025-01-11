@@ -430,7 +430,7 @@ export const tvShowList = [
   },
   {
     index: 40,
-    title: 'What We do In The Shadows',
+    title: 'What We Do in the Shadows',
     season: '1',
     platform: 'Hulu',
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146673/chuckhutchins/tv-shows/what-we-do-in-the-shadows_xecn7a.jpg',
@@ -441,7 +441,7 @@ export const tvShowList = [
   },
   {
     index: 41,
-    title: 'What We Do In The Shadows',
+    title: 'What We Do in the Shadows',
     season: '2',
     platform: 'Hulu',
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146673/chuckhutchins/tv-shows/what-we-do-in-the-shadows_xecn7a.jpg',
@@ -1189,7 +1189,7 @@ export const tvShowList = [
   },
   {
     index: 109,
-    title: 'What We Do In The Shadows',
+    title: 'What We Do in the Shadows',
     season: '3',
     platform: 'Hulu',
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/what-we-do-in-the-shadows-3_v6323k.jpg',
@@ -1750,7 +1750,7 @@ export const tvShowList = [
   },
   {
     index: 160,
-    title: 'What We Do In The Shadows',
+    title: 'What We Do in the Shadows',
     season: '4',
     platform: 'Hulu',
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/what-we-do-in-the-shadows_y4jvmf.jpg',
@@ -2256,7 +2256,7 @@ export const tvShowList = [
   },
   {
     index: 206,
-    title: 'What We Do In The Shadows',
+    title: 'What We Do in the Shadows',
     season: '5',
     platform: 'Hulu',
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/what-we-do-in-the-shadows_y4jvmf.jpg',
@@ -3144,5 +3144,27 @@ export const tvShowList = [
     end: '2024-12-09',
     rating: '',
     finish: true,
+  },
+  {
+    index: 287,
+    title: 'What We Do in the Shadows',
+    season: '6',
+    platform: 'Hulu',
+    image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/what-we-do-in-the-shadows-6_oq6tpf.jpg',
+    start: '2024-12-28',
+    end: '',
+    rating: '',
+    finish: false,
+  },
+  {
+    index: 288,
+    title: 'Silo',
+    season: '2',
+    platform: 'Apple TV+',
+    image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/silo-2_s2tpaw.jpg',
+    start: '2025-01-06',
+    end: '',
+    rating: '',
+    finish: false,
   },
 ];
