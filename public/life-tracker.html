@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Flesh and Blood</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,900&amp;display=swap">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css">
+  <style>
+    /* setting up inheritances */
+    html {
+      font-size: 16px;
+    }
+
+    body {
+      background-color: #fff;
+      margin: 0;
+      font-family: "Lato", sans-serif;
+      font-size: 1rem;
+      line-height: 1.25;
+      color: #ccc;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .container {
+      position: relative;
+      box-sizing: border-box;
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: repeat(2, 1fr);
+      gap: 1.75rem;
+      width: 49.375rem;
+      height: 64rem;
+      padding: 0.25rem;
+      background-color: #fff;
+    }
+
+    .section {
+      display: grid;
+      background-color: #fff;
+      border: 1px solid #ccc;
+    }
+
+    /* grid areas */
+    .spacing {
+      height: 0.7rem;
+      grid-column: span 3;
+    }
+
+    /* text formatting */
+    .checkbox {
+      color: #ccc;
+      text-align: center;
+    }
+    .checkbox.left {
+      text-align: left;
+    }
+    .checkbox.right {
+      text-align: right;
+    }
+
+    .page {
+      display: grid;
+      gap: 0.5rem;
+      grid-template-columns: repeat(3, 1fr);
+      grid-template-rows: min-content auto;
+    }
+
+    .life-tracker {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: repeat(3, 1.5rem) auto;
+    }
+    .life-tracker .box {
+      padding: 0 0.25rem;
+      line-height: 1.375;
+      border: 1px solid #ccc;
+    }
+
+    @media print {
+      body {
+        color: #ccc;
+      }
+    }
+  </style>
+</head>
+<body>
+<div class="container life-tracking">
+  <div class="page">
+    <div class="spacing"></div>
+    <div class="section life-tracker">
+      <div id="my-hero" class="box"></div>
+      <div id="opponent-hero" class="box"></div>
+      <div id="result" class="box"></div>
+      <div id="opponent-name" class="box"></div>
+      <div id="my-life" class="box">
+        <div class="checkbox left"><i class="far fa-square"></i></div>
+      </div>
+      <div id="opponent-life" class="box">
+        <div class="checkbox right"><i class="far fa-square"></i></div>
+      </div>
+      <div class="box"></div>
+      <div class="box"></div>
+    </div>
+    <div class="section life-tracker">
+      <div id="my-hero" class="box"></div>
+      <div id="opponent-hero" class="box"></div>
+      <div id="result" class="box"></div>
+      <div id="opponent-name" class="box"></div>
+      <div id="my-life" class="box">
+        <div class="checkbox left"><i class="far fa-square"></i></div>
+      </div>
+      <div id="opponent-life" class="box">
+        <div class="checkbox right"><i class="far fa-square"></i></div>
+      </div>
+      <div class="box"></div>
+      <div class="box"></div>
+    </div>
+    <div class="section life-tracker">
+      <div id="my-hero" class="box"></div>
+      <div id="opponent-hero" class="box"></div>
+      <div id="result" class="box"></div>
+      <div id="opponent-name" class="box"></div>
+      <div id="my-life" class="box">
+        <div class="checkbox left"><i class="far fa-square"></i></div>
+      </div>
+      <div id="opponent-life" class="box">
+        <div class="checkbox right"><i class="far fa-square"></i></div>
+      </div>
+      <div class="box"></div>
+      <div class="box"></div>
+    </div>
+  </div>
+  <div class="page">
+    <div class="spacing"></div>
+    <div class="section life-tracker">
+      <div id="my-hero" class="box"></div>
+      <div id="opponent-hero" class="box"></div>
+      <div id="result" class="box"></div>
+      <div id="opponent-name" class="box"></div>
+      <div id="my-life" class="box">
+        <div class="checkbox left"><i class="far fa-square"></i></div>
+      </div>
+      <div id="opponent-life" class="box">
+        <div class="checkbox right"><i class="far fa-square"></i></div>
+      </div>
+      <div class="box"></div>
+      <div class="box"></div>
+    </div>
+    <div class="section life-tracker">
+      <div id="my-hero" class="box"></div>
+      <div id="opponent-hero" class="box"></div>
+      <div id="result" class="box"></div>
+      <div id="opponent-name" class="box"></div>
+      <div id="my-life" class="box">
+        <div class="checkbox left"><i class="far fa-square"></i></div>
+      </div>
+      <div id="opponent-life" class="box">
+        <div class="checkbox right"><i class="far fa-square"></i></div>
+      </div>
+      <div class="box"></div>
+      <div class="box"></div>
+    </div>
+    <div class="section life-tracker">
+      <div id="my-hero" class="box"></div>
+      <div id="opponent-hero" class="box"></div>
+      <div id="result" class="box"></div>
+      <div id="opponent-name" class="box"></div>
+      <div id="my-life" class="box">
+        <div class="checkbox left"><i class="far fa-square"></i></div>
+      </div>
+      <div id="opponent-life" class="box">
+        <div class="checkbox right"><i class="far fa-square"></i></div>
+      </div>
+      <div class="box"></div>
+      <div class="box"></div>
+    </div>
+  </div>
+  <div class="page">
+    <div class="spacing"></div>
+    <div class="section life-tracker">
+      <div id="my-hero" class="box"></div>
+      <div id="opponent-hero" class="box"></div>
+      <div id="result" class="box"></div>
+      <div id="opponent-name" class="box"></div>
+      <div id="my-life" class="box">
+        <div class="checkbox left"><i class="far fa-square"></i></div>
+      </div>
+      <div id="opponent-life" class="box">
+        <div class="checkbox right"><i class="far fa-square"></i></div>
+      </div>
+      <div class="box"></div>
+      <div class="box"></div>
+    </div>
+    <div class="section life-tracker">
+      <div id="my-hero" class="box"></div>
+      <div id="opponent-hero" class="box"></div>
+      <div id="result" class="box"></div>
+      <div id="opponent-name" class="box"></div>
+      <div id="my-life" class="box">
+        <div class="checkbox left"><i class="far fa-square"></i></div>
+      </div>
+      <div id="opponent-life" class="box">
+        <div class="checkbox right"><i class="far fa-square"></i></div>
+      </div>
+      <div class="box"></div>
+      <div class="box"></div>
+    </div>
+    <div class="section life-tracker">
+      <div id="my-hero" class="box"></div>
+      <div id="opponent-hero" class="box"></div>
+      <div id="result" class="box"></div>
+      <div id="opponent-name" class="box"></div>
+      <div id="my-life" class="box">
+        <div class="checkbox left"><i class="far fa-square"></i></div>
+      </div>
+      <div id="opponent-life" class="box">
+        <div class="checkbox right"><i class="far fa-square"></i></div>
+      </div>
+      <div class="box"></div>
+      <div class="box"></div>
+    </div>
+  </div>
+  <div class="page">
+    <div class="spacing"></div>
+    <div class="section life-tracker">
+      <div id="my-hero" class="box"></div>
+      <div id="opponent-hero" class="box"></div>
+      <div id="result" class="box"></div>
+      <div id="opponent-name" class="box"></div>
+      <div id="my-life" class="box">
+        <div class="checkbox left"><i class="far fa-square"></i></div>
+      </div>
+      <div id="opponent-life" class="box">
+        <div class="checkbox right"><i class="far fa-square"></i></div>
+      </div>
+      <div class="box"></div>
+      <div class="box"></div>
+    </div>
+    <div class="section life-tracker">
+      <div id="my-hero" class="box"></div>
+      <div id="opponent-hero" class="box"></div>
+      <div id="result" class="box"></div>
+      <div id="opponent-name" class="box"></div>
+      <div id="my-life" class="box">
+        <div class="checkbox left"><i class="far fa-square"></i></div>
+      </div>
+      <div id="opponent-life" class="box">
+        <div class="checkbox right"><i class="far fa-square"></i></div>
+      </div>
+      <div class="box"></div>
+      <div class="box"></div>
+    </div>
+    <div class="section life-tracker">
+      <div id="my-hero" class="box"></div>
+      <div id="opponent-hero" class="box"></div>
+      <div id="result" class="box"></div>
+      <div id="opponent-name" class="box"></div>
+      <div id="my-life" class="box">
+        <div class="checkbox left"><i class="far fa-square"></i></div>
+      </div>
+      <div id="opponent-life" class="box">
+        <div class="checkbox right"><i class="far fa-square"></i></div>
+      </div>
+      <div class="box"></div>
+      <div class="box"></div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
