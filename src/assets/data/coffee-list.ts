@@ -546,4 +546,10 @@ export const coffeeList = [
     roaster: 'Proxy Coffee Co',
     rating: 4,
   },
+  {
+    index: 92,
+    name: 'Marvin Bonilla',
+    roaster: 'Proxy Coffee Co',
+    rating: 5,
+  },
 ];
