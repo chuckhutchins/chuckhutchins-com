@@ -41,7 +41,15 @@ const hasInProgress = computed(() => inProgressList.value.length > 0);
 const finishedList = computed(() => {
   const list = [...props.mediaList];
   const finished = list.filter(item => item.finish || item.end !== '');
-  return finished.sort((a, b) => (a.end > b.end) ? -1 : 1);
+  return finished.sort((a, b) => {
+    if (a.end > b.end) {
+      return -1;
+    }
+    if (a.end < b.end) {
+      return 1;
+    }
+    return b.index - a.index;
+  });
 });
 const hasFinished = computed(() => finishedList.value.length > 0);
 
