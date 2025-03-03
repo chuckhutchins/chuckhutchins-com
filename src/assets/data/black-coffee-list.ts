@@ -13,4 +13,13 @@ export const coffeeList = [
     region: 'Carrazu',
     country: 'Costa Rica',
   },
+  {
+    index: 3,
+    name: 'Umbra',
+    roaster: 'Rowster Coffee',
+    rating: 5,
+    favorite: true,
+    region: 'South America',
+    country: '',
+  },
 ];
