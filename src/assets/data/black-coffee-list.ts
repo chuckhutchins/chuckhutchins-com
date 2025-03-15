@@ -22,4 +22,13 @@ export const coffeeList = [
     region: 'South America',
     country: '',
   },
+  {
+    index: 3,
+    name: 'Mountain Medley',
+    roaster: 'Numa Coffee Co',
+    rating: 3,
+    favorite: true,
+    region: 'Sumatra',
+    country: 'Indonesia',
+  },
 ];
