@@ -23,12 +23,21 @@ export const coffeeList = [
     country: '',
   },
   {
-    index: 3,
+    index: 4,
     name: 'Mountain Medley',
     roaster: 'Numa Coffee Co',
     rating: 3,
-    favorite: true,
+    favorite: false,
     region: 'Sumatra',
     country: 'Indonesia',
+  },
+  {
+    index: 5,
+    name: 'Cloudbreak Espresso',
+    roaster: 'Morningsong Coffee Roasters',
+    rating: 3,
+    favorite: false,
+    region: '',
+    country: '',
   },
 ];

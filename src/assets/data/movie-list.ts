@@ -854,4 +854,13 @@ export const movieList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 94,
+    title: 'The Gorge',
+    platform: 'Apple TV+',
+    image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/the-gorge_npfinj.jpg',
+    end: '2025-03-22',
+    rating: '',
+    finish: true,
+  },
 ];
