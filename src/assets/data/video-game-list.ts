@@ -1109,6 +1109,16 @@ export const videoGameList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 111,
+    title: 'Blue Prince',
+    platform: 'PS5',
+    image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/blue-prince_bp8pz1.png',
+    start: '2025-04-10',
+    end: '',
+    rating: '',
+    finish: false,
+  },
   // {
   //   index: 107,
   //   title: 'Persona 3 Reload: Episode Aigis',
