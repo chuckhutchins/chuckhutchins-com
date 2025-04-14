@@ -40,4 +40,13 @@ export const coffeeList = [
     region: '',
     country: '',
   },
+  {
+    index: 6,
+    name: 'Fifty-Five Signature Blend',
+    roaster: 'Circle House Coffee',
+    rating: 4,
+    favorite: false,
+    region: '',
+    country: '',
+  },
 ];

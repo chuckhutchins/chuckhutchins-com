@@ -1121,4 +1121,15 @@ export const bookList = [
     rating: '',
     finish: false,
   },
+  {
+    index: 103,
+    title: 'Why Can\'t I Just Enjoy Things?',
+    author: 'Pierre Novellie',
+    medium: 'Kindle',
+    image: 'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/why-cant-i-just-enjoy-things_rfu0u8.jpg',
+    start: '2025-04-01',
+    end: '',
+    rating: '',
+    finish: false,
+  },
 ];
