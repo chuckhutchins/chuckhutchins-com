@@ -1,6 +1,6 @@
 {
   "name": "chuckhutchins-com",
-  "version": "0.11.35",
+  "version": "0.11.36",
   "private": true,
   "type": "module",
   "scripts": {
@@ -13,26 +13,26 @@
   },
   "dependencies": {
     "dayjs": "^1.11.13",
-    "pinia": "^3.0.1",
-    "sass": "^1.85.1",
+    "pinia": "^3.0.2",
+    "sass": "^1.87.0",
     "vue": "^3.5.13",
-    "vue-router": "^4.5.0"
+    "vue-router": "^4.5.1"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.11.0",
     "@stylistic/eslint-plugin": "^4.2.0",
     "@tsconfig/node18": "^18.2.4",
-    "@types/node": "^22.13.10",
-    "@typescript-eslint/eslint-plugin": "^8.26.1",
-    "@typescript-eslint/parser": "^8.26.1",
-    "@vitejs/plugin-vue": "^5.2.1",
+    "@types/node": "^22.15.3",
+    "@typescript-eslint/eslint-plugin": "^8.31.1",
+    "@typescript-eslint/parser": "^8.31.1",
+    "@vitejs/plugin-vue": "^5.2.3",
     "@vue/eslint-config-prettier": "^10.2.0",
     "@vue/eslint-config-typescript": "^14.5.0",
     "@vue/tsconfig": "^0.7.0",
-    "eslint": "^9.22.0",
-    "eslint-plugin-vue": "^10.0.0",
-    "typescript": "^5.8.2",
-    "vite": "^6.2.2",
-    "vue-tsc": "^2.2.8"
+    "eslint": "^9.26.0",
+    "eslint-plugin-vue": "^10.1.0",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.4",
+    "vue-tsc": "^2.2.10"
   }
 }

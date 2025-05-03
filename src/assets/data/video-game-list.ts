@@ -1115,9 +1115,9 @@ export const videoGameList = [
     platform: 'PS5',
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/blue-prince_bp8pz1.png',
     start: '2025-04-10',
-    end: '',
-    rating: '',
-    finish: false,
+    end: '2025-04-14',
+    rating: 'Like',
+    finish: true,
   },
   // {
   //   index: 107,
