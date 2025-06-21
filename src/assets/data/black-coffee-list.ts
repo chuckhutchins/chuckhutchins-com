@@ -49,4 +49,13 @@ export const coffeeList = [
     region: '',
     country: '',
   },
+  {
+    index: 6,
+    name: 'Forest Bakery',
+    roaster: 'Kohi Coffee',
+    rating: 4,
+    favorite: false,
+    region: '',
+    country: '',
+  },
 ];
