@@ -1139,6 +1139,16 @@ export const videoGameList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 114,
+    title: 'Duck Detective: The Ghost of Glamping',
+    platform: 'Switch 2',
+    image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/duck-detective-ghost-of-glamping_uptdw4.png',
+    start: '2025-07-12',
+    end: '2025-07-12',
+    rating: '',
+    finish: true,
+  },
   // {
   //   index: 107,
   //   title: 'Persona 3 Reload: Episode Aigis',
