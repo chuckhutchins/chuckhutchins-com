@@ -1149,6 +1149,16 @@ export const videoGameList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 115,
+    title: 'Nurikabe World',
+    platform: 'Steam',
+    image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/nurikabe-world_xben6y.png',
+    start: '2025-07-23',
+    end: '',
+    rating: '',
+    finish: false,
+  },
   // {
   //   index: 107,
   //   title: 'Persona 3 Reload: Episode Aigis',
