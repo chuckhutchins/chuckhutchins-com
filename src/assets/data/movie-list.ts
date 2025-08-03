@@ -863,4 +863,13 @@ export const movieList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 95,
+    title: 'KPop Demon Hunters',
+    platform: 'Netflix',
+    image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/kpop-demon-hunters_nswwrz.jpg',
+    end: '2025-07-26',
+    rating: 'Like',
+    finish: true,
+  },
 ];
