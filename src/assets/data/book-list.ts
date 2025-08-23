@@ -1029,9 +1029,9 @@ export const bookList = [
     medium: 'Kindle',
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/the-bright-sword_mkesp4.jpg',
     start: '2024-10-22',
-    end: '',
+    end: '2025-08-20',
     rating: '',
-    finish: false,
+    finish: true,
   },
   {
     index: 95,
@@ -1219,5 +1219,16 @@ export const bookList = [
     end: '2025-08-01',
     rating: '',
     finish: true,
+  },
+  {
+    index: 112,
+    title: 'The Power of Habit',
+    author: 'Charles Duhigg',
+    medium: 'Kindle',
+    image: 'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/the-power-of-habit_u50cnc.jpg',
+    start: '2025-08-22',
+    end: '',
+    rating: '',
+    finish: false,
   },
 ];
