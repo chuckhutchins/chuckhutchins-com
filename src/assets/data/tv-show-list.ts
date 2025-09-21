@@ -3295,9 +3295,9 @@ export const tvShowList = [
     platform: 'Dropout',
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/game-changer_r54yjy.jpg',
     start: '2025-04-07',
-    end: '',
+    end: '', // TODO: fix date for this
     rating: 'Like',
-    finish: false,
+    finish: true,
   },
   {
     index: 301,
@@ -3306,9 +3306,9 @@ export const tvShowList = [
     platform: 'Dropout',
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/parlor_room_rfanvn.jpg',
     start: '2025-04-19',
-    end: '',
-    rating: '',
-    finish: false,
+    end: '', // TODO: fix date for this
+    rating: '', // TODO: idk if i marked this as like or not
+    finish: true,
   },
   {
     index: 302,
@@ -3386,5 +3386,27 @@ export const tvShowList = [
     end: '2025-08-17',
     rating: '',
     finish: true,
+  },
+  {
+    index: 309,
+    title: 'Wednesday',
+    season: '2',
+    platform: 'Netflix',
+    image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/wednesday-2_wmzorm.jpg',
+    start: '2025-08-23',
+    end: '',
+    rating: '',
+    finish: false,
+  },
+  {
+    index: 310,
+    title: 'Crowd Control',
+    season: '1',
+    platform: 'Dropout',
+    image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/crowd-control_dvfoeo.jpg',
+    start: '2025-09-08',
+    end: '',
+    rating: '',
+    finish: false,
   },
 ];
