@@ -3416,9 +3416,9 @@ export const tvShowList = [
     platform: 'Netflix',
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/the-great-british-baking-show_tpgtth.jpg',
     start: '2025-09-26',
-    end: '',
+    end: '2025-11-07',
     rating: '',
-    finish: false,
+    finish: true,
   },
   {
     index: 312,
