@@ -872,4 +872,13 @@ export const movieList = [
     rating: 'Like',
     finish: true,
   },
+  {
+    index: 96,
+    title: 'Cunk on Life',
+    platform: 'Netflix',
+    image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/cunk-on-life_axl03h.jpg',
+    end: '2025-11-17',
+    rating: 'Like',
+    finish: true,
+  },
 ];
