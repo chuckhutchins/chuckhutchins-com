@@ -1165,9 +1165,9 @@ export const videoGameList = [
     platform: 'Switch 2',
     image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/sos-grand-bazaar_nbj5du.png',
     start: '2025-08-29',
-    end: '',
+    end: '2025-11-08',
     rating: 'Like',
-    finish: false,
+    finish: true,
   },
   // {
   //   index: 107,
