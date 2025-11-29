@@ -76,7 +76,7 @@ const router = createRouter({
     {
       path: '/wishlist',
       name: 'WishlistPage',
-      component: () => import('@/views/WishlistView.vue'),
+      component: () => import('@/views/LofiWishlistView.vue'),
     },
   ],
 });
