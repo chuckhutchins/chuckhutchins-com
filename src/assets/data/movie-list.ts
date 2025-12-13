@@ -881,4 +881,13 @@ export const movieList = [
     rating: 'Like',
     finish: true,
   },
+  {
+    index: 97,
+    title: 'Wake Up Dead Man',
+    platform: 'Netflix',
+    image: 'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/wake-up-dead-man_ihy7ym.jpg',
+    end: '2025-12-12',
+    rating: 'Like',
+    finish: true,
+  },
 ];
