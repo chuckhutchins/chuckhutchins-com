@@ -1363,4 +1363,15 @@ export const bookList = [
     rating: '',
     finish: false,
   },
+  {
+    index: 125,
+    title: 'Encyclopedia of an Ordinary Life',
+    author: 'Amy Krouse Rosenthal',
+    medium: 'Kindle',
+    image: 'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/encyclopedia-of-an-ordinary-life_ibenfe.jpg',
+    start: '2025-12-19',
+    end: '',
+    rating: '',
+    finish: false,
+  },
 ];
