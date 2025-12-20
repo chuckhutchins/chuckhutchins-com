@@ -3464,4 +3464,15 @@ export const tvShowList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 316,
+    title: 'The Devil\'s Plan',
+    season: '1',
+    platform: 'Netflix',
+    image: 'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/the-devils-plan-1_tz6ygk.jpg',
+    start: '2025-12-14',
+    end: '2025-12-19',
+    rating: '',
+    finish: true,
+  },
 ];
