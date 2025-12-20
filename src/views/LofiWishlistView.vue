@@ -8,10 +8,6 @@
     <TheHr />
     <div>
       <ul class="list">
-        <li>Pastry Scraper/Chopper/Bench Knife <a href="https://www.oxo.com/multi-purpose-scraper-and-chopper.html" target="_blank">OXO</a>, <a href="https://shop.kingarthurbaking.com/items/bench-knife" target="_blank">King Arthur</a></li>
-        <li>Dough Blender <a href="https://www.oxo.com/dough-blender-with-blades.html" target="_blank">OXO</a></li>
-        <li>Tongs w/ Silicone Heads (NOT the plastic/nylon) <a href="https://www.oxo.com/12-in-tongs-with-silicone-heads.html" target="_blank">OXO</a></li>
-        <li>Vegetable Brush (I never feel like I'm cleaning potatoes or carrots enough) <a href="https://www.oxo.com/vegetable-brush.html" target="_blank">OXO</a></li>
         <li>Pie Crust Bag <a href="https://shop.kingarthurbaking.com/items/pie-crust-bag" target="_blank">King Arthur</a></li>
         <li>Spice Measuring Spoons <a href="https://shop.kingarthurbaking.com/items/measuring-spice-spoons" target="_blank">King Arthur</a></li>
         <li>Pie carrier. Something sturdy to protect a pie while it is being transported somewhere</li>
@@ -25,6 +21,7 @@
     <div>
       <h2>Changelog</h2>
       <ul class="list">
+        <li>2025-12-20 &ndash; Removed items received for birthday. [Pastry Scraper/Chopper/Bench Knife, Dough Blender, Tongs w/ Silicone Heads, Vegetable Brush]</li>
         <li>2025-11-29 &ndash; Updated wishlist to not require images. It's just a list now y'all. Simplified copy above the list.</li>
         <li>2024-04-21 &ndash; Updated wishlist code behind the scenes.</li>
         <li>2024-03-02 &ndash; Added T-Bone to the examples of Delicious Meats. Removed Herman Miller Aeron Chair.</li>
