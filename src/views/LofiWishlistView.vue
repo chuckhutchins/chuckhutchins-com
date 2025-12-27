@@ -8,19 +8,14 @@
     <TheHr />
     <div>
       <ul class="list">
-        <li>Pie Crust Bag <a href="https://shop.kingarthurbaking.com/items/pie-crust-bag" target="_blank">King Arthur</a></li>
-        <li>Spice Measuring Spoons <a href="https://shop.kingarthurbaking.com/items/measuring-spice-spoons" target="_blank">King Arthur</a></li>
-        <li>Pie carrier. Something sturdy to protect a pie while it is being transported somewhere</li>
-        <li>Colander that spans over the sink</li>
-        <li>Hip pack thing in black <a href="https://www.patagonia.com/product/terravia-mini-hip-pack-1-liter/196924922792.html" target="_blank">Patagonia</a>, <a href="https://www.cotopaxi.com/products/allpa-x-1-5l-hip-pack?variant=40913800986685" target="_blank">Cotopaxi</a></li>
-        <li>Cool print (looks like about $15 shipping, please do not get a frame, I have a place to order them from so they can match my other stuff) <a href="https://nightjarillustration.bigcartel.com/product/nachtflug-print" target="_blank">Nightjar Illustration</a></li>
-        <li>Carhartt beanie (black) with the badge removed, but have stitching that says "ope." or "oof." or "ouch." or something</li>
+        <li>[PENDING] Carhartt beanie (black) with the badge removed, but have stitching that says "ope." or "oof." or "ouch." or something</li>
       </ul>
     </div>
     <TheHr />
     <div>
       <h2>Changelog</h2>
       <ul class="list">
+        <li>2025-12-27 &ndash; Removed items received for Christmas. [Pie Crust Bag, Spice Measuring Spoons, Pie Carrier, Colander that spans over the sink, Hip pack thing in black, Cool Evil Cat Print]</li>
         <li>2025-12-20 &ndash; Removed items received for birthday. [Pastry Scraper/Chopper/Bench Knife, Dough Blender, Tongs w/ Silicone Heads, Vegetable Brush]</li>
         <li>2025-11-29 &ndash; Updated wishlist to not require images. It's just a list now y'all. Simplified copy above the list.</li>
         <li>2024-04-21 &ndash; Updated wishlist code behind the scenes.</li>
