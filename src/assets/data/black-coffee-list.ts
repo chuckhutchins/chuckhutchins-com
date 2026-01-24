@@ -67,4 +67,22 @@ export const coffeeList = [
     region: '',
     country: '',
   },
+  {
+    index: 9,
+    name: 'Live Fast Sip Slow',
+    roaster: 'Honey Dirt Coffee',
+    rating: 5,
+    favorite: false,
+    region: 'Huehuetenango',
+    country: 'Guatemala',
+  },
+  {
+    index: 10,
+    name: 'Lumbermen\'s Blackjack',
+    roaster: 'Rustic Grounds Coffee',
+    rating: 4,
+    favorite: false,
+    region: '',
+    country: 'Papua New Guinea',
+  },
 ];
