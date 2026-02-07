@@ -13,11 +13,12 @@ import IconBooks from '@/components/icons/IconBooks.vue';
 import IconMovies from '@/components/icons/IconMovies.vue';
 import IconTVShows from '@/components/icons/IconTVShows.vue';
 import IconVideoGames from '@/components/icons/IconVideoGames.vue';
+import { removeSpace } from '@/utils/useFormat.js';
 
 const props = defineProps(['type']);
 
 const sanitizedType = computed(() => {
-  return props.type.replace(/\s/g, '');
+  return removeSpace(props.type);
 });
 
 const icons = {
