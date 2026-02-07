@@ -1,6 +1,6 @@
 <template>
-  <main class="consumption">
-    <MediaOpener>
+  <ConsumptionLayout>
+    <TheOpener>
       <template #header>
         Video Games
       </template>
@@ -8,20 +8,14 @@
       <RouterLink :to="{ name: 'MediaConsumptionPage' }">
         Back to Media Consumption
       </RouterLink>
-    </MediaOpener>
+    </TheOpener>
     <MediaList :mediaList="useMediaStore().videoGameList" />
-  </main>
+  </ConsumptionLayout>
 </template>
 
 <script setup>
 import { useMediaStore } from '@/stores/MediaStore';
+import ConsumptionLayout from '@/layouts/ConsumptionLayout.vue';
 import MediaList from '@/components/media/MediaList.vue';
-import MediaOpener from '@/components/media/MediaOpener.vue';
+import TheOpener from '@/components/common/TheOpener.vue';
 </script>
-
-<style scoped lang="scss">
-.consumption {
-  display: grid;
-  gap: 2rem;
-}
-</style>
