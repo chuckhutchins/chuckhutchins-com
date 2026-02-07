@@ -103,7 +103,7 @@
   </main>
 </template>
 
-<script setup lang="ts">
+<script setup>
 import { computed, ref } from 'vue';
 import { useCoffeeStore } from '@/stores/CoffeeStore';
 import CoffeeItem from '@/components/coffee/CoffeeItem.vue';
@@ -199,7 +199,6 @@ const sortedCoffeeList = computed(() => {
       }
     }
   }
-
 
 
   .coffee-list {

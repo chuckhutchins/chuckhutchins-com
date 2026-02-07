@@ -16,7 +16,7 @@
   </main>
 </template>
 
-<script setup lang="ts">
+<script setup>
 import MediaTypeItem from '@/components/media/MediaTypeItem.vue';
 import TheHr from '@/components/common/TheHr.vue';
 </script>

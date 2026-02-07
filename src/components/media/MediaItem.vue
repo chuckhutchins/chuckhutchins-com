@@ -25,7 +25,7 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<script setup>
 import { computed } from 'vue';
 import IconRatingDislike from '@/components/icons/IconRatingDislike.vue';
 import IconRatingGhost from '@/components/icons/IconRatingGhost.vue';

@@ -9,7 +9,7 @@
   </li>
 </template>
 
-<script setup lang="ts">
+<script setup>
 const props = defineProps(['image', 'link', 'name']);
 </script>
 

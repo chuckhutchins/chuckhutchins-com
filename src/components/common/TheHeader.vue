@@ -10,14 +10,15 @@
           <a href="https://github.com/chuckhutchins" aria-label="View My Profile on GitHub">GitHub</a>
         </li>
         <li class="linkedin">
-          <a href="https://www.linkedin.com/in/chuckhutchinsdesign/" aria-label="View My Profile on LinkedIn">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/chuckhutchinsdesign/"
+             aria-label="View My Profile on LinkedIn">LinkedIn</a>
         </li>
       </ul>
     </nav>
   </header>
 </template>
 
-<script setup lang="ts" />
+<script setup />
 
 <style scoped lang="scss">
 $nav-breakpoint: 768px;

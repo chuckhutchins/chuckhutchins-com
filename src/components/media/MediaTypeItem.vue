@@ -1,12 +1,13 @@
 <template>
   <li class="type-item">
     <router-link :to="routeName">
-      <component :is="iconComponent" /> {{ props.type }}
+      <component :is="iconComponent" />
+      {{ props.type }}
     </router-link>
   </li>
 </template>
 
-<script setup lang="ts">
+<script setup>
 import { computed } from 'vue';
 import IconBooks from '@/components/icons/IconBooks.vue';
 import IconMovies from '@/components/icons/IconMovies.vue';

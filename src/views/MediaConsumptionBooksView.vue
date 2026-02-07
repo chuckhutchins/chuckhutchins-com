@@ -11,7 +11,7 @@
   </main>
 </template>
 
-<script setup lang="ts">
+<script setup>
 import { useMediaStore } from '@/stores/MediaStore';
 import TheHr from '@/components/common/TheHr.vue';
 import MediaList from '@/components/media/MediaList.vue';

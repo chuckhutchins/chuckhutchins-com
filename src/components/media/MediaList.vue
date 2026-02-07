@@ -22,7 +22,7 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<script setup>
 import { computed } from 'vue';
 import dayjs from 'dayjs';
 import MediaItem from '@/components/media/MediaItem.vue';

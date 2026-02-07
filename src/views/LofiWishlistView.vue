@@ -64,7 +64,7 @@
   </main>
 </template>
 
-<script setup lang="ts">
+<script setup>
 import TheHr from '@/components/common/TheHr.vue';
 </script>
 
