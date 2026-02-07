@@ -3607,8 +3607,8 @@ export const tvShowList = [
     image:
       "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/parlor_room_rfanvn.jpg",
     start: "2025-04-19",
-    end: "", // TODO: fix date for this
-    rating: "", // TODO: idk if i marked this as like or not
+    end: "2025-09-01",
+    rating: "",
     finish: true,
   },
   {
