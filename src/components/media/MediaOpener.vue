@@ -18,7 +18,7 @@ import TheHr from '@/components/common/TheHr.vue';
     margin-block-end: 1rem;
   }
 
-  p:not(:last-child) {
+  :slotted(p:not(:last-child)) {
     margin-block-end: 0.5rem;
   }
 }
