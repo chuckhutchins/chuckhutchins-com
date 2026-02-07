@@ -109,11 +109,10 @@ import { useCoffeeStore } from '@/stores/CoffeeStore';
 import CoffeeItem from '@/components/coffee/CoffeeItem.vue';
 import IconStarSimple from '@/components/icons/IconStarSimple.vue';
 import TheHr from '@/components/common/TheHr.vue';
-import type { CoffeeRating } from '@/types';
 
 const coffeeStore = useCoffeeStore();
 
-const rating = ref<CoffeeRating>('all');
+const rating = ref('all');
 
 const filteredCoffeeList = computed(() => {
   if (rating.value !== 'all') {

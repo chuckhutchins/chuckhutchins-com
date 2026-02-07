@@ -13,9 +13,7 @@ import IconMovies from '@/components/icons/IconMovies.vue';
 import IconTVShows from '@/components/icons/IconTVShows.vue';
 import IconVideoGames from '@/components/icons/IconVideoGames.vue';
 
-const props = defineProps<{
-  type: string
-}>();
+const props = defineProps(['type']);
 
 const sanitizedType = computed(() => {
   return props.type.replace(/\s/g, '');

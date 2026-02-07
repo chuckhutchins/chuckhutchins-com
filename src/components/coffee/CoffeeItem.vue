@@ -6,10 +6,7 @@
 </template>
 
 <script setup lang="ts">
-import type { Coffee } from '@/types';
-const props = defineProps<{
-  coffee: Coffee
-}>();
+const props = defineProps(['coffee']);
 </script>
 
 <style scoped lang="scss">

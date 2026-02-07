@@ -7,14 +7,12 @@ module.exports = {
     'plugin:vue/vue3-essential',
     'eslint:recommended',
     '@vue/eslint-config-prettier/skip-formatting',
-    'plugin:@typescript-eslint/recommended',
   ],
   parser: 'vue-eslint-parser',
   parserOptions: {
     ecmaVersion: 'latest',
-    parser: '@typescript-eslint/parser',
   },
-  plugins: ['@stylistic', '@typescript-eslint', 'vue'],
+  plugins: ['@stylistic', 'vue'],
   rules: {
     '@stylistic/arrow-parens': ['error', 'as-needed'],
     '@stylistic/comma-dangle': ['error', 'always-multiline'],

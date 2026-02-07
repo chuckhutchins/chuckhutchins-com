@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router';
-import { useCoffeeStore } from '@/stores/CoffeeStore';
-import { useMediaStore } from '@/stores/MediaStore';
+import { useCoffeeStore } from '@/stores/CoffeeStore.js';
+import { useMediaStore } from '@/stores/MediaStore.js';
 import ResumeView from '@/views/ResumeView.vue';
 
 const router = createRouter({

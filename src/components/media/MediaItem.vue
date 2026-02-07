@@ -29,11 +29,8 @@ import { computed } from 'vue';
 import IconRatingDislike from '@/components/icons/IconRatingDislike.vue';
 import IconRatingGhost from '@/components/icons/IconRatingGhost.vue';
 import IconRatingHeart from '@/components/icons/IconRatingHeart.vue';
-import type { Media } from '@/types';
 
-const props = defineProps<{
-  item: Media
-}>();
+const props = defineProps(['item']);
 
 // badges
 const hasBadge = computed((): boolean => isLiked.value || isDisliked.value || isAbandoned.value);
