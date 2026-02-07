@@ -95,6 +95,10 @@ const filterByList = [
   padding: 0.25rem;
   border-radius: 0.5rem;
 
+  > * {
+    min-inline-size: 0;
+  }
+
   @media (min-width: 375px) {
     grid-template-columns: repeat(3, 1fr);
   }

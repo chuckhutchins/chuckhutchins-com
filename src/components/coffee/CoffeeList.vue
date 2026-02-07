@@ -25,5 +25,9 @@ defineProps({
   grid-template-columns: repeat(auto-fill, minmax(10.2864rem, 1fr));
   gap: 1rem;
   align-items: start;
+
+  > * {
+    min-inline-size: 0;
+  }
 }
 </style>

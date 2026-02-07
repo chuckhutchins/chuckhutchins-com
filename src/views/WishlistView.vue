@@ -109,6 +109,10 @@ import WishlistItem from '@/components/wishlist/WishlistItem.vue';
   display: grid;
   gap: 2rem;
 
+  > * {
+    min-inline-size: 0;
+  }
+
   .opener {
     h1 {
       margin-block-end: 1rem;
@@ -127,6 +131,10 @@ import WishlistItem from '@/components/wishlist/WishlistItem.vue';
     display: grid;
     grid-template-columns: 1fr;
     grid-gap: 1.5rem 1rem;
+
+    > * {
+      min-inline-size: 0;
+    }
 
     @media (min-width: 375px) {
       grid-template-columns: repeat(2, 1fr);

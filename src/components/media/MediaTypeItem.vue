@@ -97,6 +97,10 @@ const routeName = computed(() => ({ name: `MediaConsumption${sanitizedType.value
     transition: box-shadow 0.25s ease;
     box-shadow: 0 0.0625rem 0.25rem -0.125rem hsla(0, 0%, 0%, 0.25);
 
+    > * {
+      min-inline-size: 0;
+    }
+
     &::before {
       content: "";
       position: absolute;

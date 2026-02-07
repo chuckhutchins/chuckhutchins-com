@@ -77,6 +77,10 @@ const formatDate = date => {
   grid-template-columns: 1fr;
   grid-gap: 1.5rem;
 
+  > * {
+    min-inline-size: 0;
+  }
+
   @media (min-width: 480px) {
     grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));
   }

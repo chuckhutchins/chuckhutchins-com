@@ -184,6 +184,10 @@ import TheHr from '@/components/common/TheHr.vue';
   display: grid;
   gap: 2rem;
 
+  > * {
+    min-inline-size: 0;
+  }
+
   h2 {
     line-height: 1;
   }
@@ -191,6 +195,10 @@ import TheHr from '@/components/common/TheHr.vue';
   .entry {
     display: grid;
     gap: 0.25rem;
+
+    > * {
+      min-inline-size: 0;
+    }
   }
 
   .mission {
@@ -212,6 +220,10 @@ import TheHr from '@/components/common/TheHr.vue';
   .skills {
     display: grid;
     gap: 1rem;
+
+    > * {
+      min-inline-size: 0;
+    }
   }
 }
 </style>

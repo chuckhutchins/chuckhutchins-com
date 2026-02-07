@@ -14,5 +14,9 @@ const typeList = ['Books', 'Movies', 'TV Shows', 'Video Games'];
 .type-list {
   display: grid;
   gap: 1rem;
+
+  > * {
+    min-inline-size: 0;
+  }
 }
 </style>

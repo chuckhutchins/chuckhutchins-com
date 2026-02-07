@@ -18,7 +18,8 @@
   </header>
 </template>
 
-<script setup />
+<script setup>
+</script>
 
 <style scoped lang="scss">
 $nav-breakpoint: 768px;
@@ -55,6 +56,10 @@ header {
       grid-template-columns: repeat(2, 1fr);
       grid-gap: 1rem;
       inline-size: 100%;
+
+      > * {
+        min-inline-size: 0;
+      }
 
       @media (min-width: $haunts-breakpoint) {
         inline-size: unset;

@@ -23,6 +23,10 @@ import TheHeader from '@/components/common/TheHeader.vue';
   align-items: start;
   grid-gap: 2rem;
   min-height: 100dvh;
+
+  * > {
+    min-inline-size: 0;
+  }
 }
 
 .not-found {
