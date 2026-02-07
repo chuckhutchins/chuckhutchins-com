@@ -3703,7 +3703,7 @@ export const tvShowList = [
     image:
       "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/wednesday-2_wmzorm.jpg",
     start: "2025-08-23",
-    end: "",
+    end: "2025-09-08",
     rating: "",
     finish: false,
   },
@@ -3799,9 +3799,9 @@ export const tvShowList = [
     image:
       "https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/pluribus_ul92ra.jpg",
     start: "2026-01-03",
-    end: "",
+    end: "2026-01-24",
     rating: "",
-    finish: false,
+    finish: true,
   },
   {
     index: 318,

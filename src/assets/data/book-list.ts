@@ -1221,9 +1221,9 @@ export const bookList = [
     image:
       "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/think-faster-talk-smarter_ouv8j1.jpg",
     start: "2025-03-17",
-    end: "",
+    end: "2026-02-03",
     rating: "",
-    finish: false,
+    finish: true,
   },
   {
     index: 103,
@@ -1533,6 +1533,18 @@ export const bookList = [
     image:
       "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/sorry-im-late_iyqvjn.jpg",
     start: "2026-01-23",
+    end: "2026-01-30",
+    rating: "",
+    finish: true,
+  },
+  {
+    index: 129,
+    title: "Impossible Creatures",
+    author: "Katherine Rundell",
+    medium: "Kindle",
+    image:
+      "https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/impossible-creatures_yayrab.jpg",
+    start: "2026-02-04",
     end: "",
     rating: "",
     finish: false,
