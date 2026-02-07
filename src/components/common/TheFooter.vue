@@ -20,7 +20,8 @@
           <a href="https://github.com/chuckhutchins" aria-label="View My Profile on GitHub">GitHub</a>
         </li>
         <li class="linkedin">
-          <a href="https://www.linkedin.com/in/chuckhutchinsdesign/" aria-label="View My Profile on LinkedIn">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/chuckhutchinsdesign/"
+             aria-label="View My Profile on LinkedIn">LinkedIn</a>
         </li>
       </ul>
     </nav>
@@ -30,7 +31,8 @@
   </footer>
 </template>
 
-<script setup lang="ts" />
+<script setup>
+</script>
 
 <style scoped lang="scss">
 $nav-breakpoint: 768px;
@@ -43,6 +45,10 @@ $haunts-breakpoint: 480px;
   gap: var(--footer-spacing);
   border-block-start: 2px solid;
   padding-block-start: 1rem;
+
+  > * {
+    min-inline-size: 0;
+  }
 
   @media (min-width: $nav-breakpoint) {
     grid-template-columns: 1fr auto;
@@ -87,6 +93,10 @@ $haunts-breakpoint: 480px;
       grid-template-columns: repeat(2, 1fr);
       grid-gap: 1rem;
       inline-size: 100%;
+
+      > * {
+        min-inline-size: 0;
+      }
 
       @media (min-width: $haunts-breakpoint) {
         inline-size: unset;

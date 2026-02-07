@@ -1,35 +1,21 @@
 <template>
-  <main class="consumption">
-    <div class="opener">
-      <h1>TV Shows</h1>
-      <p>Hey, this is all the stuff I've watched since 2020.</p>
-      <!--      TODO: jump down to-->
-      <router-link :to="{ name: 'MediaConsumptionPage' }">Back to Media Consumption</router-link>
-    </div>
-    <TheHr />
+  <ConsumptionLayout>
+    <TheOpener>
+      <template #header>
+        TV Shows
+      </template>
+      <p>Hey, this is all the stuff I've read watched 2020.</p>
+      <RouterLink :to="{ name: 'MediaConsumptionPage' }">
+        Back to Media Consumption
+      </RouterLink>
+    </TheOpener>
     <MediaList :mediaList="useMediaStore().tvShowList" />
-  </main>
+  </ConsumptionLayout>
 </template>
 
-<script setup lang="ts">
+<script setup>
 import { useMediaStore } from '@/stores/MediaStore';
-import TheHr from '@/components/common/TheHr.vue';
+import ConsumptionLayout from '@/layouts/ConsumptionLayout.vue';
 import MediaList from '@/components/media/MediaList.vue';
+import TheOpener from '@/components/common/TheOpener.vue';
 </script>
-
-<style scoped lang="scss">
-.consumption {
-  display: grid;
-  gap: 2rem;
-
-  .opener {
-    h1 {
-      margin-block-end: 1rem;
-    }
-
-    p:not(:last-child) {
-      margin-block-end: 0.5rem;
-    }
-  }
-}
-</style>

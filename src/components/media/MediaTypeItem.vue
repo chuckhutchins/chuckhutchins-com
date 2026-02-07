@@ -1,24 +1,24 @@
 <template>
   <li class="type-item">
     <router-link :to="routeName">
-      <component :is="iconComponent" /> {{ props.type }}
+      <component :is="iconComponent" />
+      {{ props.type }}
     </router-link>
   </li>
 </template>
 
-<script setup lang="ts">
+<script setup>
 import { computed } from 'vue';
 import IconBooks from '@/components/icons/IconBooks.vue';
 import IconMovies from '@/components/icons/IconMovies.vue';
 import IconTVShows from '@/components/icons/IconTVShows.vue';
 import IconVideoGames from '@/components/icons/IconVideoGames.vue';
+import { removeSpace } from '@/utils/useFormat.js';
 
-const props = defineProps<{
-  type: string
-}>();
+const props = defineProps(['type']);
 
 const sanitizedType = computed(() => {
-  return props.type.replace(/\s/g, '');
+  return removeSpace(props.type);
 });
 
 const icons = {
@@ -29,7 +29,7 @@ const icons = {
 };
 
 const iconComponent = computed(() => icons[sanitizedType.value]);
-const routeName = computed(() => ({ name: `MediaConsumption${sanitizedType.value}Page`}));
+const routeName = computed(() => ({ name: `MediaConsumption${sanitizedType.value}Page` }));
 </script>
 
 <style scoped lang="scss">
@@ -96,6 +96,10 @@ const routeName = computed(() => ({ name: `MediaConsumption${sanitizedType.value
     z-index: 0;
     transition: box-shadow 0.25s ease;
     box-shadow: 0 0.0625rem 0.25rem -0.125rem hsla(0, 0%, 0%, 0.25);
+
+    > * {
+      min-inline-size: 0;
+    }
 
     &::before {
       content: "";
