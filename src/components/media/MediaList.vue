@@ -22,15 +22,12 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<script setup>
 import { computed } from 'vue';
 import dayjs from 'dayjs';
 import MediaItem from '@/components/media/MediaItem.vue';
-import type { Media } from '@/types';
 
-const props = defineProps<{
-  mediaList: Media[];
-}>();
+const props = defineProps(['mediaList']);
 
 const inProgressList = computed(() => {
   const list = [...props.mediaList];
@@ -53,10 +50,14 @@ const finishedList = computed(() => {
 });
 const hasFinished = computed(() => finishedList.value.length > 0);
 
-const showYearCard = (index: number) => {
-  return (index === 0) || formatDate(finishedList.value[index - 1].end) !== formatDate(finishedList.value[index].end);
+const showYearCard = index => {
+  return (
+    index === 0 ||
+    formatDate(finishedList.value[index - 1].end) !==
+    formatDate(finishedList.value[index].end)
+  );
 };
-const formatDate = (date: string) => {
+const formatDate = date => {
   if (date === '0') {
     return 'Before the existence of written records';
   }
@@ -75,6 +76,10 @@ const formatDate = (date: string) => {
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 1.5rem;
+
+  > * {
+    min-inline-size: 0;
+  }
 
   @media (min-width: 480px) {
     grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));

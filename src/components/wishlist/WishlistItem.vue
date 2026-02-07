@@ -9,9 +9,8 @@
   </li>
 </template>
 
-<script setup lang="ts">
-import type { Wishlist } from '@/types';
-const props = defineProps<Wishlist>();
+<script setup>
+const props = defineProps(['image', 'link', 'name']);
 </script>
 
 <style scoped lang="scss">

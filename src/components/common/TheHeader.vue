@@ -10,14 +10,16 @@
           <a href="https://github.com/chuckhutchins" aria-label="View My Profile on GitHub">GitHub</a>
         </li>
         <li class="linkedin">
-          <a href="https://www.linkedin.com/in/chuckhutchinsdesign/" aria-label="View My Profile on LinkedIn">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/chuckhutchinsdesign/"
+             aria-label="View My Profile on LinkedIn">LinkedIn</a>
         </li>
       </ul>
     </nav>
   </header>
 </template>
 
-<script setup lang="ts" />
+<script setup>
+</script>
 
 <style scoped lang="scss">
 $nav-breakpoint: 768px;
@@ -54,6 +56,10 @@ header {
       grid-template-columns: repeat(2, 1fr);
       grid-gap: 1rem;
       inline-size: 100%;
+
+      > * {
+        min-inline-size: 0;
+      }
 
       @media (min-width: $haunts-breakpoint) {
         inline-size: unset;

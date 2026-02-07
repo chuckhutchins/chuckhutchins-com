@@ -1,6 +1,7 @@
 <template>
   <div class="media-item">
-    <div class="image-wrapper" :class="{'has-badge': hasBadge, 'is-liked': isLiked, 'is-disliked': isDisliked || isAbandoned}">
+    <div class="image-wrapper"
+         :class="{'has-badge': hasBadge, 'is-liked': isLiked, 'is-disliked': isDisliked || isAbandoned}">
       <img
         :src="item.image"
         alt=""
@@ -24,27 +25,24 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<script setup>
 import { computed } from 'vue';
 import IconRatingDislike from '@/components/icons/IconRatingDislike.vue';
 import IconRatingGhost from '@/components/icons/IconRatingGhost.vue';
 import IconRatingHeart from '@/components/icons/IconRatingHeart.vue';
-import type { Media } from '@/types';
 
-const props = defineProps<{
-  item: Media
-}>();
+const props = defineProps(['item']);
 
 // badges
-const hasBadge = computed((): boolean => isLiked.value || isDisliked.value || isAbandoned.value);
-const isLiked = computed((): boolean => props.item.rating === 'Like');
-const isDisliked = computed((): boolean => props.item.rating === 'Dislike');
-const isAbandoned = computed((): boolean => !props.item.finish && props.item.end !== '');
+const hasBadge = computed(() => isLiked.value || isDisliked.value || isAbandoned.value);
+const isLiked = computed(() => props.item.rating === 'Like');
+const isDisliked = computed(() => props.item.rating === 'Dislike');
+const isAbandoned = computed(() => !props.item.finish && props.item.end !== '');
 
 // data
-const hasAuthor = computed((): boolean => !!props.item.author);
-const hasPlatform = computed((): boolean => !!props.item.platform);
-const hasSeason = computed((): boolean => !!props.item.season);
+const hasAuthor = computed(() => !!props.item.author);
+const hasPlatform = computed(() => !!props.item.platform);
+const hasSeason = computed(() => !!props.item.season);
 </script>
 
 <style scoped lang="scss">
