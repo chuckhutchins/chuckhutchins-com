@@ -27,7 +27,7 @@ const icons = {
 };
 
 const iconComponent = computed(() => icons[sanitizedType.value]);
-const routeName = computed(() => ({ name: `MediaConsumption${sanitizedType.value}Page`}));
+const routeName = computed(() => ({ name: `MediaConsumption${sanitizedType.value}Page` }));
 </script>
 
 <style scoped lang="scss">

@@ -23,21 +23,21 @@
 </template>
 
 <script setup lang="ts">
-import { computed } from "vue";
-import dayjs from "dayjs";
-import MediaItem from "@/components/media/MediaItem.vue";
+import { computed } from 'vue';
+import dayjs from 'dayjs';
+import MediaItem from '@/components/media/MediaItem.vue';
 
-const props = defineProps(["mediaList"]);
+const props = defineProps(['mediaList']);
 
 const inProgressList = computed(() => {
   const list = [...props.mediaList];
-  return list.filter((item) => !item.finish && item.end === "");
+  return list.filter(item => !item.finish && item.end === '');
 });
 const hasInProgress = computed(() => inProgressList.value.length > 0);
 
 const finishedList = computed(() => {
   const list = [...props.mediaList];
-  const finished = list.filter((item) => item.finish || item.end !== "");
+  const finished = list.filter(item => item.finish || item.end !== '');
   return finished.sort((a, b) => {
     if (a.end > b.end) {
       return -1;
@@ -50,18 +50,18 @@ const finishedList = computed(() => {
 });
 const hasFinished = computed(() => finishedList.value.length > 0);
 
-const showYearCard = (index: number) => {
+const showYearCard = index => {
   return (
     index === 0 ||
     formatDate(finishedList.value[index - 1].end) !==
-      formatDate(finishedList.value[index].end)
+    formatDate(finishedList.value[index].end)
   );
 };
-const formatDate = (date: string) => {
-  if (date === "0") {
-    return "Before the existence of written records";
+const formatDate = date => {
+  if (date === '0') {
+    return 'Before the existence of written records';
   }
-  return dayjs(date).format("YYYY");
+  return dayjs(date).format('YYYY');
 };
 </script>
 
