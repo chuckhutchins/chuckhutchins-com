@@ -24,7 +24,7 @@ import TheHeader from '@/components/common/TheHeader.vue';
   grid-gap: 2rem;
   min-block-size: 100dvh;
 
-  * > {
+  > * {
     min-inline-size: 0;
   }
 }
