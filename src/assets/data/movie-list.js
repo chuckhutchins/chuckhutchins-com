@@ -21,7 +21,7 @@ export const movieList = [
   },
   {
     index: 3,
-    title: "Harry Potter and the Sorcerer's Stone",
+    title: 'Harry Potter and the Sorcerer\'s Stone',
     platform: 'Amazon Prime',
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615142692/chuckhutchins/movies/harry-potter-1_dhlepb.jpg',
@@ -402,7 +402,7 @@ export const movieList = [
   },
   {
     index: 39,
-    title: "Kiki's Delivery Service",
+    title: 'Kiki\'s Delivery Service',
     platform: 'HBO Max',
     image:
       'https://res.cloudinary.com/innocent/image/upload/v1688729405/chuckhutchins/movies/kikis-delivery-service_kaiwmj.jpg',
@@ -452,7 +452,7 @@ export const movieList = [
   },
   {
     index: 44,
-    title: "Howl's Moving Castle",
+    title: 'Howl\'s Moving Castle',
     platform: 'HBO Max',
     image:
       'https://res.cloudinary.com/innocent/image/upload/v1688729404/chuckhutchins/movies/howls-moving-castle_w48ytk.jpg',
@@ -992,7 +992,7 @@ export const movieList = [
   },
   {
     index: 98,
-    title: "Are you There God? It's Me, Margaret",
+    title: 'Are you There God? It\'s Me, Margaret',
     platform: 'Netflix',
     image:
       'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/are-you-there-god-its-me-margaret_cico8x.jpg',
@@ -1057,6 +1057,16 @@ export const movieList = [
     image:
       'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/the-way-way-back_baprcs.jpg',
     end: '2026-01-18',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 105,
+    title: 'My Sassy Girl',
+    platform: '',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/my-sassy-girl_b32ync.jpg',
+    end: '2026-02-08',
     rating: '',
     finish: true,
   },

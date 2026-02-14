@@ -169,7 +169,7 @@ export const tvShowList = [
   },
   {
     index: 15,
-    title: "100 Humans: Life's Questions. Answered.",
+    title: '100 Humans: Life\'s Questions. Answered.',
     season: '1',
     platform: 'Netflix',
     image:
@@ -181,7 +181,7 @@ export const tvShowList = [
   },
   {
     index: 16,
-    title: "Bob's Burgers",
+    title: 'Bob\'s Burgers',
     season: '1',
     platform: 'Hulu',
     image:
@@ -193,7 +193,7 @@ export const tvShowList = [
   },
   {
     index: 17,
-    title: "Bob's Burgers",
+    title: 'Bob\'s Burgers',
     season: '2',
     platform: 'Hulu',
     image:
@@ -205,7 +205,7 @@ export const tvShowList = [
   },
   {
     index: 18,
-    title: "Bob's Burgers",
+    title: 'Bob\'s Burgers',
     season: '3',
     platform: 'Hulu',
     image:
@@ -217,7 +217,7 @@ export const tvShowList = [
   },
   {
     index: 19,
-    title: "Jo Brand's Cats & Kittens",
+    title: 'Jo Brand\'s Cats & Kittens',
     season: '1',
     platform: 'Netflix',
     image:
@@ -373,7 +373,7 @@ export const tvShowList = [
   },
   {
     index: 32,
-    title: "Schitt's Creek",
+    title: 'Schitt\'s Creek',
     season: '1',
     platform: 'Netflix',
     image:
@@ -385,7 +385,7 @@ export const tvShowList = [
   },
   {
     index: 33,
-    title: "Schitt's Creek",
+    title: 'Schitt\'s Creek',
     season: '2',
     platform: 'Netflix',
     image:
@@ -397,7 +397,7 @@ export const tvShowList = [
   },
   {
     index: 34,
-    title: "Schitt's Creek",
+    title: 'Schitt\'s Creek',
     season: '3',
     platform: 'Netflix',
     image:
@@ -409,7 +409,7 @@ export const tvShowList = [
   },
   {
     index: 35,
-    title: "Schitt's Creek",
+    title: 'Schitt\'s Creek',
     season: '4',
     platform: 'Netflix',
     image:
@@ -421,7 +421,7 @@ export const tvShowList = [
   },
   {
     index: 36,
-    title: "Schitt's Creek",
+    title: 'Schitt\'s Creek',
     season: '5',
     platform: 'Netflix',
     image:
@@ -589,7 +589,7 @@ export const tvShowList = [
   },
   {
     index: 50,
-    title: "Schitt's Creek",
+    title: 'Schitt\'s Creek',
     season: '6',
     platform: 'Netflix',
     image:
@@ -721,7 +721,7 @@ export const tvShowList = [
   },
   {
     index: 61,
-    title: "The Queen's Gambit",
+    title: 'The Queen\'s Gambit',
     season: '1',
     platform: 'Netflix',
     image:
@@ -805,7 +805,7 @@ export const tvShowList = [
   },
   {
     index: 68,
-    title: "BoJack Horseman Christmas Special: Sabrina's Christmas Wish",
+    title: 'BoJack Horseman Christmas Special: Sabrina\'s Christmas Wish',
     season: 'X',
     platform: 'Netflix',
     image:
@@ -1393,7 +1393,7 @@ export const tvShowList = [
   },
   {
     index: 117,
-    title: "It's Always Sunny in Philadelphia",
+    title: 'It\'s Always Sunny in Philadelphia',
     season: '1',
     platform: 'Hulu',
     image:
@@ -1405,7 +1405,7 @@ export const tvShowList = [
   },
   {
     index: 118,
-    title: "It's Always Sunny in Philadelphia",
+    title: 'It\'s Always Sunny in Philadelphia',
     season: '2',
     platform: 'Hulu',
     image:
@@ -1417,7 +1417,7 @@ export const tvShowList = [
   },
   {
     index: 119,
-    title: "It's Always Sunny in Philadelphia",
+    title: 'It\'s Always Sunny in Philadelphia',
     season: '3',
     platform: 'Hulu',
     image:
@@ -1429,7 +1429,7 @@ export const tvShowList = [
   },
   {
     index: 120,
-    title: "It's Always Sunny in Philadelphia",
+    title: 'It\'s Always Sunny in Philadelphia',
     season: '4',
     platform: 'Hulu',
     image:
@@ -1441,7 +1441,7 @@ export const tvShowList = [
   },
   {
     index: 121,
-    title: "It's Always Sunny in Philadelphia",
+    title: 'It\'s Always Sunny in Philadelphia',
     season: '5',
     platform: 'Hulu',
     image:
@@ -1465,7 +1465,7 @@ export const tvShowList = [
   },
   {
     index: 123,
-    title: "It's Always Sunny in Philadelphia",
+    title: 'It\'s Always Sunny in Philadelphia',
     season: '6',
     platform: 'Hulu',
     image:
@@ -1501,7 +1501,7 @@ export const tvShowList = [
   },
   {
     index: 126,
-    title: "It's Always Sunny in Philadelphia",
+    title: 'It\'s Always Sunny in Philadelphia',
     season: '7',
     platform: 'Hulu',
     image:
@@ -1513,7 +1513,7 @@ export const tvShowList = [
   },
   {
     index: 127,
-    title: "It's Always Sunny in Philadelphia",
+    title: 'It\'s Always Sunny in Philadelphia',
     season: '8',
     platform: 'Hulu',
     image:
@@ -1525,7 +1525,7 @@ export const tvShowList = [
   },
   {
     index: 128,
-    title: "It's Always Sunny in Philadelphia",
+    title: 'It\'s Always Sunny in Philadelphia',
     season: '9',
     platform: 'Hulu',
     image:
@@ -1537,7 +1537,7 @@ export const tvShowList = [
   },
   {
     index: 129,
-    title: "It's Always Sunny in Philadelphia",
+    title: 'It\'s Always Sunny in Philadelphia',
     season: '10',
     platform: 'Hulu',
     image:
@@ -1549,7 +1549,7 @@ export const tvShowList = [
   },
   {
     index: 130,
-    title: "It's Always Sunny in Philadelphia",
+    title: 'It\'s Always Sunny in Philadelphia',
     season: '11',
     platform: 'Hulu',
     image:
@@ -1561,7 +1561,7 @@ export const tvShowList = [
   },
   {
     index: 131,
-    title: "It's Always Sunny in Philadelphia",
+    title: 'It\'s Always Sunny in Philadelphia',
     season: '12',
     platform: 'Hulu',
     image:
@@ -1573,7 +1573,7 @@ export const tvShowList = [
   },
   {
     index: 132,
-    title: "It's Always Sunny in Philadelphia",
+    title: 'It\'s Always Sunny in Philadelphia',
     season: '13',
     platform: 'Hulu',
     image:
@@ -1585,7 +1585,7 @@ export const tvShowList = [
   },
   {
     index: 133,
-    title: "It's Always Sunny in Philadelphia",
+    title: 'It\'s Always Sunny in Philadelphia',
     season: '14',
     platform: 'Hulu',
     image:
@@ -1597,7 +1597,7 @@ export const tvShowList = [
   },
   {
     index: 134,
-    title: "It's Always Sunny in Philadelphia",
+    title: 'It\'s Always Sunny in Philadelphia',
     season: '15',
     platform: 'Hulu',
     image:
@@ -2413,7 +2413,7 @@ export const tvShowList = [
   },
   {
     index: 202,
-    title: "It's Always Sunny in Philadelphia",
+    title: 'It\'s Always Sunny in Philadelphia',
     season: '16',
     platform: 'Hulu',
     image:
@@ -3553,7 +3553,7 @@ export const tvShowList = [
   },
   {
     index: 297,
-    title: "Frieren: Beyond Journey's End",
+    title: 'Frieren: Beyond Journey\'s End',
     season: '1',
     platform: 'Netflix',
     image:
@@ -3781,7 +3781,7 @@ export const tvShowList = [
   },
   {
     index: 316,
-    title: "The Devil's Plan",
+    title: 'The Devil\'s Plan',
     season: '1',
     platform: 'Netflix',
     image:
@@ -3814,5 +3814,17 @@ export const tvShowList = [
     end: '2026-01-12',
     rating: '',
     finish: true,
+  },
+  {
+    index: 319,
+    title: 'Fallout',
+    season: '2',
+    platform: 'Amazon Prime',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/fallout_wv1ras.jpg',
+    start: '2026-02-13',
+    end: '',
+    rating: '',
+    finish: false,
   },
 ];
