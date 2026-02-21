@@ -45,7 +45,7 @@ export const videoGameList = [
   },
   {
     index: 5,
-    title: "The Legend of Zelda: Link's Awakening",
+    title: 'The Legend of Zelda: Link\'s Awakening',
     platform: 'Switch',
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148573/chuckhutchins/video-games/the-legend-of-zelda-links-awakening_w9k1se.jpg',
@@ -265,7 +265,7 @@ export const videoGameList = [
   },
   {
     index: 25,
-    title: "Astro's Playroom",
+    title: 'Astro\'s Playroom',
     platform: 'PS5',
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/astros-playroom_g2zgii.jpg',
@@ -276,7 +276,7 @@ export const videoGameList = [
   },
   {
     index: 26,
-    title: "Marvel's Spider-Man: Miles Morales",
+    title: 'Marvel\'s Spider-Man: Miles Morales',
     platform: 'PS5',
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148569/chuckhutchins/video-games/marvels-spiderman-miles-morales_qxri2p.jpg',
@@ -309,7 +309,7 @@ export const videoGameList = [
   },
   {
     index: 29,
-    title: "No Man's Sky",
+    title: 'No Man\'s Sky',
     platform: 'PS5',
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148569/chuckhutchins/video-games/no-mans-sky_by4fbc.jpg',
@@ -463,7 +463,7 @@ export const videoGameList = [
   },
   {
     index: 43,
-    title: "Zero Escape: Virtue's Last Reward",
+    title: 'Zero Escape: Virtue\'s Last Reward',
     platform: 'PS5',
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615148568/chuckhutchins/video-games/virtues-last-reward_nr8lod.jpg',
@@ -815,7 +815,7 @@ export const videoGameList = [
   },
   {
     index: 75,
-    title: "Layton's Mystery Journey",
+    title: 'Layton\'s Mystery Journey',
     platform: 'Switch',
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421997/chuckhutchins/video-games/laytons-mystery-journey_xelfvn.png',
@@ -936,7 +936,7 @@ export const videoGameList = [
   },
   {
     index: 86,
-    title: "Baldur's Gate 3",
+    title: 'Baldur\'s Gate 3',
     platform: 'PC',
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/baldurs-gate-3_ucproe.png',
@@ -1318,6 +1318,50 @@ export const videoGameList = [
     end: '',
     rating: '',
     finish: false,
+  },
+  {
+    index: 120,
+    title: 'Secrets of Blackrock Manor: Escape Room',
+    platform: 'Switch 2',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/secrets-of-blackrock-manor_lnsv3m.png',
+    start: '2026-02-14',
+    end: '2026-02-14',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 121,
+    title: 'Between Time: Escape Room',
+    platform: 'Switch 2',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/between-time_p0pbxx.png',
+    start: '2026-02-15',
+    end: '2026-02-15',
+    rating: 'Dislike',
+    finish: true,
+  },
+  {
+    index: 122,
+    title: 'Mystic Academy: Escape Room',
+    platform: 'Switch 2',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/mystic-academy_amarvk.png',
+    start: '2026-02-15',
+    end: '2026-02-15',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 123,
+    title: 'Pyramids & Aliens: Escape Room',
+    platform: 'Switch 2',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/pyramids-and-aliens_prheaf.png',
+    start: '2026-02-16',
+    end: '2026-02-20',
+    rating: 'Dislike',
+    finish: true,
   },
   // {
   //   index: 107,

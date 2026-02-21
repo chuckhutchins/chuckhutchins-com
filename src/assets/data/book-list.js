@@ -13,7 +13,7 @@ export const bookList = [
   },
   {
     index: 2,
-    title: "Harry Potter and the Philosopher's Stone",
+    title: 'Harry Potter and the Philosopher\'s Stone',
     author: 'JK Rowling',
     medium: 'Paperback',
     image:
@@ -157,7 +157,7 @@ export const bookList = [
   },
   {
     index: 14,
-    title: "The Magician's Land",
+    title: 'The Magician\'s Land',
     author: 'Lev Grossman',
     medium: 'Kindle',
     image:
@@ -182,7 +182,7 @@ export const bookList = [
   },
   {
     index: 16,
-    title: "So Good They Can't Ignore You",
+    title: 'So Good They Can\'t Ignore You',
     author: 'Cal Newport',
     medium: 'Kindle',
     image:
@@ -483,7 +483,7 @@ export const bookList = [
   },
   {
     index: 41,
-    title: "The Magicians: Alice's Story",
+    title: 'The Magicians: Alice\'s Story',
     author: 'Lev Grossman, Pius Bak, Lilah Sturges',
     medium: 'Kindle',
     image:
@@ -495,7 +495,7 @@ export const bookList = [
   },
   {
     index: 42,
-    title: "The Hitchhiker's Guide to the Galaxy",
+    title: 'The Hitchhiker\'s Guide to the Galaxy',
     author: 'Douglas Adams',
     medium: 'Kindle',
     image:
@@ -771,7 +771,7 @@ export const bookList = [
   },
   {
     index: 65,
-    title: "I'm Glad My Mom Died",
+    title: 'I\'m Glad My Mom Died',
     author: 'Jennette McCurdy',
     medium: 'Kindle',
     image:
@@ -831,7 +831,7 @@ export const bookList = [
   },
   {
     index: 70,
-    title: "The Wizard's Crown",
+    title: 'The Wizard\'s Crown',
     author: 'Michael G Manning',
     medium: 'Kindle',
     image:
@@ -939,7 +939,7 @@ export const bookList = [
   },
   {
     index: 79,
-    title: "The Blacksmith's Son",
+    title: 'The Blacksmith\'s Son',
     author: 'Michael G Manning',
     medium: 'Kindle',
     image:
@@ -1095,7 +1095,7 @@ export const bookList = [
   },
   {
     index: 92,
-    title: "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+    title: 'Quiet: The Power of Introverts in a World That Can\'t Stop Talking',
     author: 'Susan Cain',
     medium: 'Audiobook',
     image:
@@ -1227,7 +1227,7 @@ export const bookList = [
   },
   {
     index: 103,
-    title: "Why Can't I Just Enjoy Things?",
+    title: 'Why Can\'t I Just Enjoy Things?',
     author: 'Pierre Novellie',
     medium: 'Kindle',
     image:
@@ -1431,7 +1431,7 @@ export const bookList = [
   },
   {
     index: 120,
-    title: "Carl's Doomsday Scenario",
+    title: 'Carl\'s Doomsday Scenario',
     author: 'Matt Dinniman',
     medium: 'Kindle',
     image:
@@ -1443,7 +1443,7 @@ export const bookList = [
   },
   {
     index: 121,
-    title: "The Dungeon Anarchist's Cookbook",
+    title: 'The Dungeon Anarchist\'s Cookbook',
     author: 'Matt Dinniman',
     medium: 'Kindle',
     image:
@@ -1467,7 +1467,7 @@ export const bookList = [
   },
   {
     index: 123,
-    title: "The Butcher's Masquerade",
+    title: 'The Butcher\'s Masquerade',
     author: 'Matt Dinniman',
     medium: 'Kindle',
     image:
@@ -1527,7 +1527,7 @@ export const bookList = [
   },
   {
     index: 128,
-    title: "Sorry I'm LAte, I Didn't Want To Come",
+    title: 'Sorry I\'m LAte, I Didn\'t Want To Come',
     author: 'Jessica Pan',
     medium: 'Kindle',
     image:
@@ -1545,8 +1545,8 @@ export const bookList = [
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/impossible-creatures_yayrab.jpg',
     start: '2026-02-04',
-    end: '',
+    end: '2026-02-20',
     rating: '',
-    finish: false,
+    finish: true,
   },
 ];
