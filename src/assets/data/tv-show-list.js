@@ -3823,8 +3823,8 @@ export const tvShowList = [
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/fallout_wv1ras.jpg',
     start: '2026-02-13',
-    end: '',
-    rating: '',
-    finish: false,
+    end: '2026-02-27',
+    rating: 'Like',
+    finish: true,
   },
 ];

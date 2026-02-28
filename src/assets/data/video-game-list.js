@@ -1363,6 +1363,28 @@ export const videoGameList = [
     rating: 'Dislike',
     finish: true,
   },
+  {
+    index: 124,
+    title: 'Under the Island',
+    platform: 'PS5',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/under-the-island_rp53vi.png',
+    start: '2026-02-22',
+    end: '2026-02-23',
+    rating: 'Like',
+    finish: true,
+  },
+  {
+    index: 125,
+    title: 'The Legend of Zelda: Oracle of Seasons',
+    platform: 'Switch 2',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/loz-oracle-of-seasons_xp13aj.png',
+    start: '2026-02-24',
+    end: '',
+    rating: '',
+    finish: false,
+  },
   // {
   //   index: 107,
   //   title: 'Persona 3 Reload: Episode Aigis',

@@ -928,7 +928,7 @@ export const bookList = [
   {
     index: 78,
     title: 'Legends & Lattes',
-    author: 'Travis Baldtree',
+    author: 'Travis Baldree',
     medium: 'Kindle',
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472120/chuckhutchins/books/legends-and-lattes_xlxgm5.jpg',
@@ -1072,7 +1072,7 @@ export const bookList = [
   {
     index: 90,
     title: 'Bookshops & Bonedust',
-    author: 'Travis Baldtree',
+    author: 'Travis Baldree',
     medium: 'Kindle',
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/bookshops-and-bonedust_xidyik.jpg',
@@ -1548,5 +1548,29 @@ export const bookList = [
     end: '2026-02-20',
     rating: '',
     finish: true,
+  },
+  {
+    index: 130,
+    title: 'Meditations for Mortals',
+    author: 'Oliver Burkeman',
+    medium: 'Kindle',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/meditations-for-mortals_lqi6hm.jpg',
+    start: '2026-02-21',
+    end: '',
+    rating: '',
+    finish: false,
+  },
+  {
+    index: 131,
+    title: 'Pages to Fill',
+    author: 'Travis Baldree',
+    medium: 'Kindle',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/pages-to-fill_kqgk41.jpg',
+    start: '2026-02-27',
+    end: '',
+    rating: '',
+    finish: false,
   },
 ];

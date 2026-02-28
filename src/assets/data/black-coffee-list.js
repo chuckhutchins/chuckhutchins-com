@@ -85,4 +85,13 @@ export const coffeeList = [
     region: '',
     country: 'Papua New Guinea',
   },
+  {
+    index: 11,
+    name: 'Helios',
+    roaster: 'Hyperion',
+    rating: 4,
+    favorite: false,
+    region: 'Central America',
+    country: 'Guatemala',
+  },
 ];
