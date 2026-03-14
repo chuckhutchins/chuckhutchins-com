@@ -1569,6 +1569,18 @@ export const bookList = [
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/pages-to-fill_kqgk41.jpg',
     start: '2026-02-27',
+    end: '2026-03-02',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 132,
+    title: 'Tiny Experiments',
+    author: 'Anne-Laure Le Cunff',
+    medium: 'Kindle',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/tiny-experiments_xwnxqk.jpg',
+    start: '2026-03-',
     end: '',
     rating: '',
     finish: false,
