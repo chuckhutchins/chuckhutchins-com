@@ -1392,9 +1392,9 @@ export const videoGameList = [
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/pokemon-pokopia_r9flyx.png',
     start: '2026-03-05',
-    end: '',
+    end: '2026-03-14',
     rating: 'Like',
-    finish: false,
+    finish: true,
   },
   // {
   //   index: 107,
