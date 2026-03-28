@@ -1070,4 +1070,14 @@ export const movieList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 106,
+    title: 'Inside the Manosphere',
+    platform: 'Netflix',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/inside-the-manosphere_rglrqi.jpg',
+    end: '2026-03-18',
+    rating: '',
+    finish: true,
+  },
 ];
