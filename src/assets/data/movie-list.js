@@ -1080,4 +1080,24 @@ export const movieList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 107,
+    title: 'I Don\'t Feel at Home in This World Anymore',
+    platform: '',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/i-dont-feel-at-home-in-this-world-anymore_d8fmbq.jpg',
+    end: '2026-03-29',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 108,
+    title: 'Wristcutters: A Love Story',
+    platform: '',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/wristcutters-a-love-story_mwkbfq.jpg',
+    end: '2026-03-29',
+    rating: '',
+    finish: true,
+  },
 ];
