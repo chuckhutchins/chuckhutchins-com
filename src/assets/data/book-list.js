@@ -1681,4 +1681,28 @@ export const bookList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 141,
+    title: 'One Piece Vol 8',
+    author: 'Eiichiro Oda',
+    medium: '',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/one-piece-8_s7pkhb.jpg',
+    start: '2026-03-28',
+    end: '2026-03-28',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 142,
+    title: 'One Piece Vol 9',
+    author: 'Eiichiro Oda',
+    medium: '',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/one-piece-9_u5f1yz.jpg',
+    start: '2026-03-28',
+    end: '',
+    rating: '',
+    finish: false,
+  },
 ];
