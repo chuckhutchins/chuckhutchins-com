@@ -1100,4 +1100,14 @@ export const movieList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 109,
+    title: 'The Ballad of Songbirds and Snakes',
+    platform: '',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/the-ballad-of-singbirds-and-snakes_mintxd.jpg',
+    end: '2026-04-28',
+    rating: '',
+    finish: true,
+  },
 ];
