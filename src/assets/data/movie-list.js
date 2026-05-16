@@ -1110,4 +1110,14 @@ export const movieList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 110,
+    title: 'Garden State',
+    platform: '',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/garden-state_b9cnkt.jpg',
+    end: '2026-05-03',
+    rating: '',
+    finish: true,
+  },
 ];
