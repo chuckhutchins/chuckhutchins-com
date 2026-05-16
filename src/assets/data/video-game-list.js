@@ -1396,6 +1396,17 @@ export const videoGameList = [
     rating: 'Like',
     finish: true,
   },
+  {
+    index: 127,
+    title: 'Consume Me',
+    platform: 'Steam',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/consume-me_uu98ud.png',
+    start: '2026-05-08',
+    end: '2026-05-09',
+    rating: 'Like',
+    finish: true,
+  },
   // {
   //   index: 107,
   //   title: 'Persona 3 Reload: Episode Aigis',
