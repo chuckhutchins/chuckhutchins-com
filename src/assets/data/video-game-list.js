@@ -1407,6 +1407,39 @@ export const videoGameList = [
     rating: 'Like',
     finish: true,
   },
+  {
+    index: 128,
+    title: 'Final Fantasy VI',
+    platform: 'Switch 2',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/final-fantasy-6_hgf3gb.png',
+    start: '2026-05-16',
+    end: '',
+    rating: '',
+    finish: false,
+  },
+  {
+    index: 129,
+    title: 'Dragon Quest III HD-2D Remake',
+    platform: 'Switch 2',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/dragon-quest-3-hd-2d-remake_ggtq7h.png',
+    start: '2026-05-30',
+    end: '',
+    rating: '',
+    finish: false,
+  },
+  {
+    index: 130,
+    title: 'Strange Jigsaws',
+    platform: 'Steam',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/strange-jigsaws_nft0y2.png',
+    start: '2026-06-05',
+    end: '',
+    rating: '',
+    finish: false,
+  },
   // {
   //   index: 107,
   //   title: 'Persona 3 Reload: Episode Aigis',

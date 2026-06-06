@@ -1120,4 +1120,64 @@ export const movieList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 111,
+    title: 'People We Meet on Vacation',
+    platform: 'Netflix',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/people-we-meet-on-vacation_i6jpko.jpg',
+    end: '2026-05-30',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 112,
+    title: 'Submarine',
+    platform: '',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/submarine_ievlxb.jpg',
+    end: '2026-05-31',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 113,
+    title: 'Sing Street',
+    platform: '',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/sing-street_wpqifu.jpg',
+    end: '2026-05-31',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 114,
+    title: 'Lady Bird',
+    platform: '',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/lady-bird_rpy7za.jpg',
+    end: '2026-05-31',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 115,
+    title: 'The Holdovers',
+    platform: '',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/the-holdovers_n7hlgi.jpg',
+    end: '2026-05-31',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 116,
+    title: 'Better Living Through Chemistry',
+    platform: '',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/better-living-through-chemistry_vvkte1.jpg',
+    end: '2026-06-01',
+    rating: '',
+    finish: true,
+  },
 ];

@@ -1749,9 +1749,9 @@ export const bookList = [
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/what-i-mean-when-i-say-im-autistic_nigp3l.jpg',
     start: '2026-05-04',
-    end: '',
+    end: '2026-05-04',
     rating: '',
-    finish: false,
+    finish: true,
   },
   {
     index: 147,
@@ -1796,9 +1796,33 @@ export const bookList = [
     medium: 'Kindle',
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/a-parade-of-horribles_c5pbye.jpg',
-    start: '2026-04-26',
-    end: '',
+    start: '2026-05-15',
+    end: '2026-05-27',
+    rating: 'Like',
+    finish: true,
+  },
+  {
+    index: 151,
+    title: 'I Am Not a Robot',
+    author: 'Joanna Stern',
+    medium: 'Kindle',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/i-am-not-a-robot_py2lw3.jpg',
+    start: '2026-05-16',
+    end: '2026-05-18',
+    rating: 'Like',
+    finish: true,
+  },
+  {
+    index: 152,
+    title: 'How to Make a Video Game All By Yourself',
+    author: 'Matt Hackett',
+    medium: 'Kindle',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/how-to-make-a-video-game-all-by-yourself_wu00hp.jpg',
+    start: '2026-06-04',
+    end: '2026-06-05',
     rating: '',
-    finish: false,
+    finish: true,
   },
 ];
