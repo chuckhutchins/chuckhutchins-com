@@ -1180,4 +1180,14 @@ export const movieList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 117,
+    title: 'Project Hail Mary',
+    platform: 'Theater',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/project-hail-mary_kkceve.jpg',
+    end: '2026-06-21',
+    rating: '',
+    finish: true,
+  },
 ];
