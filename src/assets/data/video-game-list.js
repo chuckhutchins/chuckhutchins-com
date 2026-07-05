@@ -1440,6 +1440,17 @@ export const videoGameList = [
     rating: '',
     finish: false,
   },
+  {
+    index: 131,
+    title: 'The Adventures of Elliot: The Millennium Tales',
+    platform: 'Switch 2',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/adventures-of-elliot_uhujsw.png',
+    start: '2026-06-14',
+    end: '2026-06-25',
+    rating: '',
+    finish: true,
+  },
   // {
   //   index: 107,
   //   title: 'Persona 3 Reload: Episode Aigis',
