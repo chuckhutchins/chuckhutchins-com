@@ -3923,4 +3923,52 @@ export const tvShowList = [
     rating: '',
     finish: false,
   },
+  {
+    index: 328,
+    title: 'Widow\'s Bay',
+    season: '1',
+    platform: '',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/widows-bay_syfnln.jpg',
+    start: '2026-06-14',
+    end: '2026-06-19',
+    rating: 'Like',
+    finish: true,
+  },
+  {
+    index: 329,
+    title: 'Smartypants',
+    season: '3',
+    platform: 'Dropout',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/smartypants_duczt0.jpg',
+    start: '2026-06-15',
+    end: '',
+    rating: '',
+    finish: false,
+  },
+  {
+    index: 330,
+    title: 'A Knight of the Seven Kingdoms',
+    season: '1',
+    platform: '',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/a-knight-of-the-seven-kingdoms_xtpwlg.jpg',
+    start: '2026-06-16',
+    end: '',
+    rating: '',
+    finish: false,
+  },
+  {
+    index: 331,
+    title: 'How to Change Your Mind',
+    season: '1',
+    platform: 'Netflix',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/how-to-change-your-mind_oez9nc.jpg',
+    start: '2026-06-28',
+    end: '',
+    rating: '',
+    finish: false,
+  },
 ];
