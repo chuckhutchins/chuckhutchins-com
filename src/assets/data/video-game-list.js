@@ -1451,6 +1451,17 @@ export const videoGameList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 132,
+    title: 'Moonlight Peaks',
+    platform: 'Switch 2',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/moonlight-peaks_xawmtg.png',
+    start: '2026-07-07',
+    end: '',
+    rating: '',
+    finish: false,
+  },
   // {
   //   index: 107,
   //   title: 'Persona 3 Reload: Episode Aigis',

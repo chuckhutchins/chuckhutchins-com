@@ -3955,9 +3955,9 @@ export const tvShowList = [
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/a-knight-of-the-seven-kingdoms_xtpwlg.jpg',
     start: '2026-06-16',
-    end: '',
-    rating: '',
-    finish: false,
+    end: '2026-07-16',
+    rating: 'Like',
+    finish: true,
   },
   {
     index: 331,
@@ -3967,8 +3967,8 @@ export const tvShowList = [
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/how-to-change-your-mind_oez9nc.jpg',
     start: '2026-06-28',
-    end: '',
+    end: '2026-07-05',
     rating: '',
-    finish: false,
+    finish: true,
   },
 ];
