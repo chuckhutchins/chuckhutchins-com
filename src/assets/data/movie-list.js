@@ -1190,4 +1190,14 @@ export const movieList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 118,
+    title: 'Jeff Arcuri: Nice to Meet You',
+    platform: 'Netflix',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/jess-arcuri-nice-to-meet-you_zwibkn.jpg',
+    end: '2026-07-07',
+    rating: '',
+    finish: true,
+  },
 ];
