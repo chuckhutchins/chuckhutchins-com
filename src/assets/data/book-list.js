@@ -1981,4 +1981,28 @@ export const bookList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 166,
+    title: 'Self-Care for Autistic People',
+    author: 'Megan Anna Neff',
+    medium: 'Kindle',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/self-care-for-autistic-people_rk6y2u.jpg',
+    start: '2026-07-18',
+    end: '',
+    rating: '',
+    finish: false,
+  },
+  {
+    index: 167,
+    title: 'Four Thousand Weeks',
+    author: 'Oliver Burkeman',
+    medium: 'Kindle',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/four-thousand-weeks_rudrzh.jpg',
+    start: '2026-07-21',
+    end: '2026-07-31',
+    rating: 'Like',
+    finish: true,
+  },
 ];

@@ -3971,4 +3971,28 @@ export const tvShowList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 332,
+    title: 'Witch Hat Atelier',
+    season: '1',
+    platform: '',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/witch-hat-atelier_pjguiu.jpg',
+    start: '2026-07-19',
+    end: '2026-07-21',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 333,
+    title: 'The Ghost in the Shell',
+    season: '1',
+    platform: '',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/the-ghost-in-the-shell_fcqt5q.jpg',
+    start: '2026-07-21',
+    end: '',
+    rating: '',
+    finish: false,
+  },
 ];
