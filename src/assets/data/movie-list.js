@@ -1200,4 +1200,44 @@ export const movieList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 119,
+    title: 'Me and You and Everyone We Know',
+    platform: '',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/me-and-you-and-everyone-we-know_gmql9g.jpg',
+    end: '2026-08-09',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 120,
+    title: 'Elizabethtown',
+    platform: '',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/elizabethtown_sloqqv.jpg',
+    end: '2026-08-09',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 121,
+    title: 'The Prestige',
+    platform: '',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/the-prestige_l30yyn.jpg',
+    end: '2026-08-16',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 122,
+    title: 'Hundreds of Beavers',
+    platform: '',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/hundreds-of-beavers_k7dty0.jpg',
+    end: '2026-08-18',
+    rating: '',
+    finish: true,
+  },
 ];

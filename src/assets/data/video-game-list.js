@@ -1462,6 +1462,28 @@ export const videoGameList = [
     rating: '',
     finish: false,
   },
+  {
+    index: 133,
+    title: 'Fields of Mistria',
+    platform: 'Steam',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/fields-of-mistria_zwleiq.png',
+    start: '2026-08-08',
+    end: '',
+    rating: '',
+    finish: false,
+  },
+  {
+    index: 134,
+    title: 'The Mermaid Mask',
+    platform: 'Switch 2',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/the-mermaid-mask_qmiluj.png',
+    start: '2026-08-21',
+    end: '',
+    rating: '',
+    finish: false,
+  },
   // {
   //   index: 107,
   //   title: 'Persona 3 Reload: Episode Aigis',
