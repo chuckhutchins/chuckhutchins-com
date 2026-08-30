@@ -2005,4 +2005,52 @@ export const bookList = [
     rating: 'Like',
     finish: true,
   },
+  {
+    index: 168,
+    title: 'You Can Just Do Things',
+    author: 'Cate Hall, Sasha Chapin',
+    medium: 'Kindle',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/you-can-just-do-things_mbygfq.jpg',
+    start: '2026-08-02',
+    end: '2026-08-09',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 169,
+    title: 'Watcher of the Void',
+    author: 'Michael G Manning',
+    medium: 'Kindle',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/watcher-of-the-void_un5rhx.jpg',
+    start: '2026-08-09',
+    end: '',
+    rating: '',
+    finish: false,
+  },
+  {
+    index: 170,
+    title: 'The Anthropocene Reviewed',
+    author: 'John Green',
+    medium: 'Kindle',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/the-anthropocene-reviewed_mawrk7.jpg',
+    start: '2026-08-16',
+    end: '2026-08-25',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 171,
+    title: 'How to Clean Everything',
+    author: 'Ann Russell',
+    medium: 'Kindle',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/how-to-clean-everything_jmo9b7.jpg',
+    start: '2026-08-27',
+    end: '2026-08-29',
+    rating: '',
+    finish: true,
+  },
 ];
