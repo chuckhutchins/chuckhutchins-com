@@ -1989,9 +1989,9 @@ export const bookList = [
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/self-care-for-autistic-people_rk6y2u.jpg',
     start: '2026-07-18',
-    end: '',
+    end: '2026-09-02',
     rating: '',
-    finish: false,
+    finish: true,
   },
   {
     index: 167,
