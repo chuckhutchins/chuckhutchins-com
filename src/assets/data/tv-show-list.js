@@ -3995,4 +3995,16 @@ export const tvShowList = [
     rating: '',
     finish: false,
   },
+  {
+    index: 334,
+    title: 'This Is a Gardening Show',
+    season: '1',
+    platform: 'Netflix',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/this-is-a-gardening-show_nmqtvs.jpg',
+    start: '2026-08-30',
+    end: '2026-08-30',
+    rating: 'Like',
+    finish: true,
+  },
 ];
