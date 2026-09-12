@@ -1240,4 +1240,14 @@ export const movieList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 123,
+    title: 'Weird: The Al-Yankovich Story',
+    platform: '',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/weird-the-al-yankovich-story_bvjdal.jpg',
+    end: '2026-09-06',
+    rating: '',
+    finish: true,
+  },
 ];
