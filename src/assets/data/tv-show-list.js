@@ -3847,9 +3847,9 @@ export const tvShowList = [
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/parlor_room_rfanvn.jpg',
     start: '2026-04-05',
-    end: '',
+    end: '2026-09-07',
     rating: '',
-    finish: false,
+    finish: true,
   },
   {
     index: 322,
@@ -4005,6 +4005,30 @@ export const tvShowList = [
     start: '2026-08-30',
     end: '2026-08-30',
     rating: 'Like',
+    finish: true,
+  },
+  {
+    index: 335,
+    title: 'Chainsmoker Cat',
+    season: '1',
+    platform: 'Netflix',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/chainsmoker-cat_bxwnut.jpg',
+    start: '2026-09-06',
+    end: '',
+    rating: '',
+    finish: false,
+  },
+  {
+    index: 336,
+    title: 'Tires',
+    season: '1',
+    platform: 'Netflix',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/tires_bjov5p.jpg',
+    start: '2026-09-08',
+    end: '2026-09-11',
+    rating: '',
     finish: true,
   },
 ];
