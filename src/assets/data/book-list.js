@@ -2053,4 +2053,16 @@ export const bookList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 172,
+    title: 'Unmasking Autism',
+    author: '',
+    medium: 'Kindle',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/unmasking-autism_itvrkd.jpg',
+    start: '2026-09-07',
+    end: '',
+    rating: '',
+    finish: false,
+  },
 ];
