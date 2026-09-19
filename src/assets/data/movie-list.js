@@ -1250,4 +1250,14 @@ export const movieList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 123,
+    title: 'The Odyssey',
+    platform: 'Theater',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/the-odyssey_vqqjra.jpg',
+    end: '2026-09-15',
+    rating: '',
+    finish: true,
+  },
 ];

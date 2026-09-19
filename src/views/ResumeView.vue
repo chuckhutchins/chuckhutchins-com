@@ -10,7 +10,7 @@
         <h3>Senior Front-End Developer</h3>
         <ul>
           <li>Sedgwick</li>
-          <li>2023&ndash;Present</li>
+          <li>2023&ndash;2026</li>
         </ul>
         <ul class="list">
           <li>Supported the development and rewriting of legacy desktop software into web-based applications by
