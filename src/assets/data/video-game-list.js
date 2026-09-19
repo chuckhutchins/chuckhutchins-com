@@ -1484,6 +1484,28 @@ export const videoGameList = [
     rating: '',
     finish: false,
   },
+  {
+    index: 135,
+    title: 'Final Fantasy VII Rebirth',
+    platform: 'PS5',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/final-fantasy-7-rebirth_lyfwnz.png',
+    start: '2026-09-14',
+    end: '',
+    rating: '',
+    finish: false,
+  },
+  {
+    index: 136,
+    title: 'Fire Emblem: Fortune\'s Weave',
+    platform: 'Switch 2',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/fire-emblem-fortunes-weave_pvp1ep.png',
+    start: '2026-09-17',
+    end: '',
+    rating: '',
+    finish: false,
+  },
   // {
   //   index: 107,
   //   title: 'Persona 3 Reload: Episode Aigis',
