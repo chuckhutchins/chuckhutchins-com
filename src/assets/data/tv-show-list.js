@@ -3919,9 +3919,9 @@ export const tvShowList = [
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/game-changer_r54yjy.jpg',
     start: '2026-05-18',
-    end: '',
-    rating: '',
-    finish: false,
+    end: '2026-09-21',
+    rating: 'Like',
+    finish: true,
   },
   {
     index: 328,

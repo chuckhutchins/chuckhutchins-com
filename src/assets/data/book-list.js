@@ -2025,9 +2025,9 @@ export const bookList = [
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/watcher-of-the-void_un5rhx.jpg',
     start: '2026-08-09',
-    end: '',
+    end: '2026-09-23',
     rating: '',
-    finish: false,
+    finish: true,
   },
   {
     index: 170,
@@ -2056,11 +2056,23 @@ export const bookList = [
   {
     index: 172,
     title: 'Unmasking Autism',
-    author: '',
+    author: 'Devon Price',
     medium: 'Kindle',
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/unmasking-autism_itvrkd.jpg',
     start: '2026-09-07',
+    end: '2026-09-22',
+    rating: 'Dislike',
+    finish: true,
+  },
+  {
+    index: 172,
+    title: 'Neuromancer',
+    author: 'William Gibson',
+    medium: 'Kindle',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/neuromancer_bskgyr.jpg',
+    start: '2026-09-24',
     end: '',
     rating: '',
     finish: false,
