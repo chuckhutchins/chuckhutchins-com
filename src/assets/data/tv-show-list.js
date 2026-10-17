@@ -3991,9 +3991,9 @@ export const tvShowList = [
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/the-ghost-in-the-shell_fcqt5q.jpg',
     start: '2026-07-21',
-    end: '',
+    end: '2026-10-14',
     rating: '',
-    finish: false,
+    finish: true,
   },
   {
     index: 334,
@@ -4025,10 +4025,22 @@ export const tvShowList = [
     season: '1',
     platform: 'Netflix',
     image:
-      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/tires_bjov5p.jpg',
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/tires-1_mozdaw.jpg',
     start: '2026-09-08',
     end: '2026-09-11',
     rating: '',
     finish: true,
+  },
+  {
+    index: 337,
+    title: 'Make Some Noise',
+    season: '5',
+    platform: 'Dropout',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/make-some-noise-4_eksmgq.jpg',
+    start: '2025-10-05',
+    end: '',
+    rating: '',
+    finish: false,
   },
 ];
