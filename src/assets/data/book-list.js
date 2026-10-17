@@ -2066,13 +2066,25 @@ export const bookList = [
     finish: true,
   },
   {
-    index: 172,
+    index: 173,
     title: 'Neuromancer',
     author: 'William Gibson',
     medium: 'Kindle',
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/neuromancer_bskgyr.jpg',
     start: '2026-09-24',
+    end: '2026-10-13',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 174,
+    title: 'Stumbling on Happiness',
+    author: 'Daniel Gilbert',
+    medium: 'Kindle',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/stumbling-on-happiness_fknssq.jpg',
+    start: '2026-10-14',
     end: '',
     rating: '',
     finish: false,

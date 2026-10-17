@@ -1425,7 +1425,7 @@ export const videoGameList = [
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/dragon-quest-3-hd-2d-remake_ggtq7h.png',
     start: '2026-05-30',
-    end: '',
+    end: '2026-05-30',
     rating: '',
     finish: false,
   },
@@ -1458,7 +1458,7 @@ export const videoGameList = [
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/moonlight-peaks_xawmtg.png',
     start: '2026-07-07',
-    end: '',
+    end: '2026-08-03',
     rating: '',
     finish: false,
   },

@@ -1251,12 +1251,42 @@ export const movieList = [
     finish: true,
   },
   {
-    index: 123,
+    index: 124,
     title: 'The Odyssey',
     platform: 'Theater',
     image:
       'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/the-odyssey_vqqjra.jpg',
     end: '2026-09-15',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 125,
+    title: 'Zombies 4: Dawn of the Vampires',
+    platform: 'Theater',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/zombies-4-dawn-of-the-vampires_e5yc5v.jpg',
+    end: '2026-10-01',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 126,
+    title: 'Resident Evil',
+    platform: 'Theater',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/resident-evil_yze6bk.jpg',
+    end: '2026-10-07',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 127,
+    title: 'The History of Concrete',
+    platform: 'Theater',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/the-history-of-concrete_f79y1q.jpg',
+    end: '2026-10-10',
     rating: '',
     finish: true,
   },
