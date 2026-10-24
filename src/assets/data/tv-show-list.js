@@ -4015,9 +4015,9 @@ export const tvShowList = [
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/chainsmoker-cat_bxwnut.jpg',
     start: '2026-09-06',
-    end: '',
+    end: '2026-10-18',
     rating: '',
-    finish: false,
+    finish: true,
   },
   {
     index: 336,
@@ -4039,6 +4039,18 @@ export const tvShowList = [
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/make-some-noise-4_eksmgq.jpg',
     start: '2025-10-05',
+    end: '',
+    rating: '',
+    finish: false,
+  },
+  {
+    index: 338,
+    title: 'Silo',
+    season: '3',
+    platform: 'Apple TV',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/silo-3_kiokgp.jpg',
+    start: '2025-10-23',
     end: '',
     rating: '',
     finish: false,

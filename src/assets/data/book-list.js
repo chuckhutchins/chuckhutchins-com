@@ -2085,6 +2085,18 @@ export const bookList = [
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/stumbling-on-happiness_fknssq.jpg',
     start: '2026-10-14',
+    end: '2026-10-21',
+    rating: 'Dislike',
+    finish: false,
+  },
+  {
+    index: 175,
+    title: 'What I Know About Running Coffee Shops',
+    author: '',
+    medium: 'Kindle',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/what-i-know-about-running-coffee-shops_ll0hgw.jpg',
+    start: '2026-10-22',
     end: '',
     rating: '',
     finish: false,
