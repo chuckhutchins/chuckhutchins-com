@@ -2092,11 +2092,47 @@ export const bookList = [
   {
     index: 175,
     title: 'What I Know About Running Coffee Shops',
-    author: '',
+    author: 'Colin Harmon',
     medium: 'Kindle',
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/what-i-know-about-running-coffee-shops_ll0hgw.jpg',
     start: '2026-10-22',
+    end: '10-26-2026',
+    rating: 'Like',
+    finish: true,
+  },
+  {
+    index: 176,
+    title: 'Hollywood, Ending',
+    author: 'John Green',
+    medium: 'Kindle',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/hollywood-ending_it7osv.jpg',
+    start: '2026-10-27',
+    end: '2026-11-01',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 177,
+    title: 'The Mossheart\'s Promise',
+    author: 'Rebecca Mix',
+    medium: 'Libby',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/the-mosshearts-promise_gjcoyk.jpg',
+    start: '2026-10-28',
+    end: '',
+    rating: '',
+    finish: false,
+  },
+  {
+    index: 178,
+    title: 'A Deadly Education',
+    author: 'Naomi Novik',
+    medium: 'Libby',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/a-deadly-education_vvdlhp.jpg',
+    start: '2026-10-30',
     end: '',
     rating: '',
     finish: false,
