@@ -1290,4 +1290,44 @@ export const movieList = [
     rating: '',
     finish: true,
   },
+  {
+    index: 128,
+    title: 'You Can See Everything',
+    platform: 'Theater',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/you-can-see-everything_l5kfnv.jpg',
+    end: '2026-10-25',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 129,
+    title: 'Scary Movie',
+    platform: '',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/scary-movie_vx7bkk.jpg',
+    end: '2026-10-25',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 130,
+    title: 'Scary Movie 2',
+    platform: '',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/scary-movie-2_hkuwym.jpg',
+    end: '2026-10-27',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 131,
+    title: 'Scary Movie 3',
+    platform: '',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/v1688729406/chuckhutchins/movies/scary-movie-3_vspibi.jpg',
+    end: '2026-10-27',
+    rating: '',
+    finish: true,
+  },
 ];
