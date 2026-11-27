@@ -6,10 +6,39 @@
         started.</p>
       <p>Please use Amazon as a last resort. They're really kind of the worst, but I understand that shipping is a
         killer from each individual place.</p>
+      <p>It's 2026, and man things are expensive. As an update, go ahead and use Amazon. I'll even link there. Stuff is
+        expensive.</p>
     </div>
     <TheHr />
     <div>
       <ul class="list">
+        <li>Tobacco &amp; Oakmoss Soap (probably 5 or 6 bars) <a
+          href="https://cellardoorbathsupply.com/collections/the-black-collection/products/tobacco-oakmoss-bar-soap"
+          target="_blank">Cellar
+          Door Bath Supply</a>
+        </li>
+        <li>Snowdonia Black Bomber Cheddar <a
+          href="https://www.dorothylane.com/item/snowdoniacheesecoblackbomberextramaturecheddar" target="_blank">Dorothy
+          Lane</a></li>
+        <li>Coffee, For Here <a
+          href="https://bookshop.org/p/books/coffee-for-here-morgan-eckroth/b37b4c408792e72b?ean=9798217035366&bkshp-astro=t"
+          target="_blank">Bookshop.org</a></li>
+        <li>Stick/Immersion Blender (detachable head/body, jar-sized head, aiming for 600W motor but like I'm no pro or
+          anything so I trust everyone else's knowledge/budget more)
+        </li>
+        <li>Engineer PZ-58 Screw Extractor <a
+          href="https://www.amazon.com/ENGINEER-PZ-58-Extractor-Combination-fasteners/dp/B002L6HJAA" target="_blank">Amazon</a>
+        </li>
+        <li>Mercer Renaissance 8" Chef's Knife <a
+          href="https://www.amazon.com/Mercer-Culinary-M23510-Renaissance-8-Inch/dp/B002R1CGV6?sr=8-39" target="_blank">Amazon</a>
+        </li>
+        <li>Mercer Knife Guard <a href="https://www.amazon.com/Mercer-Culinary-Knife-Guard-Inch/dp/B005P0OSTO?sr=8-1"
+                                  target="_blank">Amazon</a></li>
+        <li>Handheld Eraser <a
+          href="https://blackwing602.com/products/blackwing-handheld-eraser-and-holder?variant=43544757895356"
+          target="_blank">Blackwing</a></li>
+        <li></li>
+        <li></li>
         <li>[PENDING] Carhartt beanie (black) with the badge removed, but have stitching that says "ope." or "oof." or
           "ouch." or something
         </li>
@@ -19,6 +48,7 @@
     <div>
       <h2>Changelog</h2>
       <ul class="list">
+        <li>2026-11-27 &ndash; Added items for birthday/Christmas. [asdf, asdf, asdf]</li>
         <li>2025-12-27 &ndash; Removed items received for Christmas. [Pie Crust Bag, Spice Measuring Spoons, Pie
           Carrier, Colander that spans over the sink, Hip pack thing in black, Cool Evil Cat Print]
         </li>
