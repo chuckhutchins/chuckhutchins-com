@@ -2129,12 +2129,24 @@ export const bookList = [
     index: 178,
     title: 'A Deadly Education',
     author: 'Naomi Novik',
-    medium: 'Libby',
+    medium: 'Libby/Kindle',
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/a-deadly-education_vvdlhp.jpg',
     start: '2026-10-30',
     end: '',
     rating: '',
     finish: false,
+  },
+  {
+    index: 179,
+    title: 'Textbook Amy Krouse Rosenthal',
+    author: 'Amy Krouse Rosenthal',
+    medium: 'Kindle',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/textbook-amy-krouse-rosenthal_mtx3in.jpg',
+    start: '2026-11-02',
+    end: '2026-11-05',
+    rating: '',
+    finish: true,
   },
 ];
