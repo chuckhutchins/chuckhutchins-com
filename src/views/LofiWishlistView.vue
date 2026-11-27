@@ -12,6 +12,7 @@
     <TheHr />
     <div>
       <ul class="list">
+        <li>Starbucks Gift Card</li>
         <li>Tobacco &amp; Oakmoss Soap (probably 5 or 6 bars) <a
           href="https://cellardoorbathsupply.com/collections/the-black-collection/products/tobacco-oakmoss-bar-soap"
           target="_blank">Cellar
@@ -37,8 +38,6 @@
         <li>Handheld Eraser <a
           href="https://blackwing602.com/products/blackwing-handheld-eraser-and-holder?variant=43544757895356"
           target="_blank">Blackwing</a></li>
-        <li></li>
-        <li></li>
         <li>[PENDING] Carhartt beanie (black) with the badge removed, but have stitching that says "ope." or "oof." or
           "ouch." or something
         </li>
@@ -48,7 +47,11 @@
     <div>
       <h2>Changelog</h2>
       <ul class="list">
-        <li>2026-11-27 &ndash; Added items for birthday/Christmas. [asdf, asdf, asdf]</li>
+        <li>2026-11-27 &ndash; Added items for birthday/Christmas. [Starbucks Gift Card, Tobacco &amp; Oakmoss Soap,
+          Snowdonia Black Bomber
+          Cheddar, Coffee For Here, Stick/Immersion Blender, Engineer PZ-58 Screw Extractor, Mercer Renaissance 8"
+          Chef's Knife, Mercer Knife Guard, Handheld Eraser]
+        </li>
         <li>2025-12-27 &ndash; Removed items received for Christmas. [Pie Crust Bag, Spice Measuring Spoons, Pie
           Carrier, Colander that spans over the sink, Hip pack thing in black, Cool Evil Cat Print]
         </li>
