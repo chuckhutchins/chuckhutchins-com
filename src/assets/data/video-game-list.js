@@ -1513,6 +1513,28 @@ export const videoGameList = [
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/the-legend-of-zelda-ocarina-of-time_npr1sr.png',
     start: '2026-11-05',
+    end: '2026-11-07',
+    rating: 'Like',
+    finish: true,
+  },
+  {
+    index: 138,
+    title: 'Escape Academy 2',
+    platform: 'PS5',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/escape-academy-2_pmz6fj.png',
+    start: '2026-11-08',
+    end: '',
+    rating: '',
+    finish: false,
+  },
+  {
+    index: 139,
+    title: 'Grand Theft Auto 6',
+    platform: 'PS5',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1688421140/chuckhutchins/video-games/grand-theft-auto-6_yegmf7.png',
+    start: '2026-11-20',
     end: '',
     rating: '',
     finish: false,
