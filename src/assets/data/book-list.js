@@ -2133,9 +2133,9 @@ export const bookList = [
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/a-deadly-education_vvdlhp.jpg',
     start: '2026-10-30',
-    end: '',
-    rating: '',
-    finish: false,
+    end: '2026-11-10',
+    rating: 'Like',
+    finish: true,
   },
   {
     index: 179,
@@ -2148,5 +2148,41 @@ export const bookList = [
     end: '2026-11-05',
     rating: '',
     finish: true,
+  },
+  {
+    index: 180,
+    title: 'The Irish Good bye',
+    author: 'Beth Ann Fennelly',
+    medium: 'Kindle',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/the-irish-goodbye_zvo9ix.jpg',
+    start: '2026-11-07',
+    end: '2026-11-08',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 181,
+    title: 'Born a Crime',
+    author: 'Trevor Noah',
+    medium: 'Kindle',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/born-a-crime_ralyby.jpg',
+    start: '2026-11-10',
+    end: '2026-11-18',
+    rating: '',
+    finish: true,
+  },
+  {
+    index: 182,
+    title: 'The Last Graduate',
+    author: 'Naomi Novik',
+    medium: 'Kindle',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto,w_315,h_475,c_pad,b_auto:predominant/v1688472121/chuckhutchins/books/the-last-graduate_vpm2kp.jpg',
+    start: '2026-11-22',
+    end: '',
+    rating: '',
+    finish: false,
   },
 ];

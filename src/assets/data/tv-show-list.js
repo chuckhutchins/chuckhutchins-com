@@ -1981,7 +1981,7 @@ export const tvShowList = [
   },
   {
     index: 166,
-    title: 'Cyberpunk Edgerunners',
+    title: 'Cyberpunk: Edgerunners',
     season: '1',
     platform: 'Netflix',
     image:
@@ -3385,7 +3385,7 @@ export const tvShowList = [
   },
   {
     index: 283,
-    title: 'Great British Baking Show',
+    title: 'The Great British Baking Show',
     season: '15',
     platform: 'Netflix',
     image:
@@ -3421,7 +3421,7 @@ export const tvShowList = [
   },
   {
     index: 286,
-    title: 'Great British Baking Show: Holidays',
+    title: 'The Great British Baking Show: Holidays',
     season: '7',
     platform: 'Netflix',
     image:
@@ -4038,7 +4038,7 @@ export const tvShowList = [
     platform: 'Dropout',
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/make-some-noise-4_eksmgq.jpg',
-    start: '2025-10-05',
+    start: '2026-10-05',
     end: '',
     rating: '',
     finish: false,
@@ -4050,9 +4050,57 @@ export const tvShowList = [
     platform: 'Apple TV',
     image:
       'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/silo-3_kiokgp.jpg',
-    start: '2025-10-23',
+    start: '2026-10-23',
     end: '',
     rating: '',
     finish: false,
+  },
+  {
+    index: 339,
+    title: 'Mp3',
+    season: '1',
+    platform: 'Dropout',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/mp3_jggnvd.jpg',
+    start: '2026-11-13',
+    end: '',
+    rating: '',
+    finish: false,
+  },
+  {
+    index: 340,
+    title: 'The Great British Baking Show',
+    season: '17',
+    platform: 'Netflix',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/the-great-british-baking-show_tpgtth.jpg',
+    start: '2026-11-14',
+    end: '',
+    rating: '',
+    finish: false,
+  },
+  {
+    index: 341,
+    title: 'Cyberpunk: Edgerunners',
+    season: '2',
+    platform: 'Netflix',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/cyberpunk-edgerunners-2_ntyzgf.jpg',
+    start: '2026-11-15',
+    end: '',
+    rating: '',
+    finish: false,
+  },
+  {
+    index: 342,
+    title: 'Cunk on Cinema',
+    season: '1',
+    platform: 'Netflix',
+    image:
+      'https://res.cloudinary.com/innocent/image/upload/f_auto/v1615146654/chuckhutchins/tv-shows/cunk-on-cinema_rjo6af.jpg',
+    start: '2026-11-24',
+    end: '2026-11-24',
+    rating: 'Like',
+    finish: true,
   },
 ];
